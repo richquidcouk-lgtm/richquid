@@ -1,23 +1,18 @@
 import Link from 'next/link'
-
-export interface Tool {
-  slug: string
-  title: string
-  description: string
-  status: 'live' | 'coming-soon'
-  icon?: string
-}
+import type { Tool } from '@/lib/tools'
 
 export default function ToolCard({ tool }: { tool: Tool }) {
   const isLive = tool.status === 'live'
   const Wrapper: React.ElementType = isLive ? Link : 'div'
   const wrapperProps = isLive ? { href: `/tools/${tool.slug}` } : {}
+  const Icon = tool.icon
 
   return (
     <Wrapper
       {...wrapperProps}
-      className={`group flex h-full flex-col rounded-lg border border-rule bg-white p-5 transition-shadow ${isLive ? 'hover:shadow-sm cursor-pointer' : 'opacity-95'}`}
+      className={`group flex h-full flex-col rounded-lg border border-rule bg-white p-8 transition-shadow ${isLive ? 'hover:shadow-sm cursor-pointer' : 'opacity-95'}`}
     >
+      <Icon className="mb-5 h-7 w-7 text-[color:var(--green)]" strokeWidth={1.5} aria-hidden="true" />
       <div className="metadata mb-3">
         {isLive ? (
           <span className="inline-block rounded-full bg-[color:var(--gold-soft)] px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wider text-[color:var(--gold)]">
