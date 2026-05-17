@@ -1,0 +1,2 @@
+Placeholder for /public/favicon.ico — replace with a real favicon before
+launch. A simple "R" in #0F4F3A on a #FAFAF7 square works for v1.

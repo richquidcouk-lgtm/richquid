@@ -1,0 +1,4 @@
+Placeholder for /public/og.png — drop a 1200x630 PNG here before deploying.
+Suggested content: "RichQuid · Smart money tools for everyday Brits" on the
+warm off-white background (#FAFAF7) with the wordmark in Fraunces serif,
+"Quid" highlighted in #0F4F3A.
