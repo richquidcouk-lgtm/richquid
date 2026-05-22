@@ -3,16 +3,20 @@ export type Category =
   | 'Cashback'
   | 'Energy Bills'
   | 'ISAs'
+  | 'Mortgages'
   | 'Pensions'
   | 'Savings'
+  | 'Tax'
 
 export const CATEGORIES: Category[] = [
   'Budgeting',
   'Cashback',
   'Energy Bills',
   'ISAs',
+  'Mortgages',
   'Pensions',
   'Savings',
+  'Tax',
 ]
 
 export interface GuideMeta {
