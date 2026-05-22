@@ -46,6 +46,11 @@ export const metadata: Metadata = {
   },
   alternates: { canonical: '/' },
   robots: { index: true, follow: true },
+  verification: {
+    other: {
+      'msvalidate.01': 'E0AA4BAEBA7006748D1F8712548C6C2B',
+    },
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
