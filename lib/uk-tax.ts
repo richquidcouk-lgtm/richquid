@@ -4,6 +4,7 @@
  */
 
 export const TAX_YEAR = '2025/26'
+export const CALC_LAST_REVIEWED = '2026-05-22'
 
 // --- Income tax (rest of UK: England, Wales, NI) ----------------------------
 

@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { TOOLS, getTool } from '@/lib/tools'
 import AffiliateDisclosure from '@/components/AffiliateDisclosure'
+import { CALC_LAST_REVIEWED, TAX_YEAR } from '@/lib/uk-tax'
 import IsaAllowanceTracker from '@/components/calculators/IsaAllowanceTracker'
 import SalarySacrificeCalculator from '@/components/calculators/SalarySacrificeCalculator'
 import EmergencyFundCalculator from '@/components/calculators/EmergencyFundCalculator'
@@ -14,6 +15,8 @@ import CgtDividendCalculator from '@/components/calculators/CgtDividendCalculato
 import StudentLoanCalculator from '@/components/calculators/StudentLoanCalculator'
 
 type Props = { params: { tool: string } }
+
+const SITE_URL = process.env.SITE_URL || 'https://www.richquid.co.uk'
 
 export async function generateStaticParams() {
   return TOOLS.map(t => ({ tool: t.slug }))
@@ -48,8 +51,27 @@ export default function ToolPage({ params }: Props) {
   const Calculator = CALCULATORS[tool.slug]
   const isLive = tool.status === 'live' && Calculator
 
+  const jsonLd = isLive ? {
+    '@context': 'https://schema.org',
+    '@type': 'SoftwareApplication',
+    name: tool.title,
+    description: tool.description,
+    applicationCategory: 'FinanceApplication',
+    operatingSystem: 'Any',
+    url: `${SITE_URL}/tools/${tool.slug}`,
+    publisher: { '@type': 'Organization', name: 'RichQuid', url: SITE_URL },
+    offers: { '@type': 'Offer', price: 0, priceCurrency: 'GBP' },
+    inLanguage: 'en-GB',
+  } : null
+
   return (
     <article className="mx-auto max-w-4xl px-5 py-16 sm:px-8">
+      {jsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      )}
       <header className="mb-10 border-b border-rule pb-8">
         <p className="metadata mb-3 uppercase tracking-[0.2em] text-[color:var(--gold)]">Calculator</p>
         <h1 className="font-serif-display text-[clamp(34px,5vw,52px)] leading-[1.05]">{tool.title}</h1>
@@ -71,12 +93,12 @@ export default function ToolPage({ params }: Props) {
         </section>
       )}
 
-      <div className="mt-12 flex items-center justify-between border-t border-rule pt-6">
+      <div className="mt-12 flex flex-wrap items-center justify-between gap-3 border-t border-rule pt-6">
         <Link href="/tools" className="metadata text-[color:var(--green)] underline-offset-4 hover:underline">
           ← All calculators
         </Link>
         <p className="metadata text-[12.5px] text-[color:var(--ink-3)]">
-          Educational only. Not personal financial advice.
+          Tax year {TAX_YEAR} · Last reviewed {new Date(CALC_LAST_REVIEWED).toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })} · Educational only, not personal financial advice
         </p>
       </div>
 

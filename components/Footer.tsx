@@ -8,6 +8,7 @@ const COLS: Array<{ title: string; links: Array<{ href: string; label: string; e
     links: [
       { href: '/about', label: 'About RichQuid' },
       { href: '/start-here', label: 'Start here' },
+      { href: '/methodology', label: 'Methodology' },
       { href: '/contact', label: 'Contact us' },
     ],
   },

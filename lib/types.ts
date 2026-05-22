@@ -24,6 +24,7 @@ export interface GuideMeta {
   title: string
   excerpt: string
   publishedAt: string  // ISO date string
+  updatedAt?: string   // optional ISO date — last editorial review
   category: Category
   author: string
   readTime: number     // minutes

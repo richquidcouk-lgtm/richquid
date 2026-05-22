@@ -54,6 +54,24 @@ export const metadata: Metadata = {
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const organizationJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'RichQuid',
+    url: SITE_URL,
+    logo: `${SITE_URL}/og.png`,
+    description: 'UK personal finance — guides, calculators and clear thinking on ISAs, pensions, salary sacrifice, savings, tax and mortgages.',
+    sameAs: [],
+  }
+  const websiteJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'RichQuid',
+    url: SITE_URL,
+    inLanguage: 'en-GB',
+    publisher: { '@type': 'Organization', name: 'RichQuid' },
+  }
+
   return (
     <html lang="en-GB" className={`${serif.variable} ${sans.variable}`}>
       <head>
@@ -69,6 +87,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gtag('config', '${GA_ID}');
           `}
         </Script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
       </head>
       <body>
         <Header />

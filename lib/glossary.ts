@@ -8,6 +8,8 @@
  * but the definition shouldn't have to.
  */
 
+export const GLOSSARY_LAST_REVIEWED = '2026-05-22'
+
 export interface GlossaryTerm {
   /** Display term, e.g. "AER (Annual Equivalent Rate)". */
   term: string

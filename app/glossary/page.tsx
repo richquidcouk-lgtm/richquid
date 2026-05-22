@@ -1,6 +1,14 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { GLOSSARY, groupByLetter } from '@/lib/glossary'
+import { GLOSSARY, GLOSSARY_LAST_REVIEWED, groupByLetter } from '@/lib/glossary'
+
+const SITE_URL = process.env.SITE_URL || 'https://www.richquid.co.uk'
+
+function formatReviewed(iso: string): string {
+  const d = new Date(iso)
+  if (Number.isNaN(d.getTime())) return iso
+  return d.toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })
+}
 
 export const metadata: Metadata = {
   title: 'UK personal finance glossary',
@@ -14,8 +22,28 @@ export default function GlossaryPage() {
   const grouped = groupByLetter()
   const presentLetters = ALPHABET.filter(l => grouped[l] && grouped[l].length > 0)
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTermSet',
+    name: 'UK personal finance glossary',
+    url: `${SITE_URL}/glossary`,
+    inLanguage: 'en-GB',
+    publisher: { '@type': 'Organization', name: 'RichQuid', url: SITE_URL },
+    hasDefinedTerm: GLOSSARY.map(t => ({
+      '@type': 'DefinedTerm',
+      '@id': `${SITE_URL}/glossary#${t.slug}`,
+      name: t.term,
+      description: t.short,
+      inDefinedTermSet: `${SITE_URL}/glossary`,
+    })),
+  }
+
   return (
     <article className="mx-auto max-w-4xl px-5 py-12 sm:px-8 sm:py-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <header className="border-b border-rule pb-8">
         <p className="metadata mb-3 uppercase tracking-[0.2em] text-[color:var(--green)]">Reference</p>
         <h1 className="font-serif-display text-[clamp(34px,5vw,52px)] leading-[1.05]">
@@ -25,7 +53,7 @@ export default function GlossaryPage() {
           Plain-English definitions of the terms that come up most in UK personal finance. Cross-linked, cited from HMRC, the FCA and gov.uk where applicable.
         </p>
         <p className="metadata mt-4 text-[13px] text-[color:var(--ink-3)]">
-          {GLOSSARY.length} terms
+          {GLOSSARY.length} terms · Last reviewed {formatReviewed(GLOSSARY_LAST_REVIEWED)}
         </p>
       </header>
 

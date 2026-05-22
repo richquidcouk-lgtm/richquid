@@ -63,9 +63,11 @@ export default function GuidePage({ params }: Props) {
     headline: guide.title,
     description: guide.excerpt,
     datePublished: guide.publishedAt,
+    ...(guide.updatedAt ? { dateModified: guide.updatedAt } : {}),
     author: { '@type': 'Person', name: guide.author },
     publisher: { '@type': 'Organization', name: 'RichQuid', url: SITE_URL },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE_URL}/guides/${guide.slug}` },
+    articleSection: guide.category,
   }
 
   return (
@@ -83,7 +85,13 @@ export default function GuidePage({ params }: Props) {
           <p className="metadata mt-5 text-[14px]">
             By <span className="text-[color:var(--ink-2)]">{guide.author}</span>
             <span aria-hidden> · </span>
-            <time dateTime={guide.publishedAt}>{formatDate(guide.publishedAt)}</time>
+            <time dateTime={guide.publishedAt}>Published {formatDate(guide.publishedAt)}</time>
+            {guide.updatedAt && guide.updatedAt !== guide.publishedAt && (
+              <>
+                <span aria-hidden> · </span>
+                <time dateTime={guide.updatedAt}>Updated {formatDate(guide.updatedAt)}</time>
+              </>
+            )}
             <span aria-hidden> · </span>
             {guide.readTime} min read
           </p>
