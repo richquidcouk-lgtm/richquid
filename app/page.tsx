@@ -26,10 +26,10 @@ export default function HomePage() {
               id="hero-heading"
               className="font-serif-display rq-rise text-[clamp(36px,6vw,72px)] leading-[1.04]"
             >
-              Smart money tools <span className="italic text-[color:var(--green)]">for everyday Brits.</span>
+              UK personal finance, <span className="italic text-[color:var(--green)]">in plain English.</span>
             </h1>
             <p className="mt-6 max-w-[580px] text-[18px] leading-[1.65] text-[color:var(--ink-2)]">
-              We build calculators and write guides that show you the maths behind the financial decisions that matter — ISAs, pensions, salary sacrifice, emergency funds. No advice, no fluff. Just clear numbers.
+              Guides and calculators on the money decisions that actually matter — ISAs, pensions, salary sacrifice, savings, tax, mortgages. No advice, no sales pitch, just clear numbers and the maths shown.
             </p>
             <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3">
               <Link
