@@ -1,6 +1,8 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
+import { useStateFromUrl } from '@/lib/url-state'
+import ShareButton from './ShareButton'
 
 const PA_BASE = 12570
 const BASIC_LIMIT = 50270
@@ -57,8 +59,8 @@ function formatGBP(n: number, dp = 0): string {
 }
 
 export default function SalarySacrificeCalculator() {
-  const [salary, setSalary] = useState('45000')
-  const [sacrificePct, setSacrificePct] = useState('5')
+  const [salary, setSalary] = useStateFromUrl('salary', '45000')
+  const [sacrificePct, setSacrificePct] = useStateFromUrl('pct', '5')
 
   const result = useMemo(() => {
     const gross = parseAmount(salary)
@@ -96,7 +98,10 @@ export default function SalarySacrificeCalculator() {
 
   return (
     <section className="rounded-lg border border-rule bg-white p-6 sm:p-8">
-      <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">2025/26 tax year · England, Wales &amp; NI</p>
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">2025/26 tax year · England, Wales &amp; NI</p>
+        <ShareButton />
+      </div>
 
       <div className="mt-4 grid gap-8 lg:grid-cols-2">
         <div className="space-y-5">

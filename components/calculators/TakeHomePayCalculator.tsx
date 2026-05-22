@@ -1,21 +1,27 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import {
   TAX_YEAR, formatGBP, parseAmount,
   incomeTax, employeeNI,
   studentLoanRepayment,
   STUDENT_LOAN, type StudentLoanPlan,
 } from '@/lib/uk-tax'
+import { useStateFromUrl } from '@/lib/url-state'
+import ShareButton from './ShareButton'
 
 type PensionMode = 'none' | 'salary-sacrifice' | 'relief-at-source'
 
 export default function TakeHomePayCalculator() {
-  const [salary, setSalary] = useState('40000')
-  const [scotland, setScotland] = useState(false)
-  const [pensionMode, setPensionMode] = useState<PensionMode>('salary-sacrifice')
-  const [pensionPct, setPensionPct] = useState('5')
-  const [studentPlan, setStudentPlan] = useState<StudentLoanPlan | 'none'>('none')
+  const [salary, setSalary] = useStateFromUrl('salary', '40000')
+  const [scotlandStr, setScotlandStr] = useStateFromUrl('scotland', 'false')
+  const scotland = scotlandStr === 'true'
+  const setScotland = (v: boolean) => setScotlandStr(v ? 'true' : 'false')
+  const [pensionMode, setPensionModeStr] = useStateFromUrl('pension', 'salary-sacrifice')
+  const setPensionMode = (m: PensionMode) => setPensionModeStr(m)
+  const [pensionPct, setPensionPct] = useStateFromUrl('pct', '5')
+  const [studentPlan, setStudentPlanStr] = useStateFromUrl('loan', 'none')
+  const setStudentPlan = (p: StudentLoanPlan | 'none') => setStudentPlanStr(p)
 
   const result = useMemo(() => {
     const gross = parseAmount(salary)
@@ -28,7 +34,7 @@ export default function TakeHomePayCalculator() {
 
     const tax = incomeTax(taxableGross, scotland)
     const ni = employeeNI(taxableGross)
-    const loanRepay = studentPlan === 'none' ? 0 : studentLoanRepayment(taxableGross, studentPlan)
+    const loanRepay = studentPlan === 'none' ? 0 : studentLoanRepayment(taxableGross, studentPlan as StudentLoanPlan)
 
     const pensionFromNet = pensionMode === 'relief-at-source' ? pensionContribution * 0.80 : 0
     const takeHome = taxableGross - tax - ni - loanRepay - pensionFromNet
@@ -41,7 +47,10 @@ export default function TakeHomePayCalculator() {
 
   return (
     <section className="rounded-lg border border-rule bg-white p-6 sm:p-8">
-      <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">{TAX_YEAR} tax year</p>
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">{TAX_YEAR} tax year</p>
+        <ShareButton />
+      </div>
 
       <div className="mt-4 grid gap-8 lg:grid-cols-2">
         <div className="space-y-5">

@@ -17,6 +17,7 @@ const COLS: Array<{ title: string; links: Array<{ href: string; label: string; e
       { href: '/tools', label: 'All calculators' },
       { href: '/guides', label: 'All guides' },
       { href: '/best-savings-rates', label: 'UK savings rates map' },
+      { href: '/glossary', label: 'UK money glossary' },
     ],
   },
   {

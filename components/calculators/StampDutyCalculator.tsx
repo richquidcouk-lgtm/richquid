@@ -1,7 +1,9 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { formatGBP, parseAmount } from '@/lib/uk-tax'
+import { useStateFromUrl } from '@/lib/url-state'
+import ShareButton from './ShareButton'
 
 type Region = 'england' | 'scotland' | 'wales'
 
@@ -81,10 +83,16 @@ function withSurcharge(bands: Band[], surcharge: number): Band[] {
 }
 
 export default function StampDutyCalculator() {
-  const [region, setRegion] = useState<Region>('england')
-  const [price, setPrice] = useState('300000')
-  const [firstTimeBuyer, setFirstTimeBuyer] = useState(false)
-  const [additional, setAdditional] = useState(false)
+  const [regionStr, setRegionStr] = useStateFromUrl('region', 'england')
+  const region = regionStr as Region
+  const setRegion = (r: Region) => setRegionStr(r)
+  const [price, setPrice] = useStateFromUrl('price', '300000')
+  const [ftbStr, setFtbStr] = useStateFromUrl('ftb', 'false')
+  const firstTimeBuyer = ftbStr === 'true'
+  const setFirstTimeBuyer = (v: boolean) => setFtbStr(v ? 'true' : 'false')
+  const [addStr, setAddStr] = useStateFromUrl('add', 'false')
+  const additional = addStr === 'true'
+  const setAdditional = (v: boolean) => setAddStr(v ? 'true' : 'false')
 
   const result = useMemo(() => {
     const p = parseAmount(price)
@@ -126,7 +134,10 @@ export default function StampDutyCalculator() {
 
   return (
     <section className="rounded-lg border border-rule bg-white p-6 sm:p-8">
-      <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">Residential property tax</p>
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">Residential property tax</p>
+        <ShareButton />
+      </div>
 
       <div className="mt-4 grid gap-8 lg:grid-cols-[1fr_360px]">
         <div className="space-y-5">

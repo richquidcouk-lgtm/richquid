@@ -1,7 +1,9 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { formatGBP, parseAmount, incomeTax, employeeNI } from '@/lib/uk-tax'
+import { useStateFromUrl } from '@/lib/url-state'
+import ShareButton from './ShareButton'
 
 function monthlyPayment(principal: number, annualRate: number, years: number): number {
   if (principal <= 0) return 0
@@ -12,14 +14,14 @@ function monthlyPayment(principal: number, annualRate: number, years: number): n
 }
 
 export default function MortgageAffordabilityCalculator() {
-  const [income1, setIncome1] = useState('45000')
-  const [income2, setIncome2] = useState('')
-  const [debts, setDebts] = useState('0')
-  const [deposit, setDeposit] = useState('30000')
-  const [ltiMultiple, setLtiMultiple] = useState('4.5')
-  const [rate, setRate] = useState('4.5')
-  const [stressRate, setStressRate] = useState('8')
-  const [term, setTerm] = useState('25')
+  const [income1, setIncome1] = useStateFromUrl('inc1', '45000')
+  const [income2, setIncome2] = useStateFromUrl('inc2', '')
+  const [debts, setDebts] = useStateFromUrl('debts', '0')
+  const [deposit, setDeposit] = useStateFromUrl('dep', '30000')
+  const [ltiMultiple, setLtiMultiple] = useStateFromUrl('lti', '4.5')
+  const [rate, setRate] = useStateFromUrl('rate', '4.5')
+  const [stressRate, setStressRate] = useStateFromUrl('stress', '8')
+  const [term, setTerm] = useStateFromUrl('term', '25')
 
   const result = useMemo(() => {
     const i1 = parseAmount(income1)
@@ -60,7 +62,10 @@ export default function MortgageAffordabilityCalculator() {
 
   return (
     <section className="rounded-lg border border-rule bg-white p-6 sm:p-8">
-      <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">Borrowing power + stress test</p>
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">Borrowing power + stress test</p>
+        <ShareButton />
+      </div>
 
       <div className="mt-4 grid gap-8 lg:grid-cols-2">
         <div className="space-y-5">

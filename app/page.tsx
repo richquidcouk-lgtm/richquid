@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { ArrowRight, Eye, Scale, ShieldCheck } from 'lucide-react'
 import ArticleCard from '@/components/ArticleCard'
 import NewsletterInline from '@/components/NewsletterInline'
+import UkSnapshotStrip from '@/components/UkSnapshotStrip'
 import { getAllGuideMeta } from '@/lib/mdx'
 import { getFeaturedTools } from '@/lib/tools'
 
@@ -63,6 +64,9 @@ export default function HomePage() {
           Built by data engineers <span className="mx-2 text-[color:var(--gold)]">·</span> Written for real people <span className="mx-2 text-[color:var(--gold)]">·</span> Updated for 2026
         </p>
       </section>
+
+      {/* ─── 2.5 UK MONEY SNAPSHOT ───────────────────────────────────────── */}
+      <UkSnapshotStrip />
 
       {/* ─── 3. FEATURED TOOLS ───────────────────────────────────────────── */}
       <section className="bg-white" aria-labelledby="tools-heading">
