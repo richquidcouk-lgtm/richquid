@@ -6,6 +6,12 @@ import AffiliateDisclosure from '@/components/AffiliateDisclosure'
 import IsaAllowanceTracker from '@/components/calculators/IsaAllowanceTracker'
 import SalarySacrificeCalculator from '@/components/calculators/SalarySacrificeCalculator'
 import EmergencyFundCalculator from '@/components/calculators/EmergencyFundCalculator'
+import TakeHomePayCalculator from '@/components/calculators/TakeHomePayCalculator'
+import StampDutyCalculator from '@/components/calculators/StampDutyCalculator'
+import MortgageAffordabilityCalculator from '@/components/calculators/MortgageAffordabilityCalculator'
+import SelfAssessmentEstimator from '@/components/calculators/SelfAssessmentEstimator'
+import CgtDividendCalculator from '@/components/calculators/CgtDividendCalculator'
+import StudentLoanCalculator from '@/components/calculators/StudentLoanCalculator'
 
 type Props = { params: { tool: string } }
 
@@ -27,6 +33,12 @@ const CALCULATORS: Record<string, React.ComponentType> = {
   'isa-allowance-tracker': IsaAllowanceTracker,
   'salary-sacrifice-calculator': SalarySacrificeCalculator,
   'emergency-fund-calculator': EmergencyFundCalculator,
+  'take-home-pay-calculator': TakeHomePayCalculator,
+  'stamp-duty-calculator': StampDutyCalculator,
+  'mortgage-affordability-calculator': MortgageAffordabilityCalculator,
+  'self-assessment-tax-estimator': SelfAssessmentEstimator,
+  'capital-gains-dividend-tax-calculator': CgtDividendCalculator,
+  'student-loan-calculator': StudentLoanCalculator,
 }
 
 export default function ToolPage({ params }: Props) {
