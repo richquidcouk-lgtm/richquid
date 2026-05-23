@@ -7,6 +7,8 @@ import { getAllGuideMeta, getGuide, getRelatedGuides } from '@/lib/mdx'
 import AffiliateDisclosure from '@/components/AffiliateDisclosure'
 import Newsletter from '@/components/Newsletter'
 import ArticleCard from '@/components/ArticleCard'
+import { breadcrumbListSchema, faqPageSchema, extractFaqPairs } from '@/lib/schema'
+import { categorySlug } from '@/lib/types'
 
 type Props = { params: { slug: string } }
 
@@ -57,7 +59,7 @@ export default function GuidePage({ params }: Props) {
 
   const related = getRelatedGuides(guide.slug, 3)
 
-  const jsonLd = {
+  const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: guide.title,
@@ -70,9 +72,23 @@ export default function GuidePage({ params }: Props) {
     articleSection: guide.category,
   }
 
+  const breadcrumbSchema = breadcrumbListSchema([
+    { name: 'Home', url: '/' },
+    { name: 'Guides', url: '/guides' },
+    { name: guide.category, url: `/guides/category/${categorySlug(guide.category)}` },
+    { name: guide.title },
+  ])
+
+  const faqPairs = extractFaqPairs(guide.content)
+  const faqSchema = faqPairs.length >= 2 ? faqPageSchema(faqPairs) : null
+
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      {faqSchema && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      )}
 
       <article className="mx-auto max-w-prose px-5 py-12 sm:px-0 sm:py-16">
         <Link href="/guides" className="metadata mb-6 inline-block text-[13px] text-[color:var(--green)] underline-offset-4 hover:underline">

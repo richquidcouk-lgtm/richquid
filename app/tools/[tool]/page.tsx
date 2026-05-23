@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation'
 import { TOOLS, getTool } from '@/lib/tools'
 import AffiliateDisclosure from '@/components/AffiliateDisclosure'
 import { CALC_LAST_REVIEWED, TAX_YEAR } from '@/lib/uk-tax'
+import { breadcrumbListSchema } from '@/lib/schema'
 import IsaAllowanceTracker from '@/components/calculators/IsaAllowanceTracker'
 import SalarySacrificeCalculator from '@/components/calculators/SalarySacrificeCalculator'
 import EmergencyFundCalculator from '@/components/calculators/EmergencyFundCalculator'
@@ -51,6 +52,12 @@ export default function ToolPage({ params }: Props) {
   const Calculator = CALCULATORS[tool.slug]
   const isLive = tool.status === 'live' && Calculator
 
+  const breadcrumbSchema = breadcrumbListSchema([
+    { name: 'Home', url: '/' },
+    { name: 'Tools', url: '/tools' },
+    { name: tool.title },
+  ])
+
   const jsonLd = isLive ? {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
@@ -72,6 +79,10 @@ export default function ToolPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <header className="mb-10 border-b border-rule pb-8">
         <p className="metadata mb-3 uppercase tracking-[0.2em] text-[color:var(--gold)]">Calculator</p>
         <h1 className="font-serif-display text-[clamp(34px,5vw,52px)] leading-[1.05]">{tool.title}</h1>

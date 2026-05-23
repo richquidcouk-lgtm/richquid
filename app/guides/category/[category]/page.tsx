@@ -9,6 +9,7 @@ import {
   categoryFromSlug,
   categorySlug,
 } from '@/lib/types'
+import { breadcrumbListSchema } from '@/lib/schema'
 
 type Props = { params: { category: string } }
 
@@ -43,6 +44,12 @@ export default function CategoryPage({ params }: Props) {
   const guides = getAllGuideMeta().filter(g => g.category === category)
   const intro = CATEGORY_META[category].intro
 
+  const breadcrumbSchema = breadcrumbListSchema([
+    { name: 'Home', url: '/' },
+    { name: 'Guides', url: '/guides' },
+    { name: category },
+  ])
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
@@ -65,6 +72,10 @@ export default function CategoryPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
       <header className="mx-auto max-w-3xl px-5 py-16 text-center sm:px-8 sm:py-20">
