@@ -9,7 +9,9 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "postbuild": "next-sitemap"
+    "postbuild": "next-sitemap",
+    "indexnow": "node scripts/submit-indexnow.js",
+    "indexnow:dry": "node scripts/submit-indexnow.js --dry-run"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
