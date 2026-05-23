@@ -9,7 +9,7 @@ source_keyword: "do I pay tax on money sent from abroad to the UK"
 
 It depends on **what the money is**. Transferring your own existing savings to the UK is **not taxable** — it&rsquo;s a movement of capital, not income. But income earned overseas while you&rsquo;re UK tax resident **is taxable** in the UK on the arising basis, with the old remittance basis (the &ldquo;non-dom&rdquo; system) abolished from 6 April 2025 and replaced by the 4-year Foreign Income and Gains (FIG) regime.
 
-This is the full picture for 2025/26, with worked examples for the most common cases.
+This is the full picture for 2026/27, with worked examples for the most common cases.
 
 ## What HMRC actually taxes
 
@@ -75,7 +75,7 @@ The UK has tax treaties with most major countries. Treaties typically:
 
 A worked sequence:
 
-- You earn £10,000 of Indian rental income while UK resident in 2025/26.
+- You earn £10,000 of Indian rental income while UK resident in 2026/27.
 - India taxes that rental income at Indian rates.
 - The UK also taxes it at your UK marginal rate.
 - You claim a credit on your UK Self Assessment for the Indian tax paid.
@@ -103,11 +103,11 @@ Penalties for late or incorrect returns can be significant — particularly for 
 
 Emily moves to the UK from Australia on 1 October 2025 to take a UK job. Her position:
 
-- **First UK tax year**: 2025/26.
+- **First UK tax year**: 2026/27.
 - **Status under FIG**: she hasn&rsquo;t been UK resident in the last 10 years, so she qualifies for the 4-year FIG exemption.
 - **Transfers brought with her**: AUD 80,000 from Australian savings, equivalent to ~£42,000 (at AUD 1 = £0.53). Not taxable — capital, not income.
 - **UK salary**: £55,000 — taxed in the UK as normal.
-- **Australian rental income** during 2025/26 (post-arrival period): under FIG, this is exempt from UK tax for the first 4 years. Australia still taxes it.
+- **Australian rental income** during 2026/27 (post-arrival period): under FIG, this is exempt from UK tax for the first 4 years. Australia still taxes it.
 - **Australian dividends from existing share portfolio**: exempt under FIG for 4 years.
 
 After 4 years (from 2029/30), Emily would be on worldwide taxation. She might choose to restructure her Australian holdings before then to optimise tax.

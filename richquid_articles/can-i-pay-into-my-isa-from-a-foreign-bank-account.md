@@ -9,7 +9,7 @@ source_keyword: "can I pay into my ISA from a foreign bank account"
 
 In most cases, no. UK ISA providers usually require deposits from a **UK bank account held in your name**, both for anti-money-laundering reasons and to verify your UK residence. A direct transfer from a foreign account is rarely accepted, even if you&rsquo;re still UK resident for tax purposes. The fix is to transfer money to your UK bank account first, then fund the ISA from there.
 
-There&rsquo;s also a deeper question hiding underneath: are you actually eligible to subscribe to an ISA at all? This piece covers both the practical mechanics and the underlying rules for the 2025/26 tax year.
+There&rsquo;s also a deeper question hiding underneath: are you actually eligible to subscribe to an ISA at all? This piece covers both the practical mechanics and the underlying rules for the 2026/27 tax year.
 
 ## Why providers insist on UK bank deposits
 
@@ -72,7 +72,7 @@ Most challenger banks (Monzo, Starling, Revolut UK entity, Chase UK) are accepte
 
 ## Worked example: arriving on a UK visa with savings in India
 
-Vikram moves to the UK on a Health and Care Worker visa in May 2025. He has £25,000 of savings in a Mumbai bank account. By the time he establishes his UK residence in July 2025, he wants to use his 2025/26 ISA allowance.
+Vikram moves to the UK on a Health and Care Worker visa in May 2025. He has £25,000 of savings in a Mumbai bank account. By the time he establishes his UK residence in July 2025, he wants to use his 2026/27 ISA allowance.
 
 His route:
 
@@ -81,7 +81,7 @@ His route:
 3. **Apply for an ISA** with a UK provider — for example, a stocks &amp; shares ISA on a low-fee platform. He provides UK address, NI number and the UK bank account as funding source.
 4. **Transfer £20,000 to the ISA** via Faster Payments from the UK current account. Same-day, free.
 
-The remittance to the UK bank account is separate from the ISA contribution — only the £20,000 into the ISA uses any of his 2025/26 allowance.
+The remittance to the UK bank account is separate from the ISA contribution — only the £20,000 into the ISA uses any of his 2026/27 allowance.
 
 A common question: does moving money from India to the UK trigger UK tax? Generally no — moving your own existing savings is not income. Income earned abroad while UK resident is a separate question, covered in our [remittance guide](/do-i-pay-tax-on-money-sent-from-abroad-to-the-uk/).
 

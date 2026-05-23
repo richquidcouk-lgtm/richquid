@@ -1,5 +1,5 @@
 ---
-meta_title: "Do I Pay Tax on Selling on Vinted UK? (2025/26)"
+meta_title: "Do I Pay Tax on Selling on Vinted UK? (2026/27)"
 meta_description: "Selling your own used items isn't taxable. Selling for profit or buying-to-resell is trading and over £1,000 must be declared. The Vinted reporting rule explained."
 pillar: "Tax and side income"
 source_keyword: "do I pay tax on selling things on Vinted UK"

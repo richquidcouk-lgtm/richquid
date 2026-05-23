@@ -9,7 +9,7 @@ source_keyword: "how does remortgaging work and when should I do it"
 
 Remortgaging means **switching your mortgage to a new product or lender** — usually for a better rate when your fixed-rate deal ends. Start the process **6 months before** your fix expires; most lenders allow you to lock in a new deal up to 6 months ahead. You can either do a **product transfer** (stay with the same lender, minimal paperwork, no legal fees) or a **full remortgage** (switch lenders, often better rates, but more admin and fees). For most borrowers, the difference between &ldquo;remortgaging well&rdquo; and &ldquo;drifting onto the SVR&rdquo; is hundreds of pounds per month.
 
-This is the full process and the decision framework for 2025/26.
+This is the full process and the decision framework for 2026/27.
 
 ## When to start the remortgaging process
 

@@ -9,7 +9,7 @@ source_keyword: "how does premium bonds work and are they worth it"
 
 Premium Bonds are an NS&I savings product where each **£1 bond** enters you into a monthly **tax-free prize draw**. The current **prize fund rate is around 3.8%** (subject to change) — meaning NS&I pays out roughly that percentage of all bond holdings in prizes each year, ranging from **£25 to £1,000,000**. Premium Bonds are **100% backed by HM Treasury** with no FSCS £85,000 cap. Maximum holding is **£50,000** per person. Returns vary significantly — most holders earn slightly less than the prize fund rate; a few win much more. They&rsquo;re most useful for higher-rate taxpayers above their ISA allowance, savers with funds above £85k FSCS protection, or those who enjoy the prize-draw aspect.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## What Premium Bonds actually are
 
@@ -33,7 +33,7 @@ The product is different from regular savings:
 
 Each month NS&I uses a random number generator called **ERNIE (Electronic Random Number Indicator Equipment)** to pick winning bond numbers.
 
-Prize tiers (2025/26):
+Prize tiers (2026/27):
 
 - **2 jackpots of £1,000,000**.
 - Smaller prizes from £100,000 down to £25.
@@ -45,14 +45,14 @@ The total prizes per month equal approximately the &ldquo;prize fund rate&rdquo;
 
 ## The prize fund rate
 
-The prize fund rate is the percentage of total bond holdings paid out in prizes each year. For 2025/26 it&rsquo;s approximately **3.8%**. [VERIFY: confirm current prize rate with NS&I.]
+The prize fund rate is the percentage of total bond holdings paid out in prizes each year. For 2026/27 it&rsquo;s approximately **3.8%**. [VERIFY: confirm current prize rate with NS&I.]
 
 Historical context (approximate):
 
 - 2020-2021: around 1.4% (very low — alongside historically low interest rates).
 - 2023: rose to 4% as broader interest rates rose.
 - 2024: peaked at around 4.65%.
-- 2025/26: around 3.8% as wider rates began to fall.
+- 2026/27: around 3.8% as wider rates began to fall.
 
 The rate changes with broader savings market conditions. NS&I sets it based on what they think is competitive.
 

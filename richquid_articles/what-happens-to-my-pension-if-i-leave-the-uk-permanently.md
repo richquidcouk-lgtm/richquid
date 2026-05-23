@@ -9,7 +9,7 @@ source_keyword: "what happens to my pension if I leave the UK permanently"
 
 If you leave the UK permanently, your UK pension stays open and remains invested under UK pension rules. You can keep contributing within tighter limits for up to five tax years after departure, take benefits from age 55 (rising to 57 from 2028) regardless of where you live, and choose between drawing the pension from the UK provider or transferring it to a qualifying overseas scheme. Tax depends on the double-tax treaty between the UK and your new country.
 
-This is a walk through how the UK pension survives — and what changes — when you stop being a UK resident. Figures are for the 2025/26 UK tax year.
+This is a walk through how the UK pension survives — and what changes — when you stop being a UK resident. Figures are for the 2026/27 UK tax year.
 
 ## Does my pension close when I leave the UK?
 
@@ -53,7 +53,7 @@ The detailed list is in [HMRC&rsquo;s Tax Treaties guidance](https://www.gov.uk/
 
 ## What about the 25% tax-free lump sum?
 
-In the UK, the first 25% of a defined contribution pension (up to the **Lump Sum Allowance of £268,275** for 2025/26) can be taken tax-free.
+In the UK, the first 25% of a defined contribution pension (up to the **Lump Sum Allowance of £268,275** for 2026/27) can be taken tax-free.
 
 But — and this is critical — **not every country recognises the UK&rsquo;s 25% tax-free treatment.** Some treat the entire pension withdrawal, lump sum and all, as taxable income in your new country.
 

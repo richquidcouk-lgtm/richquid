@@ -1,5 +1,5 @@
 ---
-meta_title: "How to Build an Emergency Fund UK (2025/26)"
+meta_title: "How to Build an Emergency Fund UK (2026/27)"
 meta_description: "Target 3-6 months of essential expenses in instant-access cash. The standard UK approach — accounts, savings rate, and when to dial up to 12 months."
 pillar: "Savings and everyday"
 source_keyword: "how to build an emergency fund UK"
@@ -9,7 +9,7 @@ source_keyword: "how to build an emergency fund UK"
 
 A typical UK emergency fund target is **3 to 6 months of essential monthly expenses** held in **easy-access cash** (cash ISA, easy-access savings account, or premium bonds). Build it gradually by setting aside 10-20% of post-tax income each month into a dedicated account. Don&rsquo;t hold it in stocks (too volatile for emergencies), and don&rsquo;t mix it with day-to-day spending. The fund covers job loss, medical issues, urgent home repairs and similar events that would otherwise force you into expensive credit.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## Why an emergency fund matters
 
@@ -77,7 +77,7 @@ The default for most UK savers:
 
 - Tax-free interest.
 - Withdrawal access usually same-day or next-day.
-- Typical rates 4-5% AER in 2025/26.
+- Typical rates 4-5% AER in 2026/27.
 - Use up your £20,000 annual ISA allowance.
 
 ### Easy-access savings account (non-ISA)

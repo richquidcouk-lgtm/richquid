@@ -9,7 +9,7 @@ source_keyword: "can I transfer my UK pension abroad"
 
 Yes — you can transfer a UK pension to a Qualifying Recognised Overseas Pension Scheme (QROPS) registered with HMRC. But unless the QROPS is in the **same country you&rsquo;re tax-resident in** (or both in the EEA / Gibraltar, with conditions), a **25% Overseas Transfer Charge** applies on the transfer value. For most UK leavers, leaving the pension in the UK and drawing it via a double-tax treaty is simpler and cheaper.
 
-This is the full picture, with 2025/26 UK figures and the post-2024 rules.
+This is the full picture, with 2026/27 UK figures and the post-2024 rules.
 
 ## What is a QROPS?
 
@@ -95,7 +95,7 @@ For most retirees on small-to-medium pots emigrating to a country with a tax tre
 
 ## Worked example: emigrating to Portugal with a £400,000 SIPP
 
-David, 60, emigrates to Portugal permanently in 2025/26. His UK SIPP is worth £400,000.
+David, 60, emigrates to Portugal permanently in 2026/27. His UK SIPP is worth £400,000.
 
 **Option A: Leave the SIPP in the UK.**
 - Apply for treaty relief under the UK–Portugal double tax treaty.

@@ -1,5 +1,5 @@
 ---
-meta_title: "How Much Can I Gift Tax-Free in the UK? (2025/26)"
+meta_title: "How Much Can I Gift Tax-Free in the UK? (2026/27)"
 meta_description: "£3,000 annual gift allowance, £250 small gifts, gifts from regular income, wedding gifts, and the 7-year rule for larger gifts. Inheritance tax explained."
 pillar: "Tax and side income"
 source_keyword: "how much can I gift tax free UK"
@@ -9,7 +9,7 @@ source_keyword: "how much can I gift tax free UK"
 
 UK gift tax (formally **Inheritance Tax** considerations) works on multiple exemptions: a **£3,000 annual exemption** (carry-forward one year if unused, max £6,000 in a single year); **£250 small gifts per person per year**; **wedding gifts** of £5,000 to a child, £2,500 to a grandchild, £1,000 to others; **gifts out of regular income** (no limit if from surplus income not capital); and the **7-year rule** for larger gifts — gifts made more than 7 years before death are completely free of IHT. Gifts to a UK-domiciled spouse or civil partner are unlimited and tax-free.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## The big picture: gifts are about Inheritance Tax
 
@@ -36,7 +36,7 @@ The most straightforward exemption.
 A worked example:
 
 - 2024/25: gave away £1,500 (£1,500 of allowance unused).
-- 2025/26: can give £3,000 (current year) + £1,500 (carry-forward) = £4,500 covered.
+- 2026/27: can give £3,000 (current year) + £1,500 (carry-forward) = £4,500 covered.
 
 Beyond £3,000 per year + one year carry-forward, additional gifts use other exemptions (below) or are potentially exempt transfers (subject to the 7-year rule).
 

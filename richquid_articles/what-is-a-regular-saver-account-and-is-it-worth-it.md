@@ -9,7 +9,7 @@ source_keyword: "what is a regular saver account and is it worth it"
 
 A regular saver account is a UK savings account that pays an **attractive headline interest rate (typically 5-7% AER)** but limits you to a **fixed monthly deposit** (usually £100-£500) and a **maximum total balance** (often £6,000-£10,000). The high headline rate is real but applies to a relatively small running balance — the total interest earned is modest compared to what you might assume. They&rsquo;re most useful for drip-feeding from your monthly salary, less useful for deploying a lump sum.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## How regular saver accounts work
 
@@ -17,7 +17,7 @@ The structure:
 
 - **Fixed monthly deposit**: usually a specific amount (£100, £250, £500). You can&rsquo;t put in more or less.
 - **Maximum balance**: usually £6,000 or £12,000 over 12 months.
-- **Headline AER**: 5-7% for 2025/26 — high vs ordinary savings accounts.
+- **Headline AER**: 5-7% for 2026/27 — high vs ordinary savings accounts.
 - **12-month term**: typically a 12-month product that matures at end-year. After maturity the rate often drops to easy-access levels.
 - **Limited withdrawal**: many regular savers don&rsquo;t allow withdrawals during the 12-month term (or impose penalties).
 

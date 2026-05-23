@@ -1,5 +1,5 @@
 ---
-meta_title: "What Happens to My ISA When I Die? (UK Rules 2025/26)"
+meta_title: "What Happens to My ISA When I Die? (UK Rules 2026/27)"
 meta_description: "ISAs continue tax-free for up to 3 years after death. Spouses inherit an Additional Permitted Subscription (APS) allowance equal to the deceased's ISA value."
 pillar: "ISAs"
 source_keyword: "what happens to my ISA when I die UK"
@@ -9,7 +9,7 @@ source_keyword: "what happens to my ISA when I die UK"
 
 When a UK ISA holder dies, the ISA wrapper continues for up to **three years** (or until the estate is administered if sooner) — interest, dividends and gains during this period remain tax-free. The deceased&rsquo;s **surviving spouse or civil partner** inherits an Additional Permitted Subscription (APS) allowance equal to the higher of the ISA&rsquo;s value at death or at the date of transfer. The underlying funds pass according to the will or intestacy rules and may be subject to Inheritance Tax (40% above the nil-rate band of £325,000).
 
-This is the post-death framework, for the 2025/26 tax year.
+This is the post-death framework, for the 2026/27 tax year.
 
 ## The 3-year continuing ISA wrapper
 
@@ -44,7 +44,7 @@ This means a surviving spouse can effectively keep the family&rsquo;s ISA wealth
 A worked example:
 
 - Sam dies with £150,000 in ISAs. His wife Maria is the sole beneficiary.
-- Maria gets her usual £20,000 ISA allowance for the 2025/26 tax year.
+- Maria gets her usual £20,000 ISA allowance for the 2026/27 tax year.
 - Maria also gets an APS of £150,000 (the value of Sam&rsquo;s ISA at his death).
 - Over the next 3 years, Maria can put £150,000 into her own ISAs over and above the £20,000 annual allowance.
 - The £150,000 effectively returns to a tax-free wrapper in her hands.
@@ -64,7 +64,7 @@ So if you leave £100,000 in an ISA to your adult children, they receive £100,0
 
 ISAs are **not exempt from Inheritance Tax**. The full ISA value forms part of your estate at death.
 
-The IHT framework for 2025/26:
+The IHT framework for 2026/27:
 
 - **Nil-rate band**: £325,000 per person.
 - **Residence nil-rate band**: up to £175,000 when a main home passes to direct descendants.
@@ -94,7 +94,7 @@ A common comparison: pensions are usually outside the estate for IHT, while ISAs
 - Use the **ISA** for funds you need access to, including before pension age.
 - For higher-income earners with large estates, pension may be more efficient for inheritance planning than ISA.
 
-A potential change to watch: there&rsquo;s been ongoing political discussion about whether pensions should be brought into IHT. As of 2025/26, defined contribution pensions remain largely outside IHT (within certain age and lump sum limits). [VERIFY: confirm current pension IHT treatment, particularly any 2024 budget changes.]
+A potential change to watch: there&rsquo;s been ongoing political discussion about whether pensions should be brought into IHT. As of 2026/27, defined contribution pensions remain largely outside IHT (within certain age and lump sum limits). [VERIFY: confirm current pension IHT treatment, particularly any 2024 budget changes.]
 
 ## The practical sequence after death
 

@@ -1,6 +1,6 @@
 ---
-meta_title: "Can I Open an ISA if I'm Not a UK Resident? (2025/26)"
-meta_description: "You must be UK resident for tax purposes to open a new ISA, with one narrow exception for Crown employees. Full eligibility rules under HMRC for 2025/26."
+meta_title: "Can I Open an ISA if I'm Not a UK Resident? (2026/27)"
+meta_description: "You must be UK resident for tax purposes to open a new ISA, with one narrow exception for Crown employees. Full eligibility rules under HMRC for 2026/27."
 pillar: "ISAs"
 source_keyword: "can I open an ISA if I am not a UK resident"
 ---
@@ -9,7 +9,7 @@ source_keyword: "can I open an ISA if I am not a UK resident"
 
 No. To open a new ISA in the UK you must be **resident in the UK for tax purposes** in that tax year, or be a Crown employee serving overseas (or their spouse or civil partner). Visa status alone doesn&rsquo;t qualify you — what matters is meeting HMRC&rsquo;s Statutory Residence Test, and being aged 18 or over for adult ISAs.
 
-There are some narrow exceptions and edge cases that often surprise people. This is the full rule, in plain English, for the 2025/26 tax year.
+There are some narrow exceptions and edge cases that often surprise people. This is the full rule, in plain English, for the 2026/27 tax year.
 
 ## What &ldquo;UK resident&rdquo; actually means for ISA purposes
 
@@ -44,12 +44,12 @@ This exception is documented in HMRC&rsquo;s [ISA manager guidance](https://www.
 
 Even if you meet the residence test, the basic ISA eligibility rules still apply:
 
-- **Adult ISAs (cash, stocks &amp; shares, IFISA)**: you must be aged **18 or over** in 2025/26.
+- **Adult ISAs (cash, stocks &amp; shares, IFISA)**: you must be aged **18 or over** in 2026/27.
 - **Lifetime ISA**: you must be aged **18 to 39 inclusive** to open one; you can keep contributing until 50.
 - **Junior ISA**: held in the child&rsquo;s name from birth to 18; the parent or guardian opens it on the child&rsquo;s behalf.
 - You must have a valid **National Insurance number** (unless under 16, in which case the JISA rules apply).
 
-The annual contribution cap for 2025/26 is **£20,000** across all adult ISA types, with the LISA capped at £4,000 inside that, and **£9,000** for the Junior ISA (separate allowance).
+The annual contribution cap for 2026/27 is **£20,000** across all adult ISA types, with the LISA capped at £4,000 inside that, and **£9,000** for the Junior ISA (separate allowance).
 
 ## What if I open an ISA and then become non-resident mid-year?
 
@@ -69,13 +69,13 @@ Opening an ISA usually requires UK address verification, NI number and (often) a
 
 ## Worked example: Skilled Worker visa arriving in November
 
-Reema arrives on a Skilled Worker visa on 1 November 2025 and lives in the UK continuously thereafter. By 5 April 2026 she has been in the UK for 156 days.
+Reema arrives on a Skilled Worker visa on 1 November 2025 and lives in the UK continuously thereafter. By 5 April 2027 she has been in the UK for 156 days.
 
-- **Automatic UK test (183 days)**: not met for 2025/26.
+- **Automatic UK test (183 days)**: not met for 2026/27.
 - **Sufficient ties test**: she has a UK home, UK employment, and UK family. Combined with 156 days, she meets the 4-tie threshold under the SRT (which requires only 16+ days for arrivers with 4+ ties to be resident).
-- **Conclusion**: she is UK resident for 2025/26. She can open and subscribe to ISAs from arrival onward — up to the full £20,000 annual cap. In her first tax year here, her wrapper allowance is the same as any UK-born resident.
+- **Conclusion**: she is UK resident for 2026/27. She can open and subscribe to ISAs from arrival onward — up to the full £20,000 annual cap. In her first tax year here, her wrapper allowance is the same as any UK-born resident.
 
-If she arrived on 15 February 2026 instead, she&rsquo;d have just 49 days in the 2025/26 year. Without the family/work/home ties tipping her over, she might be non-resident for 2025/26 and only able to open an ISA from 6 April 2026 onward — once 2026/27 starts.
+If she arrived on 15 February 2026 instead, she&rsquo;d have just 49 days in the 2026/27 year. Without the family/work/home ties tipping her over, she might be non-resident for 2026/27 and only able to open an ISA from 6 April 2026 onward — once 2026/27 starts.
 
 ## What happens if I subscribe to an ISA when I&rsquo;m not eligible?
 

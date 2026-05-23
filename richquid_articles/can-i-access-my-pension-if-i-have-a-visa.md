@@ -9,7 +9,7 @@ source_keyword: "can I access my pension if I have a visa"
 
 Yes. Visa status does not affect your right to access a UK pension. Anyone with a UK pension can begin drawing it from the minimum pension age — currently **55, rising to 57 from April 2028** — regardless of immigration status, residence or where they live. What changes for visa holders is the **tax treatment** of those withdrawals and how UK pension income is taxed in any other country where you&rsquo;re also tax-resident.
 
-This is what visa holders need to know about UK pensions, using 2025/26 rules.
+This is what visa holders need to know about UK pensions, using 2026/27 rules.
 
 ## Does visa type affect my pension access?
 
@@ -61,7 +61,7 @@ You can contribute more than £3,600 gross, but no relief applies above that. Mo
 
 If you&rsquo;re on a visa and UK resident under the Statutory Residence Test, your pension withdrawal is taxed under standard UK pension rules:
 
-- **25% can be taken tax-free** (up to the Lump Sum Allowance of £268,275 in 2025/26).
+- **25% can be taken tax-free** (up to the Lump Sum Allowance of £268,275 in 2026/27).
 - **The remaining 75%** is taxed as income at your marginal rate — 0%, 20%, 40%, or 45% — on top of your other income.
 
 So a visa holder earning £40,000 PAYE who takes a £20,000 taxable pension withdrawal:

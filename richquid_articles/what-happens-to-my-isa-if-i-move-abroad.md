@@ -1,5 +1,5 @@
 ---
-meta_title: "What Happens to My ISA if I Move Abroad? (UK 2025/26)"
+meta_title: "What Happens to My ISA if I Move Abroad? (UK 2026/27)"
 meta_description: "If you move abroad your existing UK ISA stays open and tax-free, but you can't keep contributing once you stop being UK resident. The full rules explained."
 pillar: "ISAs"
 source_keyword: "what happens to my ISA if I move abroad"
@@ -9,7 +9,7 @@ source_keyword: "what happens to my ISA if I move abroad"
 
 If you move abroad and stop being UK resident for tax purposes, your existing UK ISA stays open and the interest, dividends and gains inside it stay tax-free under UK rules. You cannot pay new money into it from the tax year after you leave, but the wrapper, the balance and any investments inside it are preserved.
 
-That sounds simple. In practice there are several wrinkles — the tax year you leave matters, the country you move to matters, and the rules for transferring or topping up differ across cash, stocks &amp; shares and Lifetime ISAs. This is a walk through each one, using 2025/26 tax-year rules.
+That sounds simple. In practice there are several wrinkles — the tax year you leave matters, the country you move to matters, and the rules for transferring or topping up differ across cash, stocks &amp; shares and Lifetime ISAs. This is a walk through each one, using 2026/27 tax-year rules.
 
 ## Can I keep my ISA if I leave the UK?
 
@@ -66,9 +66,9 @@ The trickier case is when you remain non-domiciled but UK resident. Until 6 Apri
 
 ## Worked example: leaving the UK partway through the tax year
 
-Anna becomes non-resident from 1 September 2025. By that point in the 2025/26 tax year she has already paid £8,000 into her stocks &amp; shares ISA.
+Anna becomes non-resident from 1 September 2025. By that point in the 2026/27 tax year she has already paid £8,000 into her stocks &amp; shares ISA.
 
-- **For 2025/26**: she is UK resident for part of the year. HMRC accepts the £8,000 of subscriptions made while she was resident. She can subscribe up to a further £12,000 between 6 April 2025 and 31 August 2025 if she chooses — but not after she becomes non-resident.
+- **For 2026/27**: she is UK resident for part of the year. HMRC accepts the £8,000 of subscriptions made while she was resident. She can subscribe up to a further £12,000 between 6 April 2025 and 31 August 2025 if she chooses — but not after she becomes non-resident.
 - **For 2026/27**: she is non-resident for the whole year. No subscriptions allowed.
 - **Existing pot**: continues to grow tax-free under UK rules. The country she has moved to may tax the income.
 - **If she returns to UK residence in, say, 2028/29**: she can subscribe to ISAs again from that year onward, with the standard £20,000 allowance.

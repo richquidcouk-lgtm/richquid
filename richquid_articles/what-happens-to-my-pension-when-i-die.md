@@ -1,5 +1,5 @@
 ---
-meta_title: "What Happens to My Pension When I Die? (UK 2025/26)"
+meta_title: "What Happens to My Pension When I Die? (UK 2026/27)"
 meta_description: "UK DC pensions usually pass outside the estate, IHT-free. Pre-75 deaths: tax-free lump sum to beneficiaries. Post-75: taxed as income. The full rules."
 pillar: "Pensions"
 source_keyword: "what happens to my pension when I die"
@@ -7,9 +7,9 @@ source_keyword: "what happens to my pension when I die"
 
 # What happens to my pension when I die?
 
-If you die before age 75, your UK defined contribution pension typically passes to nominated beneficiaries **tax-free as a lump sum or income**, up to the Lump Sum and Death Benefit Allowance (LSDBA) of £1,073,100 for 2025/26. If you die after 75, the pension is paid to beneficiaries but **taxed as income** at the beneficiary&rsquo;s marginal rate. UK pensions are usually **outside the estate for Inheritance Tax (IHT)**, making them one of the most tax-efficient inheritance vehicles. Defined benefit (DB) pensions usually pay a reduced spouse&rsquo;s pension and a lump sum.
+If you die before age 75, your UK defined contribution pension typically passes to nominated beneficiaries **tax-free as a lump sum or income**, up to the Lump Sum and Death Benefit Allowance (LSDBA) of £1,073,100 for 2026/27. If you die after 75, the pension is paid to beneficiaries but **taxed as income** at the beneficiary&rsquo;s marginal rate. UK pensions are usually **outside the estate for Inheritance Tax (IHT)**, making them one of the most tax-efficient inheritance vehicles. Defined benefit (DB) pensions usually pay a reduced spouse&rsquo;s pension and a lump sum.
 
-This is the framework for 2025/26 — with some changes announced for future years.
+This is the framework for 2026/27 — with some changes announced for future years.
 
 ## The pre-75 death rules
 
@@ -18,7 +18,7 @@ If you die before age 75:
 - **DC pension passes to nominated beneficiaries tax-free**, either as a lump sum or as continuing drawdown income.
 - The transfer must happen within **2 years of death**, or unwanted tax consequences kick in.
 - The amount is capped at the **Lump Sum and Death Benefit Allowance** (LSDBA) of £1,073,100. Excess gets taxed.
-- Pension was historically outside IHT — this remains broadly the case for 2025/26. [VERIFY: confirm any 2024 budget changes affecting pension IHT treatment.]
+- Pension was historically outside IHT — this remains broadly the case for 2026/27. [VERIFY: confirm any 2024 budget changes affecting pension IHT treatment.]
 
 The pension can be paid as:
 
@@ -74,7 +74,7 @@ This treatment makes DC pensions one of the most tax-efficient vehicles for pass
 - Use **ISAs** for accessible saving during your life.
 - Use **pensions** for long-term wealth-passing — funded through tax relief, growing tax-free, passing IHT-free.
 
-Some recent budget announcements have hinted at potential future changes to bring pensions into IHT scope, but as of 2025/26 the position is broadly unchanged. [VERIFY: confirm with HMRC and recent budget announcements.]
+Some recent budget announcements have hinted at potential future changes to bring pensions into IHT scope, but as of 2026/27 the position is broadly unchanged. [VERIFY: confirm with HMRC and recent budget announcements.]
 
 ## Defined benefit (DB) pensions on death
 

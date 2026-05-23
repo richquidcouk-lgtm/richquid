@@ -9,7 +9,7 @@ source_keyword: "what is a flexible ISA and how does it work"
 
 A flexible ISA is a UK ISA where you can **withdraw money during the tax year and replace it later in the same year without using more of your £20,000 allowance**. Normal (non-flexible) ISAs treat each contribution separately — once you&rsquo;ve put £20,000 in, you&rsquo;re done, even if you took some out. Flexibility allows the same allowance to be used twice if you replace what you withdrew before 5 April. Most easy-access cash ISAs and many stocks &amp; shares ISAs are flexible; fixed-rate ISAs almost never are.
 
-This is the full mechanics for the 2025/26 tax year.
+This is the full mechanics for the 2026/27 tax year.
 
 ## How a non-flexible ISA works
 

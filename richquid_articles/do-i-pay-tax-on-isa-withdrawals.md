@@ -1,5 +1,5 @@
 ---
-meta_title: "Do I Pay Tax on ISA Withdrawals? (UK 2025/26)"
+meta_title: "Do I Pay Tax on ISA Withdrawals? (UK 2026/27)"
 meta_description: "No — UK ISA withdrawals are completely tax-free. No income tax, no capital gains tax, no reporting on Self Assessment. The exception is the LISA early-withdrawal penalty."
 pillar: "ISAs"
 source_keyword: "do I pay tax on ISA withdrawals"
@@ -9,7 +9,7 @@ source_keyword: "do I pay tax on ISA withdrawals"
 
 No. UK ISA withdrawals are completely **tax-free in the UK**. There&rsquo;s no income tax on interest received, no capital gains tax on investment growth, and no need to report the money on Self Assessment. The only exception is the **Lifetime ISA early-withdrawal penalty** of 25% on the amount withdrawn for any purpose other than a qualifying first home or after age 60. If you move abroad, the country you live in may tax the withdrawal under its own rules.
 
-This is the full picture for the 2025/26 tax year.
+This is the full picture for the 2026/27 tax year.
 
 ## Why are ISA withdrawals tax-free?
 

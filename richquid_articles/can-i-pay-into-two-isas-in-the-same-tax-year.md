@@ -1,5 +1,5 @@
 ---
-meta_title: "Can I Pay Into Two ISAs in the Same Tax Year? (UK 2025/26)"
+meta_title: "Can I Pay Into Two ISAs in the Same Tax Year? (UK 2026/27)"
 meta_description: "Yes — the rules changed in April 2024. You can pay into multiple ISAs of the same type in the same tax year, provided total contributions don't exceed £20,000."
 pillar: "ISAs"
 source_keyword: "can I pay into two ISAs in the same tax year"
@@ -9,7 +9,7 @@ source_keyword: "can I pay into two ISAs in the same tax year"
 
 Yes. Since 6 April 2024, you can pay into **multiple ISAs of the same type** in the same tax year, including more than one cash ISA, more than one stocks &amp; shares ISA, or any combination. The only constraints are: total contributions across all your adult ISAs can&rsquo;t exceed **£20,000** for the year, the Lifetime ISA is capped at **£4,000** inside that £20,000, and you still can&rsquo;t pay into more than one Lifetime ISA in a single year.
 
-This is the new ISA framework that came in for the 2024/25 tax year, fully bedded in for 2025/26.
+This is the new ISA framework that came in for the 2024/25 tax year, fully bedded in for 2026/27.
 
 ## What changed in April 2024?
 
@@ -44,7 +44,7 @@ The overall annual allowance is unchanged. Adding up all your contributions acro
 - Innovative finance ISAs (any number)
 - Lifetime ISA (max £4,000 within the £20,000)
 
-The sum can&rsquo;t exceed £20,000 for the 2025/26 tax year.
+The sum can&rsquo;t exceed £20,000 for the 2026/27 tax year.
 
 A worked example:
 
@@ -104,7 +104,7 @@ Some things are still the same:
 
 ## Worked example: split contributions across three providers
 
-Mia, a 28-year-old saving for a house deposit, has £20,000 to put into ISAs in 2025/26. Her plan:
+Mia, a 28-year-old saving for a house deposit, has £20,000 to put into ISAs in 2026/27. Her plan:
 
 - **£4,000** into Lifetime ISA at Provider A (locked in for first-home / age 60). Gets £1,000 bonus.
 - **£5,000** into Cash ISA at Provider B, paying ~4.5% easy access.

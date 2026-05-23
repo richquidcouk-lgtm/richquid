@@ -9,16 +9,16 @@ source_keyword: "can I claim my UK pension if I move to India"
 
 Yes. You can claim both the UK State Pension and any UK personal or workplace pension while living in India. The State Pension is paid wherever you live but is **not uprated annually** in India — it&rsquo;s frozen at the rate when you first claim it from there. Private pensions are taxed under the UK–India double-tax treaty, which generally gives India taxing rights on pension income with credit for UK tax paid.
 
-This is what each part of the UK pension system does when you move to India, using 2025/26 figures.
+This is what each part of the UK pension system does when you move to India, using 2026/27 figures.
 
 ## Does the UK State Pension keep paying if I move to India?
 
 Yes — you can claim and receive the UK State Pension in India once you reach State Pension age, regardless of where you&rsquo;re living. The rules are set out at [gov.uk: State Pension if you retire abroad](https://www.gov.uk/state-pension-if-you-retire-abroad).
 
-To qualify for the **new State Pension** in 2025/26 you need:
+To qualify for the **new State Pension** in 2026/27 you need:
 
 - **At least 10 qualifying NI years** to get any pension at all.
-- **35 qualifying years** to get the full new State Pension, currently about £230 per week. [VERIFY: confirm exact 2025/26 weekly amount with [gov.uk State Pension rates](https://www.gov.uk/government/publications/state-pension-rates).]
+- **35 qualifying years** to get the full new State Pension, currently about £230 per week. [VERIFY: confirm exact 2026/27 weekly amount with [gov.uk State Pension rates](https://www.gov.uk/government/publications/state-pension-rates).]
 
 Payment options:
 
@@ -88,10 +88,10 @@ Ravi reached UK State Pension age (67) in 2025 and moved to Bangalore in 2024. H
 
 His setup:
 
-- **State Pension**: claims from India. Paid weekly into his Bangalore-based SBI account in INR. Frozen at the 2025/26 rate (~£230/week, but received in rupees at DWP&rsquo;s exchange rate). [VERIFY: current weekly amount.]
+- **State Pension**: claims from India. Paid weekly into his Bangalore-based SBI account in INR. Frozen at the 2026/27 rate (~£230/week, but received in rupees at DWP&rsquo;s exchange rate). [VERIFY: current weekly amount.]
 - **SIPP drawdown**: he wants £20,000/year of pension income. Applies for NT code via the UK–India treaty form. The SIPP provider then pays the £20,000 gross — no UK tax withheld.
 - **Indian tax**: he declares £20,000 + State Pension equivalent on his Indian return at slab rates. At today&rsquo;s rates, the combined pension income falls largely within the basic Indian tax band (with some senior citizen exemption above 60). Net Indian tax: roughly INR 1.5–2 lakhs. [VERIFY: with current Indian tax adviser.]
-- **State Pension uprating**: frozen at the 2025/26 rate. Real value falls each year.
+- **State Pension uprating**: frozen at the 2026/27 rate. Real value falls each year.
 
 The frozen rate is the biggest long-term cost. Over 20 years, the difference vs an uprated pension can be £40,000+ of cumulative income.
 

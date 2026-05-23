@@ -9,7 +9,7 @@ source_keyword: "how much deposit do I need as a first time buyer"
 
 UK first-time buyers can typically get a mortgage with a **minimum 5% deposit** (95% LTV), with most lenders offering accessible deals at 10% deposit (90% LTV). Lower LTV unlocks better interest rates: pricing cliffs sit at 95%, 90%, 85%, 80%, 75% and 60% LTV. For a £300,000 property, a 5% deposit is £15,000 and a 10% deposit is £30,000 — but the mortgage rate at 10% is often 0.5–1% lower, saving hundreds per month and tens of thousands over a 25-year term.
 
-This is the full deposit landscape for first-time buyers in 2025/26.
+This is the full deposit landscape for first-time buyers in 2026/27.
 
 ## The minimum: 5% deposit (95% LTV)
 

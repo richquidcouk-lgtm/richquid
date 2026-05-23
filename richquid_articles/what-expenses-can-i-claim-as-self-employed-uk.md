@@ -1,6 +1,6 @@
 ---
 meta_title: "What Expenses Can I Claim as Self-Employed in the UK?"
-meta_description: "Allowable self-employed expenses include office costs, travel, equipment, training and a share of home utilities. The full HMRC list for 2025/26."
+meta_description: "Allowable self-employed expenses include office costs, travel, equipment, training and a share of home utilities. The full HMRC list for 2026/27."
 pillar: "Tax and side income"
 source_keyword: "what expenses can I claim as self employed UK"
 ---
@@ -9,7 +9,7 @@ source_keyword: "what expenses can I claim as self employed UK"
 
 UK self-employed people can claim expenses that are **&ldquo;wholly and exclusively&rdquo; for business purposes** — meaning the expense must be entirely or proportionally for the business, not for personal use. Allowable categories include **office equipment**, **business travel** (but not commuting), **training**, **professional subscriptions**, **insurance**, **a share of home utility costs** when working from home, **vehicle expenses**, and **marketing**. You deduct allowable expenses from gross income to calculate taxable profit. If your expenses are below £1,000, claim the **£1,000 trading allowance** instead.
 
-This is a comprehensive guide for 2025/26.
+This is a comprehensive guide for 2026/27.
 
 ## The basic rule: wholly and exclusively
 
@@ -197,7 +197,7 @@ Choose whichever gives the higher deduction. If your real expenses are below £1
 
 ## Keeping records
 
-You must keep records for **at least 5 years** after the 31 January submission deadline of the tax year in question (so records for 2025/26 must be kept until 31 January 2032).
+You must keep records for **at least 5 years** after the 31 January submission deadline of the tax year in question (so records for 2026/27 must be kept until 31 January 2032).
 
 What to keep:
 
@@ -213,7 +213,7 @@ You don&rsquo;t need to submit receipts with the tax return, but you must produc
 
 Maria is a freelance graphic designer:
 
-- Gross income 2025/26: £12,000.
+- Gross income 2026/27: £12,000.
 - Software subscriptions (Adobe, etc.): £600.
 - Computer purchase: £1,200.
 - Home office (flat-rate method): £216.

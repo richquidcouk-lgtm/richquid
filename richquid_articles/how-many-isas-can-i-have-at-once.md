@@ -1,5 +1,5 @@
 ---
-meta_title: "How Many ISAs Can I Have at Once? (UK Rules 2025/26)"
+meta_title: "How Many ISAs Can I Have at Once? (UK Rules 2026/27)"
 meta_description: "There's no limit on how many ISAs you can hold at once. The constraint is the £20,000 annual contribution limit across all your adult ISAs."
 pillar: "ISAs"
 source_keyword: "how many ISAs can I have at once"
@@ -9,7 +9,7 @@ source_keyword: "how many ISAs can I have at once"
 
 There&rsquo;s **no maximum number of ISAs** you can hold at any one time. You can build up dozens over the years — old cash ISAs from previous tax years, multiple stocks &amp; shares ISAs, a Lifetime ISA, an Innovative Finance ISA. What&rsquo;s limited is how much you can pay in **per year** (the £20,000 annual allowance) and the **one LISA per tax year** rule for contributions. From April 2024, you can pay into multiple ISAs of the same type within a single year — previously you couldn&rsquo;t.
 
-This is the full rule structure for the 2025/26 tax year.
+This is the full rule structure for the 2026/27 tax year.
 
 ## What &ldquo;holding&rdquo; an ISA means
 
@@ -21,7 +21,7 @@ There&rsquo;s no rule against holding inactive ISAs. There&rsquo;s no minimum co
 
 ## The contribution limit, not the account limit
 
-The constraint is contributions, not accounts. In 2025/26:
+The constraint is contributions, not accounts. In 2026/27:
 
 - **£20,000 total contributions** across all your adult ISAs in the tax year.
 - **£4,000 LISA contribution cap** within the £20,000.

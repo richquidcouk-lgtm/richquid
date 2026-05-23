@@ -1,5 +1,5 @@
 ---
-meta_title: "Pension Tax Relief for Higher Rate Taxpayers UK (2025/26)"
+meta_title: "Pension Tax Relief for Higher Rate Taxpayers UK (2026/27)"
 meta_description: "Higher-rate taxpayers get 40% pension tax relief. How relief at source works, claiming the extra 20% via Self Assessment, and salary sacrifice efficiency."
 pillar: "Pensions"
 source_keyword: "how does pension tax relief work for higher rate taxpayers"
@@ -9,7 +9,7 @@ source_keyword: "how does pension tax relief work for higher rate taxpayers"
 
 Higher-rate taxpayers (40%) get **40% pension tax relief** on contributions, but only the first **20%** is added automatically by the pension provider — the additional 20% is **reclaimed via Self Assessment**. For every £80 you contribute personally to a SIPP, the provider adds £20 (basic-rate relief) immediately. Then via Self Assessment, you claim a further £20 of relief by extending your basic-rate band. Net cost of a £100 gross pension contribution: roughly £60. Salary sacrifice via a workplace pension achieves the same total relief but also saves National Insurance on top.
 
-This is how the mechanics work for 2025/26.
+This is how the mechanics work for 2026/27.
 
 ## The pension tax relief framework
 

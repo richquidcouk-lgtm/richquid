@@ -9,7 +9,7 @@ source_keyword: "can I get a mortgage on a visa in the UK"
 
 Yes. Most mainstream UK mortgage lenders accept applications from visa holders, although requirements differ widely by visa type, time in the UK and deposit available. Skilled Worker, Health and Care Worker and Spouse visa holders are typically accepted; visa holders with at least 12 months of UK address history and a clean UK credit file usually get the best rates. Specialist lenders cover newer arrivals or unusual circumstances.
 
-This is what lenders actually look at — and what to do about each one — using 2025/26 lender practice.
+This is what lenders actually look at — and what to do about each one — using 2026/27 lender practice.
 
 ## What lenders look at first
 
@@ -84,7 +84,7 @@ Self-employment as a visa holder is harder — most lenders want at least 2 year
 
 UK lenders are required by FCA rules to stress-test affordability. They model your monthly mortgage payment at a rate roughly **3 percentage points above the current product rate** — and confirm you could still afford it.
 
-For 2025/26, with mortgage rates around 4.5%, stress rates are typically around 7.5–9% depending on the lender. This is identical for visa holders and UK citizens.
+For 2026/27, with mortgage rates around 4.5%, stress rates are typically around 7.5–9% depending on the lender. This is identical for visa holders and UK citizens.
 
 Our [mortgage affordability calculator](/tools/mortgage-affordability-calculator) lets you model this.
 

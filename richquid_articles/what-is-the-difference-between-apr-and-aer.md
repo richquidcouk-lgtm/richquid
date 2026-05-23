@@ -1,5 +1,5 @@
 ---
-meta_title: "What's the Difference Between APR and AER UK? (2025/26)"
+meta_title: "What's the Difference Between APR and AER UK? (2026/27)"
 meta_description: "APR is the cost of borrowing per year including fees. AER is the equivalent annual interest rate including compounding. They serve opposite purposes."
 pillar: "Savings and everyday"
 source_keyword: "what is the difference between APR and AER"
@@ -9,7 +9,7 @@ source_keyword: "what is the difference between APR and AER"
 
 **APR (Annual Percentage Rate)** is used for **borrowing** — it tells you the **total annual cost of credit** as a single percentage, including interest and most fees. **AER (Annual Equivalent Rate)** is used for **savings** — it tells you the **interest you&rsquo;ll earn over a year if interest is paid and compounded**, expressed as a single figure for comparison. APR is what you pay; AER is what you earn. Both are designed to let consumers compare products fairly, but they apply to opposite financial situations and follow different calculation rules under UK FCA regulations.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## APR: Annual Percentage Rate (for borrowing)
 

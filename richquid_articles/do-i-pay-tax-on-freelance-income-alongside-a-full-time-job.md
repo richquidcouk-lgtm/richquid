@@ -9,7 +9,7 @@ source_keyword: "do I pay tax on freelance income alongside a full time job"
 
 Yes. Freelance income is taxable in addition to your full-time salary. Your **PAYE salary uses your £12,570 personal allowance**, and **freelance income stacks on top** — taxed at your marginal rate (20%, 40% or 45%) plus **Class 4 NI** (6% on profit £12,570–£50,270, 2% above). The **£1,000 trading allowance** covers small amounts. Above £1,000 gross freelance income, you must **register for Self Assessment** and file annually. HMRC reconciles total tax owed across both income sources via your return.
 
-This is how the maths actually works for 2025/26.
+This is how the maths actually works for 2026/27.
 
 ## How tax flows when you have two income types
 
@@ -167,7 +167,7 @@ If you can defer some freelance income to the next tax year (e.g. accept payment
 
 ## Worked example: minimising the January shock
 
-Sarah earns £55,000 PAYE plus £12,000 freelance income in 2025/26.
+Sarah earns £55,000 PAYE plus £12,000 freelance income in 2026/27.
 
 Without planning:
 

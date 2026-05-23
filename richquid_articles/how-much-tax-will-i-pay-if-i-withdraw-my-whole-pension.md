@@ -7,7 +7,7 @@ source_keyword: "how much tax will I pay if I withdraw my whole pension"
 
 # How much tax will I pay if I withdraw my whole pension?
 
-Taking your **entire pension as a single lump sum** typically triggers a substantial tax bill. The first **25%** is tax-free up to the Lump Sum Allowance (£268,275 for 2025/26). The remaining **75% is taxed as income** in the tax year you draw it — and the lump pushed onto your existing income often pushes you into higher and additional rate bands. For a £300,000 pension drawn in full by someone with no other income, the tax bill is roughly £58,000 — leaving net £242,000 from a £300,000 pot.
+Taking your **entire pension as a single lump sum** typically triggers a substantial tax bill. The first **25%** is tax-free up to the Lump Sum Allowance (£268,275 for 2026/27). The remaining **75% is taxed as income** in the tax year you draw it — and the lump pushed onto your existing income often pushes you into higher and additional rate bands. For a £300,000 pension drawn in full by someone with no other income, the tax bill is roughly £58,000 — leaving net £242,000 from a £300,000 pot.
 
 This is the worked maths, plus the alternative strategies that usually cost less tax.
 
@@ -15,7 +15,7 @@ This is the worked maths, plus the alternative strategies that usually cost less
 
 UK income tax bands work cumulatively. Taking £300,000 in one tax year means HMRC treats that £300,000 (minus the 25% tax-free element) as taxable income alongside any other earnings in the same year.
 
-For 2025/26 (England, Wales, Northern Ireland):
+For 2026/27 (England, Wales, Northern Ireland):
 
 - **Personal allowance**: £12,570 (tapered above £100,000).
 - **Basic rate (20%)**: £12,570 to £50,270.

@@ -9,7 +9,7 @@ source_keyword: "do non doms pay tax on foreign income UK"
 
 The old &ldquo;non-dom&rdquo; regime was abolished from **6 April 2025**. It&rsquo;s been replaced by a residence-based system. New arrivals to the UK (people not UK resident in any of the previous 10 tax years) get a **4-year exemption** on foreign income and gains under the new **Foreign Income and Gains (FIG) regime**. After 4 years, foreign income and gains are taxed on the arising basis like UK income. The remittance basis no longer applies to new claims from April 2025.
 
-This is the new framework, what it changed, and who&rsquo;s affected for the 2025/26 tax year.
+This is the new framework, what it changed, and who&rsquo;s affected for the 2026/27 tax year.
 
 ## What was the old non-dom regime?
 
@@ -49,7 +49,7 @@ You must claim the FIG regime via your Self Assessment return for each tax year 
 
 ## Who qualifies for the FIG regime?
 
-Qualifying applicants in 2025/26:
+Qualifying applicants in 2026/27:
 
 - **New arrivals** who were not UK resident in any of 2015/16 through 2024/25.
 - **Returners** who left the UK before 2015/16 and have just become UK resident again.
@@ -64,9 +64,9 @@ Excluded:
 
 People who claimed the remittance basis before 5 April 2025 have access to transitional reliefs:
 
-1. **Temporary Repatriation Facility (TRF)** — for a limited period (typically the first 3 tax years from 2025/26), former remittance-basis users can bring previously-unremitted foreign income and gains to the UK at a reduced tax rate (12% for the first two years, 15% for year three). [VERIFY: exact TRF percentages with HMRC.]
+1. **Temporary Repatriation Facility (TRF)** — for a limited period (typically the first 3 tax years from 2026/27), former remittance-basis users can bring previously-unremitted foreign income and gains to the UK at a reduced tax rate (12% for the first two years, 15% for year three). [VERIFY: exact TRF percentages with HMRC.]
 2. **Capital gains rebasing** — assets held on 5 April 2017 by former remittance-basis users can be rebased to that date&rsquo;s market value for UK CGT purposes.
-3. **50% reduction in foreign income** for one tax year (2025/26) for former remittance-basis users transitioning to the arising basis.
+3. **50% reduction in foreign income** for one tax year (2026/27) for former remittance-basis users transitioning to the arising basis.
 
 These transitional reliefs are complex and time-limited. Anyone affected should get specialist tax advice well before each deadline.
 
@@ -92,12 +92,12 @@ UK income is always taxed in the UK, FIG regime or not. So:
 
 Only **foreign** income and gains benefit from FIG.
 
-## Worked example: tech executive moving from Singapore in 2025/26
+## Worked example: tech executive moving from Singapore in 2026/27
 
 Vivek moves to the UK from Singapore on 1 May 2025, having lived in Singapore for 12 years. His position:
 
 - **Status**: not UK resident in any of 2015/16 through 2024/25 (he was in Singapore). Qualifies for FIG.
-- **UK income 2025/26**: £180,000 salary at UK employer.
+- **UK income 2026/27**: £180,000 salary at UK employer.
 - **Singapore investment portfolio**: SGD 2,000,000, generating SGD 60,000 of dividends in the year.
 - **Singapore investment portfolio gain**: SGD 100,000 of unrealised capital gain.
 

@@ -53,7 +53,7 @@ This is one reason some borrowers choose tracker mortgages — particularly if t
 
 The simple test: does your mortgage rate exceed the after-tax return you&rsquo;d get on alternative investments?
 
-For most UK savers in 2025/26:
+For most UK savers in 2026/27:
 
 - **Mortgage rate**: 4–5% (depending on fix type and LTV).
 - **Best easy-access cash savings**: 4–4.5% gross, after tax often 3.2–4% for basic-rate taxpayers (PSA dependent).

@@ -1,6 +1,6 @@
 ---
 meta_title: "Can I Get a Mortgage with ILR? (Indefinite Leave to Remain)"
-meta_description: "Yes — ILR holders are treated essentially the same as UK citizens by most lenders. Income, deposit, credit and time-in-UK rules explained for 2025/26."
+meta_description: "Yes — ILR holders are treated essentially the same as UK citizens by most lenders. Income, deposit, credit and time-in-UK rules explained for 2026/27."
 pillar: "Mortgages"
 source_keyword: "can I get a mortgage with ILR"
 ---
@@ -9,7 +9,7 @@ source_keyword: "can I get a mortgage with ILR"
 
 Yes. Indefinite Leave to Remain (ILR) holders are treated **essentially the same as UK citizens** by every major UK mortgage lender. There&rsquo;s no expiry on ILR (provided you don&rsquo;t spend more than two years outside the UK), so lenders treat ILR holders as long-term UK residents with no visa-related uncertainty. Standard mortgage criteria apply: deposit of 5–25%, lender stress-tested affordability, and a UK credit file with a clean history.
 
-This is what the mainstream lender market actually offers ILR holders, with 2025/26 criteria.
+This is what the mainstream lender market actually offers ILR holders, with 2026/27 criteria.
 
 ## What is ILR and why does it matter for mortgages?
 

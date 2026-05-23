@@ -3,8 +3,8 @@
  * Update the constants here when bands change; every calculator uses these.
  */
 
-export const TAX_YEAR = '2025/26'
-export const CALC_LAST_REVIEWED = '2026-05-22'
+export const TAX_YEAR = '2026/27'
+export const CALC_LAST_REVIEWED = '2026-05-23'
 
 // --- Income tax (rest of UK: England, Wales, NI) ----------------------------
 

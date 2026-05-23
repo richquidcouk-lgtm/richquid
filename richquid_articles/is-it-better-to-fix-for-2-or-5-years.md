@@ -7,9 +7,9 @@ source_keyword: "is it better to fix for 2 or 5 years"
 
 # Is it better to fix my mortgage for 2 or 5 years?
 
-There&rsquo;s no universally right answer — it depends on **what you expect interest rates to do** and **how much certainty you value**. A 5-year fix gives **payment certainty** through a longer period and often comes with **slightly lower rates** when markets expect rates to fall. A 2-year fix gives **flexibility** to remortgage if rates fall further, with the risk of being locked into a higher rate if they rise. In a stable or falling rate environment (like 2025/26), **5-year fixes often offer better value** for borrowers who value certainty over flexibility.
+There&rsquo;s no universally right answer — it depends on **what you expect interest rates to do** and **how much certainty you value**. A 5-year fix gives **payment certainty** through a longer period and often comes with **slightly lower rates** when markets expect rates to fall. A 2-year fix gives **flexibility** to remortgage if rates fall further, with the risk of being locked into a higher rate if they rise. In a stable or falling rate environment (like 2026/27), **5-year fixes often offer better value** for borrowers who value certainty over flexibility.
 
-This is the decision framework for 2025/26.
+This is the decision framework for 2026/27.
 
 ## How fixed-rate mortgages work
 
@@ -59,7 +59,7 @@ A 5-year fix tends to be the better choice when:
 
 If markets expect the BoE base rate to fall over the next 5 years, lenders price 5-year fixes slightly cheaper than 2-year fixes to attract borrowers. The borrower benefits by locking in a low rate now for the full 5-year period.
 
-In 2025/26, with BoE base rate having peaked in 2024 and markets pricing modest cuts ahead, 5-year fixes have often been competitive with 2-year.
+In 2026/27, with BoE base rate having peaked in 2024 and markets pricing modest cuts ahead, 5-year fixes have often been competitive with 2-year.
 
 ### 2. You&rsquo;re early in the mortgage term
 
@@ -155,7 +155,7 @@ When trackers lose:
 - **Rates rising**: you bear the full impact of rate hikes.
 - **You need payment certainty**: variable payments break budgets.
 
-## Worked example: borrower deciding in 2025/26
+## Worked example: borrower deciding in 2026/27
 
 Liu has a £230,000 mortgage at 85% LTV. Current market rates available to her:
 

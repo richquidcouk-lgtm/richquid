@@ -1,5 +1,5 @@
 ---
-meta_title: "Best Way to Save for a House Deposit UK (2025/26)"
+meta_title: "Best Way to Save for a House Deposit UK (2026/27)"
 meta_description: "Mix of Lifetime ISA (25% bonus), cash ISA, regular savings. Time horizon determines whether to risk equities. 3-5 year deposit savings typically stay in cash."
 pillar: "Savings and everyday"
 source_keyword: "what is the best way to save for a house deposit"
@@ -9,7 +9,7 @@ source_keyword: "what is the best way to save for a house deposit"
 
 For most UK first-time buyers, the optimal approach is a **mix of accounts**: a **Lifetime ISA (LISA)** to capture the 25% government bonus (up to £1,000/year on contributions up to £4,000), an **easy-access cash ISA** for emergency liquidity, and **fixed-rate savings or regular savers** for the bulk of deposit savings. With a 3–5 year savings horizon, deposit money typically stays in cash — equity volatility is too risky. The LISA cap of £4,000/year limits its role; most savers combine LISA bonus with cash ISA / regular saver / current account interest.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## Start with the LISA — the unmatched 25% bonus
 
@@ -39,7 +39,7 @@ The cash ISA is the standard product for sheltering savings above the LISA cap:
 
 - £20,000 annual ISA allowance (LISA contribution counts within this £20,000).
 - Tax-free interest.
-- Most easy-access cash ISAs pay 4–5% AER in 2025/26.
+- Most easy-access cash ISAs pay 4–5% AER in 2026/27.
 - Some fixed-rate ISAs pay 4.5–5.5% AER for 1–5 year terms.
 
 For a £30,000 deposit target with a 5-year horizon:
@@ -50,7 +50,7 @@ For a £30,000 deposit target with a 5-year horizon:
 
 ## Regular savers — for accumulating monthly
 
-Regular saver accounts (sometimes called &ldquo;regular savings&rdquo;) often pay the **highest headline rates** — 5–7% AER in 2025/26 — but with caps:
+Regular saver accounts (sometimes called &ldquo;regular savings&rdquo;) often pay the **highest headline rates** — 5–7% AER in 2026/27 — but with caps:
 
 - Monthly deposit limit (typically £100–£500).
 - Maximum balance limit (e.g. £6,000).
@@ -80,7 +80,7 @@ For someone with a relatively small current account balance, these can be useful
 Once you&rsquo;ve filled the ISA allowance, **Premium Bonds** can be a tax-free home for cash:
 
 - Maximum holding: £50,000.
-- Prize fund rate: ~3.8% (2025/26). [VERIFY: check current rate with NS&I.]
+- Prize fund rate: ~3.8% (2026/27). [VERIFY: check current rate with NS&I.]
 - Tax-free prizes.
 - 100% NS&I protection (beyond £85k FSCS).
 

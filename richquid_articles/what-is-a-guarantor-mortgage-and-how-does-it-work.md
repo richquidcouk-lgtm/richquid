@@ -9,7 +9,7 @@ source_keyword: "what is a guarantor mortgage and how does it work"
 
 A guarantor mortgage in the UK is one where a **family member (usually a parent) supports the application** by pledging their income, savings or property as security — without becoming a co-owner of the property. If you default, the guarantor is liable for the payments. The main UK variants are: **Family Springboard mortgages** (Barclays), **Family deposit mortgages** (Halifax / Lloyds), **Joint Borrower Sole Proprietor (JBSP)**, and **traditional guarantor mortgages**. They help first-time buyers get on the ladder when their own income or deposit alone wouldn&rsquo;t qualify them.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## Why guarantor mortgages exist
 

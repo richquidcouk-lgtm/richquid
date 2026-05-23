@@ -9,7 +9,7 @@ source_keyword: "is a junior ISA worth it"
 
 For most UK families saving for children long-term, yes — the Junior ISA delivers 18 years of completely tax-free growth on contributions up to £9,000 per tax year, with no UK tax to pay when the JISA converts to an adult ISA at age 18. The trade-off: the **child takes legal control at 18** and can withdraw the money for any purpose. Some families prefer to retain control by saving in the parent&rsquo;s name and gifting later. The right answer depends on the child&rsquo;s situation, the amount saved, and how much control matters.
 
-This is the honest assessment for the 2025/26 tax year.
+This is the honest assessment for the 2026/27 tax year.
 
 ## What a Junior ISA actually is
 

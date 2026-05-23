@@ -1,5 +1,5 @@
 ---
-meta_title: "How Much Tax on UK Rental Income? (2025/26)"
+meta_title: "How Much Tax on UK Rental Income? (2026/27)"
 meta_description: "Rental income is taxed at your marginal rate (20%, 40%, 45%) after expenses. Mortgage interest gets a 20% basic-rate tax credit only, not full deduction."
 pillar: "Tax and side income"
 source_keyword: "how much tax do I pay on rental income UK"
@@ -9,7 +9,7 @@ source_keyword: "how much tax do I pay on rental income UK"
 
 UK rental income is taxed at your **marginal income tax rate** (20%, 40% or 45%) on the net profit after allowable expenses. The **£1,000 property allowance** covers small rental income (below £1,000 gross). Critically, since 2020 mortgage interest is **not directly deductible** — instead landlords get a 20% basic-rate tax credit on mortgage interest, regardless of their tax band. This restructuring (Section 24 of the Finance Act 2015, fully effective from 2020) significantly increased the effective tax rate for higher-rate landlords with mortgaged properties.
 
-This is how rental income tax actually works for UK landlords in 2025/26.
+This is how rental income tax actually works for UK landlords in 2026/27.
 
 ## The basic calculation
 
@@ -117,7 +117,7 @@ You can&rsquo;t claim improvements (e.g. upgrading a fridge to a more expensive 
 When you sell a rental property:
 
 - **CGT applies** on the gain (difference between sale proceeds and purchase price, less costs).
-- **Annual exemption**: £3,000 (2025/26).
+- **Annual exemption**: £3,000 (2026/27).
 - **Rates** (from 30 October 2024): 18% basic-rate band, 24% higher-rate band — same as other assets.
 - **Reporting deadline**: 60 days from completion (much faster than other CGT reporting).
 

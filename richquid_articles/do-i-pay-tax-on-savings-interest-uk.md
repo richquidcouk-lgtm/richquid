@@ -1,5 +1,5 @@
 ---
-meta_title: "Do I Pay Tax on Savings Interest UK? (2025/26)"
+meta_title: "Do I Pay Tax on Savings Interest UK? (2026/27)"
 meta_description: "Yes — above the Personal Savings Allowance (£1,000/£500/£0). ISA interest is tax-free. Banks no longer deduct tax; HMRC adjusts your tax code."
 pillar: "Savings and everyday"
 source_keyword: "do I pay tax on savings interest UK"
@@ -7,9 +7,9 @@ source_keyword: "do I pay tax on savings interest UK"
 
 # Do I pay tax on savings interest in the UK?
 
-Yes — but only on interest above your **Personal Savings Allowance (PSA)**. For 2025/26, the PSA is **£1,000 for basic-rate taxpayers**, **£500 for higher-rate taxpayers**, and **£0 for additional-rate taxpayers**. ISA interest is **completely tax-free** and doesn&rsquo;t use the PSA. Premium Bonds prizes are also tax-free. Above the PSA, interest is taxed at your marginal income tax rate, collected via your tax code (PAYE) adjustment or Self Assessment.
+Yes — but only on interest above your **Personal Savings Allowance (PSA)**. For 2026/27, the PSA is **£1,000 for basic-rate taxpayers**, **£500 for higher-rate taxpayers**, and **£0 for additional-rate taxpayers**. ISA interest is **completely tax-free** and doesn&rsquo;t use the PSA. Premium Bonds prizes are also tax-free. Above the PSA, interest is taxed at your marginal income tax rate, collected via your tax code (PAYE) adjustment or Self Assessment.
 
-This is the framework for 2025/26.
+This is the framework for 2026/27.
 
 ## What counts as taxable savings interest
 
@@ -56,7 +56,7 @@ Above the PSA, interest is taxed at your marginal rate. The 0% band is sometimes
 
 For most people with modest savings, you don&rsquo;t.
 
-At 4.5% interest rates (typical for 2025/26):
+At 4.5% interest rates (typical for 2026/27):
 
 - Basic-rate taxpayer fills £1,000 PSA at: £22,222 of savings.
 - Higher-rate fills £500 PSA at: £11,111 of savings.

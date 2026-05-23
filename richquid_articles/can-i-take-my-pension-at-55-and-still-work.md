@@ -1,5 +1,5 @@
 ---
-meta_title: "Can I Take My Pension at 55 and Still Work? (UK 2025/26)"
+meta_title: "Can I Take My Pension at 55 and Still Work? (UK 2026/27)"
 meta_description: "Yes — you can access a UK DC pension from age 55 and keep working. How the 25% tax-free lump sum works, the MPAA trap, and tax on the taxable portion."
 pillar: "Pensions"
 source_keyword: "can I take my pension at 55 and still work"
@@ -9,13 +9,13 @@ source_keyword: "can I take my pension at 55 and still work"
 
 Yes. You can access a UK defined contribution pension from age 55 (rising to 57 from April 2028) and continue working full-time, part-time or in any capacity. The 25% tax-free lump sum is available, the rest can be drawn flexibly via drawdown or as taxable lump sums. The catch: if you take any taxable income beyond the tax-free 25%, you trigger the **Money Purchase Annual Allowance (MPAA)** which slashes your future pension contribution limit from £60,000 to £10,000 per year.
 
-This is the framework and the trade-offs for the 2025/26 tax year.
+This is the framework and the trade-offs for the 2026/27 tax year.
 
 ## What &ldquo;accessing the pension&rdquo; means
 
 UK defined contribution pension freedoms (introduced April 2015) let anyone aged 55+ access a DC pension flexibly:
 
-- **Take the 25% tax-free lump sum** in one go (up to the Lump Sum Allowance of £268,275 for 2025/26).
+- **Take the 25% tax-free lump sum** in one go (up to the Lump Sum Allowance of £268,275 for 2026/27).
 - **Take 25% tax-free in stages** — every withdrawal can have a 25% tax-free element.
 - **Drawdown** — leave money invested, draw income as needed.
 - **Lump sums** — take taxable amounts as occasional cash withdrawals.
@@ -30,7 +30,7 @@ The detailed rules are at [gov.uk: pension freedoms](https://www.gov.uk/tax-on-p
 
 Up to **25% of the pension value** can be taken tax-free. For a £400,000 pension, that&rsquo;s £100,000 tax-free.
 
-The lifetime cap on tax-free lump sums is the **Lump Sum Allowance (LSA) of £268,275** for 2025/26. Pension values above £1,073,100 can have lump sums proportionally restricted (this is more relevant for very large pensions; most people will never hit this).
+The lifetime cap on tax-free lump sums is the **Lump Sum Allowance (LSA) of £268,275** for 2026/27. Pension values above £1,073,100 can have lump sums proportionally restricted (this is more relevant for very large pensions; most people will never hit this).
 
 Importantly, taking the 25% tax-free lump sum alone **does not trigger the MPAA**. You can take the lump sum, keep working, and continue contributing up to £60,000 per year to pensions.
 

@@ -9,7 +9,7 @@ source_keyword: "what happens to my LISA if I buy a house over 450k"
 
 If your first home costs **more than £450,000**, the Lifetime ISA cannot be used penalty-free toward the purchase. Withdrawing the LISA for a property above the cap triggers a **25% withdrawal penalty** on the entire amount taken out — which works out to a small loss on your own contributions, not just a clawback of the government bonus. The workarounds: keep the LISA for retirement, buy a slightly cheaper property, or accept the penalty as a price for accessing the funds.
 
-This is the rule and what to do about it, using 2025/26 figures.
+This is the rule and what to do about it, using 2026/27 figures.
 
 ## The £450,000 cap, and why it matters
 

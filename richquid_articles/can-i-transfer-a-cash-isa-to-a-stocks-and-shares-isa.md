@@ -9,7 +9,7 @@ source_keyword: "can I transfer a cash ISA to a stocks and shares ISA"
 
 Yes. You can transfer money from a cash ISA into a stocks &amp; shares ISA at any time, including from previous tax years and from the current tax year. The transfer must be done via the **official ISA transfer process** between providers — not by withdrawing the cash and re-paying it. The transferred funds keep their ISA tax-free status and don&rsquo;t count against your current-year £20,000 allowance.
 
-This is the mechanics and timing for the 2025/26 tax year.
+This is the mechanics and timing for the 2026/27 tax year.
 
 ## The two ways to move ISA money — and why the difference matters
 
@@ -53,7 +53,7 @@ If you have a fixed-rate cash ISA, transferring out early may incur a withdrawal
 
 No. Transfers from previous years&rsquo; ISAs don&rsquo;t use any of the current year&rsquo;s allowance. They&rsquo;re separate from new subscriptions.
 
-For current-year contributions (money you paid into the cash ISA in 2025/26 that you now want to move to a stocks &amp; shares ISA in 2025/26):
+For current-year contributions (money you paid into the cash ISA in 2026/27 that you now want to move to a stocks &amp; shares ISA in 2026/27):
 
 - **Before April 2024**: you had to transfer the entire current-year subscription if you wanted to move it. Partial transfers of current-year were not allowed.
 - **From April 2024 onward**: partial transfers of current-year subscriptions are allowed. You can move £3,000 of your £15,000 current-year cash ISA contributions to a stocks &amp; shares ISA, leaving £12,000 in the cash ISA — without breaking any rules.
@@ -110,7 +110,7 @@ Tom has £25,000 in a cash ISA paying 4.0%, accumulated over multiple tax years.
 - **Step 2**: Initiates transfer of £25,000 from cash ISA to S&amp;S ISA via the new provider&rsquo;s online form.
 - **Step 3**: Waits 8 working days for the transfer to complete.
 - **Step 4**: £25,000 now sits as cash in the new S&amp;S ISA. Tom invests £24,500 in a global index ETF (keeping £500 for dealing fees and a small cash buffer).
-- **Step 5**: Continues making contributions for 2025/26 into the cash ISA (or the new S&amp;S ISA, or another ISA — multiple ISAs are now allowed).
+- **Step 5**: Continues making contributions for 2026/27 into the cash ISA (or the new S&amp;S ISA, or another ISA — multiple ISAs are now allowed).
 
 No allowance used. No tax wrapper lost. The £25,000 is now invested in equities inside the same tax-free shell.
 

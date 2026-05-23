@@ -1,6 +1,6 @@
 ---
 meta_title: "Does an ISA Count Toward Personal Savings Allowance?"
-meta_description: "No — ISA interest doesn't count toward your Personal Savings Allowance. PSA only applies to interest outside ISAs. The relationship explained for 2025/26."
+meta_description: "No — ISA interest doesn't count toward your Personal Savings Allowance. PSA only applies to interest outside ISAs. The relationship explained for 2026/27."
 pillar: "ISAs"
 source_keyword: "does an ISA count towards my personal savings allowance"
 ---
@@ -9,7 +9,7 @@ source_keyword: "does an ISA count towards my personal savings allowance"
 
 No. **ISA interest does not count toward your Personal Savings Allowance** (PSA). The PSA only applies to **non-ISA savings interest** — bank accounts, savings accounts, regular savers and similar held outside an ISA wrapper. So if you hold a cash ISA and a separate taxable savings account, the ISA interest is tax-free under ISA rules (separate from PSA), and only the taxable account&rsquo;s interest uses your PSA. This makes ISAs structurally separate from the PSA framework.
 
-This is the relationship between the two, for the 2025/26 tax year.
+This is the relationship between the two, for the 2026/27 tax year.
 
 ## The two systems explained
 
@@ -126,7 +126,7 @@ For the full HMRC position, see [gov.uk: Personal Savings Allowance](https://www
 
 ## Dividend Allowance — a separate £500 allowance
 
-Confusingly, there&rsquo;s also a **£500 Dividend Allowance** (2025/26 figure, reduced from £2,000 just a few years ago). This applies to dividends received outside an ISA, separately from the PSA.
+Confusingly, there&rsquo;s also a **£500 Dividend Allowance** (2026/27 figure, reduced from £2,000 just a few years ago). This applies to dividends received outside an ISA, separately from the PSA.
 
 So if you hold:
 
