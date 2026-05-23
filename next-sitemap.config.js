@@ -9,5 +9,5 @@ module.exports = {
   },
   changefreq: 'weekly',
   priority: 0.7,
-  exclude: ['/api/*'],
+  exclude: ['/api/*', '/embed/*'],
 }

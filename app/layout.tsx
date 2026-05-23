@@ -3,6 +3,7 @@ import { Fraunces, Inter } from 'next/font/google'
 import Script from 'next/script'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import SiteChrome from '@/components/SiteChrome'
 import './globals.css'
 
 const GA_ID = 'G-1SNFQ7XSZX'
@@ -98,9 +99,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body>
-        <Header />
-        <main id="main">{children}</main>
-        <Footer />
+        <SiteChrome header={<Header />} footer={<Footer />}>
+          {children}
+        </SiteChrome>
       </body>
     </html>
   )

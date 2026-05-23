@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { TOOLS, getTool } from '@/lib/tools'
 import AffiliateDisclosure from '@/components/AffiliateDisclosure'
+import EmbedSnippet from '@/components/EmbedSnippet'
 import { CALC_LAST_REVIEWED, TAX_YEAR } from '@/lib/uk-tax'
 import { breadcrumbListSchema } from '@/lib/schema'
 import IsaAllowanceTracker from '@/components/calculators/IsaAllowanceTracker'
@@ -90,7 +91,10 @@ export default function ToolPage({ params }: Props) {
       </header>
 
       {isLive ? (
-        <Calculator />
+        <>
+          <Calculator />
+          <EmbedSnippet slug={tool.slug} title={tool.title} />
+        </>
       ) : (
         <section className="rounded-lg border border-rule bg-white p-8 text-center">
           <p className="metadata uppercase tracking-[0.2em] text-[color:var(--gold)]">Status</p>
