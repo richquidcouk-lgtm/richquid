@@ -1,0 +1,264 @@
+---
+meta_title: "What Fees Do I Pay When Buying a House in the UK?"
+meta_description: "UK home-buying fees beyond the deposit: SDLT, conveyancing, survey, mortgage fees, removals. Budget 5-10% of property price on top of deposit."
+pillar: "Mortgages"
+source_keyword: "what fees do I pay when buying a house UK"
+---
+
+# What fees do I pay when buying a house in the UK?
+
+Beyond your deposit, expect to pay between **5% and 10% of the property price** in additional buying costs. The main items are: **Stamp Duty Land Tax** (or LBTT in Scotland, LTT in Wales) — often the largest single cost; **conveyancing / solicitor fees** (£700–£2,000); **survey fees** (£300–£1,200); **mortgage product fees** (£0–£1,500); **removal costs** (£300–£2,000+); and assorted smaller fees. For a £300,000 first-time buyer purchase, total fees typically come to **£3,000–£8,000** on top of deposit.
+
+This is the full breakdown for 2025/26.
+
+## Stamp Duty Land Tax (SDLT) — England & Northern Ireland
+
+The largest single fee for most home purchases.
+
+For 2025/26 (England & NI, from 1 April 2025):
+
+**Standard rates:**
+- 0% to £125,000.
+- 2% on £125,001–£250,000.
+- 5% on £250,001–£925,000.
+- 10% on £925,001–£1,500,000.
+- 12% above £1,500,000.
+
+**First-time buyer relief:**
+- 0% to £300,000.
+- 5% on £300,001–£500,000.
+- No relief above £500,000 (standard rates apply).
+
+**Additional property surcharge:**
+- +5% on every band for buy-to-let, second homes, or owning another property at completion.
+- From 31 October 2024.
+
+**Worked SDLT for first-time buyer at £350,000:**
+- 0% × £300,000 = £0.
+- 5% × £50,000 = £2,500.
+- **Total SDLT: £2,500**.
+
+**Worked SDLT for non-first-time buyer at £350,000:**
+- 0% × £125,000 = £0.
+- 2% × £125,000 = £2,500.
+- 5% × £100,000 = £5,000.
+- **Total SDLT: £7,500**.
+
+## Land and Buildings Transaction Tax (LBTT) — Scotland
+
+Scotland&rsquo;s version of SDLT.
+
+**Standard rates (2025/26):**
+- 0% to £145,000.
+- 2% on £145,001–£250,000.
+- 5% on £250,001–£325,000.
+- 10% on £325,001–£750,000.
+- 12% above £750,000.
+
+**First-time buyer relief:**
+- 0% threshold raised from £145,000 to £175,000.
+- Above £175,000, standard rates apply.
+
+**Additional Dwelling Supplement (ADS):**
+- 8% on the full price (not banded) for second properties or buy-to-let.
+
+**Worked LBTT for first-time buyer at £250,000:**
+- 0% × £175,000 = £0.
+- 2% × £75,000 = £1,500.
+- **Total LBTT: £1,500**.
+
+## Land Transaction Tax (LTT) — Wales
+
+Wales&rsquo; version.
+
+**Standard rates (2025/26):**
+- 0% to £225,000.
+- 6% on £225,001–£400,000.
+- 7.5% on £400,001–£750,000.
+- 10% on £750,001–£1,500,000.
+- 12% above £1,500,000.
+
+**No separate first-time buyer relief** — the £225,000 threshold applies to everyone.
+
+**Higher residential rates** for additional property (from 11 Dec 2024):
+- Up to £180,000: 5%.
+- £180,001–£250,000: 8.5%.
+- £250,001–£400,000: 10%.
+- £400,001–£750,000: 12.5%.
+- £750,001–£1,500,000: 15%.
+- Above £1,500,000: 17%.
+
+[HMRC SDLT guidance](https://www.gov.uk/stamp-duty-land-tax).
+
+## Conveyancing / solicitor fees
+
+Legal work to transfer ownership. Two parts:
+
+### Conveyancer&rsquo;s fee
+
+The fixed fee for the legal work:
+
+- **First-time buyer**: typically £700–£1,200.
+- **Mover with no chain complications**: £900–£1,500.
+- **Complex purchase** (leasehold, new-build, shared ownership, chain): £1,200–£2,000+.
+
+### Disbursements
+
+Third-party costs the solicitor pays on your behalf:
+
+- **Land Registry fee**: £20–£455 depending on property value.
+- **Local authority searches**: £150–£400.
+- **Drainage and water search**: £40–£80.
+- **Environmental search**: £30–£60.
+- **Bankruptcy search**: £2 per applicant.
+- **Telegraphic transfer fee** for completion funds: £30–£50.
+
+Total disbursements typically: £300–£800.
+
+**Combined conveyancing total: £1,000–£2,800** depending on complexity.
+
+## Survey fees
+
+Optional but recommended. Three levels:
+
+### Mortgage valuation (lender&rsquo;s)
+
+- Often free or £0–£300.
+- For the lender&rsquo;s benefit, not yours.
+- Doesn&rsquo;t identify problems beyond confirming the lender&rsquo;s loan-to-value calculation.
+
+### Homebuyer report (RICS Level 2)
+
+- £350–£700.
+- For mid-range properties in good apparent condition.
+- Identifies common issues.
+
+### Building survey (RICS Level 3)
+
+- £700–£1,200+.
+- For older properties, complex buildings or where you want detailed insight.
+- Most comprehensive.
+
+For most buyers, a Homebuyer report or Level 3 survey is worth the cost — a missed structural issue can cost tens of thousands later.
+
+## Mortgage fees
+
+Several possible charges from the lender:
+
+### Arrangement / product fee
+
+- £0–£1,500.
+- Sometimes payable upfront, sometimes added to the mortgage balance.
+- Lenders often offer fee-free deals at slightly higher rates.
+
+### Booking fee
+
+- £0–£300 (less common now).
+- Charged on application, non-refundable if you don&rsquo;t complete.
+
+### Valuation fee
+
+- £0–£400.
+- For the lender&rsquo;s valuation of the property.
+- Sometimes free in marketing packages.
+
+### Broker fee
+
+- £0–£800.
+- Paid to mortgage broker if you use one.
+- Most brokers are paid by the lender (free to you); some charge flat fees.
+
+### Telegraphic transfer (TT) fee
+
+- £25–£35.
+- For the transfer of funds at completion.
+
+**Combined mortgage fees: £25–£3,000+** depending on product choice.
+
+## Removal costs
+
+Often forgotten in the budget. Variable based on:
+
+- **Distance** (local move vs cross-country).
+- **Volume of belongings**.
+- **Whether you DIY** (van hire ~£100/day) or use professional movers.
+- **Special items** (piano, large furniture, fragile items).
+
+**Typical ranges:**
+- DIY van rental: £100–£300.
+- Local professional removals: £500–£1,000.
+- National professional removals: £800–£2,000.
+- Large family home, long distance: £1,500–£3,500+.
+
+## Insurance setup
+
+You&rsquo;ll need buildings insurance from the day of exchange (legal requirement for mortgaged properties):
+
+- **Buildings insurance**: £150–£600/year depending on property and rebuild cost.
+- **Contents insurance**: £100–£400/year.
+
+Buildings insurance is typically required by the lender; contents is optional but advisable.
+
+## Initial home costs
+
+Often the biggest unbudgeted shock:
+
+- **Furniture and appliances**: £2,000–£10,000+ if starting fresh.
+- **Repairs or improvements**: highly variable. £500 for minor issues; £20,000+ for kitchen replacement, structural work, etc.
+- **Initial utilities setup**: £100–£300 across various accounts.
+- **Council tax registration**: no fee, but first quarter due immediately.
+- **Council tax in advance**: usually £100–£300 to set up direct debit.
+
+These can easily exceed all your other fees combined. Budget realistically.
+
+## Total fee budget — worked examples
+
+### Scenario 1: First-time buyer, £300,000 home
+
+- SDLT: £0 (FTB relief).
+- Conveyancing: £1,200.
+- Disbursements: £500.
+- Survey: £450 (HomeBuyer).
+- Mortgage fee: £999 (or £0 if fee-free product).
+- TT fee: £30.
+- Buildings insurance (1 year): £250.
+- Removal costs: £700.
+- Initial home costs: ~£2,000 (modest).
+
+**Total fees: ~£6,000**.
+
+### Scenario 2: Mover, £400,000 home
+
+- SDLT (no FTB relief): £7,500.
+- Conveyancing: £1,500.
+- Disbursements: £600.
+- Survey: £750.
+- Mortgage fee: £999.
+- TT fee: £30.
+- Removal costs: £1,500.
+
+**Total fees: ~£12,900**.
+
+### Scenario 3: Second-property buyer, £500,000 home
+
+- SDLT (with 5% surcharge): £20,000.
+- Conveyancing: £1,800.
+- Disbursements: £700.
+- Survey: £900.
+- Mortgage fee: £999.
+- TT fee: £30.
+- Removal costs: £2,000.
+
+**Total fees: ~£26,500**.
+
+The surcharge alone is the dominant cost for additional property purchases.
+
+## Internal links
+
+- [How much deposit do I need as a first time buyer?](/how-much-deposit-do-i-need-as-a-first-time-buyer/)
+- [How much can I borrow on my salary UK?](/how-much-can-i-borrow-on-my-salary-uk/)
+- [How does remortgaging work and when should I do it?](/how-does-remortgaging-work-and-when-should-i-do-it/)
+
+---
+
+*This guide is information, not regulated financial advice. SDLT/LBTT/LTT rules and rates can change between budgets — confirm on [gov.uk](https://www.gov.uk/) before relying on specific figures.*

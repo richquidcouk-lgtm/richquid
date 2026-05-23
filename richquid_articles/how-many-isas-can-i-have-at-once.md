@@ -1,0 +1,162 @@
+---
+meta_title: "How Many ISAs Can I Have at Once? (UK Rules 2025/26)"
+meta_description: "There's no limit on how many ISAs you can hold at once. The constraint is the £20,000 annual contribution limit across all your adult ISAs."
+pillar: "ISAs"
+source_keyword: "how many ISAs can I have at once"
+---
+
+# How many ISAs can I have at once?
+
+There&rsquo;s **no maximum number of ISAs** you can hold at any one time. You can build up dozens over the years — old cash ISAs from previous tax years, multiple stocks &amp; shares ISAs, a Lifetime ISA, an Innovative Finance ISA. What&rsquo;s limited is how much you can pay in **per year** (the £20,000 annual allowance) and the **one LISA per tax year** rule for contributions. From April 2024, you can pay into multiple ISAs of the same type within a single year — previously you couldn&rsquo;t.
+
+This is the full rule structure for the 2025/26 tax year.
+
+## What &ldquo;holding&rdquo; an ISA means
+
+Holding an ISA means having an open account in your name with an ISA provider. The account exists, the funds (if any) are inside the wrapper, growth is tax-free.
+
+This doesn&rsquo;t require ongoing contributions. An ISA you opened in 2018, paid into for two years, and haven&rsquo;t added to since is still &ldquo;held&rdquo;. It just isn&rsquo;t actively funded.
+
+There&rsquo;s no rule against holding inactive ISAs. There&rsquo;s no minimum contribution requirement to keep one open (some providers may close zero-balance accounts after a long period, but that&rsquo;s provider-side admin, not regulatory).
+
+## The contribution limit, not the account limit
+
+The constraint is contributions, not accounts. In 2025/26:
+
+- **£20,000 total contributions** across all your adult ISAs in the tax year.
+- **£4,000 LISA contribution cap** within the £20,000.
+- **One LISA contribution per tax year** (the LISA-specific rule).
+- **No limit on contributing to multiple cash ISAs, S&amp;S ISAs or IFISAs in a single year** (since April 2024).
+
+So you could have:
+
+- 5 cash ISAs from 5 different providers, accumulated over 5 years.
+- 2 stocks &amp; shares ISAs, accumulated over the last 2 years.
+- 1 Lifetime ISA.
+- 1 Innovative Finance ISA (rare).
+
+That&rsquo;s 9 ISAs total. All legal, all functioning, all tax-free.
+
+## How does the £20,000 limit work across multiple ISAs?
+
+Each pound you contribute counts once toward the £20,000 — regardless of which ISA receives it.
+
+A worked example:
+
+- £3,000 to Cash ISA A in April.
+- £4,000 to Lifetime ISA in June.
+- £5,000 to Stocks &amp; Shares ISA in October.
+- £4,000 to Cash ISA B (with different provider for a better rate) in February.
+- £4,000 to Stocks &amp; Shares ISA (more capacity) in March.
+
+Total contributions: £20,000. All within the rules:
+
+- £20,000 overall: used up.
+- LISA: £4,000 (within cap).
+- Multiple cash ISAs: allowed since April 2024.
+- Multiple S&amp;S contributions: allowed since April 2024.
+
+## What about Junior ISAs and adult ISAs?
+
+Junior ISAs (for under-18s) are separate from the adult £20,000 allowance:
+
+- A child can have up to **one Junior Cash ISA** and **one Junior Stocks &amp; Shares ISA** simultaneously (Junior ISA rules didn&rsquo;t change with the April 2024 reform).
+- Combined Junior ISA contribution limit: **£9,000 per tax year**.
+- Junior ISAs convert to adult ISAs automatically when the child turns 18.
+
+So a 17-year-old can have:
+
+- 1 Junior Cash ISA.
+- 1 Junior Stocks &amp; Shares ISA.
+
+That&rsquo;s the maximum for a child. At 18, the JISAs convert to adult ISAs and the child gets the full £20,000 adult allowance from that tax year.
+
+## Why hold multiple ISAs?
+
+Several legitimate reasons:
+
+### 1. Old ISAs from previous tax years
+
+If you&rsquo;ve been contributing to ISAs for 5+ years, you may have accumulated multiple. You can keep them all open. They continue to grow tax-free.
+
+Some people consolidate via the official ISA transfer process — moving 5 cash ISAs into 1 to simplify admin. Others spread for FSCS protection (£85,000 per banking group). Both approaches are valid.
+
+### 2. Better rates mid-year
+
+You opened a cash ISA at 4.5% in April. In November, a leading-edge offer at 5% appears. Since April 2024, you can pay further contributions into the new ISA while keeping the old one funded.
+
+### 3. FSCS protection split
+
+The Financial Services Compensation Scheme protects up to £85,000 per banking group per individual. If you hold £150,000 in cash ISAs, splitting across two banking groups means full protection rather than only £85,000.
+
+Note: some banking brands share a single licence (Halifax + Bank of Scotland; HSBC + First Direct + M&amp;S Bank may share, depending on date and structure). Always check the actual licence.
+
+### 4. Different products
+
+Some ISAs are designed for specific purposes:
+
+- **Easy-access cash ISA**: for the emergency fund.
+- **Fixed-rate cash ISA**: for money you don&rsquo;t need for 1–5 years.
+- **Regular saver cash ISA**: monthly contributions, high headline rate, capped amount.
+- **Stocks &amp; shares ISA**: long-term investments.
+- **LISA**: first-home or retirement.
+
+A typical UK saver might use 3–5 different ISA products simultaneously, each suited to a different time horizon.
+
+### 5. Platform-specific features
+
+Different stocks &amp; shares ISA platforms offer different investment ranges, tools, and fees. Holding two platforms can give access to different funds or strategies.
+
+## Should I consolidate my ISAs?
+
+Consolidation has both advantages and trade-offs:
+
+**Pros of consolidating:**
+
+- Less admin (one annual statement, one place to log in).
+- Easier tracking of total ISA wealth.
+- Some platforms offer better tools when more assets are held there.
+- Lower fees in some cases (especially with platform-fee tiers).
+
+**Cons of consolidating:**
+
+- FSCS protection is concentrated.
+- You lose access to whatever the &ldquo;old&rdquo; ISA was good at.
+- Transfers take 5–15 working days during which interest pauses.
+- Some old ISA accounts have legacy benefits you can&rsquo;t reproduce (e.g. an older fixed-rate ISA paying 4.5% when the new market is 4.0%).
+
+There&rsquo;s no universally right answer. For most savers, the right number of ISAs is &ldquo;between 1 and 5&rdquo; — beyond that, the admin overhead usually outweighs the benefits.
+
+## What about ISAs from defunct providers?
+
+Sometimes a provider winds down its ISA business. They typically:
+
+1. Notify you that they&rsquo;re closing the product line.
+2. Give you a window to **transfer** to another provider.
+3. If you don&rsquo;t transfer, return funds to your bank — outside the ISA wrapper.
+
+To preserve the tax-free status, use the formal ISA transfer process. Failing to do so means the funds become taxable.
+
+## Worked example: ISA portfolio of a long-time saver
+
+Anna, 45, has been contributing to ISAs since age 22. Her current holdings:
+
+- 2 cash ISAs from 2009–2013 (£15,000 total) — easy access.
+- 1 cash ISA from a 2-year fix in 2024, £20,000.
+- 3 stocks &amp; shares ISAs accumulated across different platforms over the years (£120,000 total).
+- 1 IFISA from a long-defunct platform, £3,000 (writing off the loss).
+- 1 LISA (opened at age 28), £45,000.
+
+Total: 8 ISA accounts, £203,000 in tax-free wrappers.
+
+She could consolidate to 1 cash ISA and 1 stocks &amp; shares ISA via transfers, but chooses to keep her LISA separate (for the 60+ withdrawal optionality) and her 2024 fix in place until maturity. All within the rules.
+
+## Internal links
+
+- [Can I pay into two ISAs in the same tax year?](/can-i-pay-into-two-isas-in-the-same-tax-year/)
+- [Can I transfer a cash ISA to a stocks and shares ISA?](/can-i-transfer-a-cash-isa-to-a-stocks-and-shares-isa/)
+- [Is a Junior ISA worth it?](/is-a-junior-isa-worth-it/)
+
+---
+
+*This guide is information, not regulated financial advice. ISA rules can change between budgets — confirm on [gov.uk](https://www.gov.uk/individual-savings-accounts) before relying on a specific position.*

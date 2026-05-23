@@ -1,0 +1,148 @@
+---
+meta_title: "Can I Take My Pension at 55 and Still Work? (UK 2025/26)"
+meta_description: "Yes — you can access a UK DC pension from age 55 and keep working. How the 25% tax-free lump sum works, the MPAA trap, and tax on the taxable portion."
+pillar: "Pensions"
+source_keyword: "can I take my pension at 55 and still work"
+---
+
+# Can I take my pension at 55 and still work?
+
+Yes. You can access a UK defined contribution pension from age 55 (rising to 57 from April 2028) and continue working full-time, part-time or in any capacity. The 25% tax-free lump sum is available, the rest can be drawn flexibly via drawdown or as taxable lump sums. The catch: if you take any taxable income beyond the tax-free 25%, you trigger the **Money Purchase Annual Allowance (MPAA)** which slashes your future pension contribution limit from £60,000 to £10,000 per year.
+
+This is the framework and the trade-offs for the 2025/26 tax year.
+
+## What &ldquo;accessing the pension&rdquo; means
+
+UK defined contribution pension freedoms (introduced April 2015) let anyone aged 55+ access a DC pension flexibly:
+
+- **Take the 25% tax-free lump sum** in one go (up to the Lump Sum Allowance of £268,275 for 2025/26).
+- **Take 25% tax-free in stages** — every withdrawal can have a 25% tax-free element.
+- **Drawdown** — leave money invested, draw income as needed.
+- **Lump sums** — take taxable amounts as occasional cash withdrawals.
+- **Annuity** — buy a guaranteed lifetime income with some or all of the pot.
+- **Combinations** of the above.
+
+You can keep working in any role while doing any of these. There&rsquo;s no requirement to retire or reduce hours.
+
+The detailed rules are at [gov.uk: pension freedoms](https://www.gov.uk/tax-on-pension/tax-on-pension-income).
+
+## The 25% tax-free lump sum
+
+Up to **25% of the pension value** can be taken tax-free. For a £400,000 pension, that&rsquo;s £100,000 tax-free.
+
+The lifetime cap on tax-free lump sums is the **Lump Sum Allowance (LSA) of £268,275** for 2025/26. Pension values above £1,073,100 can have lump sums proportionally restricted (this is more relevant for very large pensions; most people will never hit this).
+
+Importantly, taking the 25% tax-free lump sum alone **does not trigger the MPAA**. You can take the lump sum, keep working, and continue contributing up to £60,000 per year to pensions.
+
+The lump sum can be:
+
+- Taken in one go.
+- Taken in stages — each withdrawal having a 25% tax-free element (called &ldquo;UFPLS&rdquo; — uncrystallised funds pension lump sum).
+- Taken as part of crystallising the whole pension into drawdown.
+
+## The taxable 75%
+
+After the 25% tax-free portion, the remainder of the pension is taxed as **income** at your marginal rate when withdrawn.
+
+For someone earning £50,000 from their job and taking £20,000 of taxable pension income:
+
+- Combined income: £70,000.
+- Personal allowance (£12,570) used by job income.
+- Basic-rate band (£12,570–£50,270) used by job income.
+- Higher-rate band starts at £50,270.
+- £20,000 of pension income all falls in the higher-rate band.
+- Tax: £20,000 × 40% = £8,000.
+
+The pension income is added to your existing income and taxed accordingly. PAYE applies through your pension provider — they withhold tax on each payment.
+
+## The MPAA trap
+
+Here&rsquo;s the major trade-off. If you take **any taxable income** from a DC pension (beyond the 25% tax-free element), you trigger the **Money Purchase Annual Allowance**:
+
+- Your future DC contribution limit drops from £60,000 to **£10,000 per year**.
+- Carry-forward of unused allowance no longer applies for DC contributions.
+- The MPAA is irreversible — once triggered, it stays.
+
+For someone planning to keep working and contributing to a workplace pension, the MPAA can significantly reduce future pension building. A £50,000 earner contributing 8% (£4,000) plus employer match — won&rsquo;t hit the £10,000 cap. But a higher earner using salary sacrifice to push £30,000 into the pension each year would lose £20,000 of capacity.
+
+The MPAA does NOT trigger if:
+
+- You only take the 25% tax-free lump sum (no taxable income drawn).
+- You take a small pot (under £10,000) as a one-off lump sum under specific rules.
+- You take a defined benefit pension (DB pensions don&rsquo;t trigger the MPAA on the recipient).
+
+## When taking the pension early makes sense
+
+A few scenarios where accessing the pension at 55+ while still working is reasonable:
+
+### 1. Mortgage clearance
+
+Taking the 25% tax-free lump sum to clear a mortgage can be powerful — particularly if the mortgage rate is high (5%+) and you have ample remaining pension assets. Risk-free clearance of debt at 5%+ is hard to match elsewhere.
+
+### 2. Reducing working hours
+
+Some people use pension income to bridge the gap from full-time to part-time work. £20,000/year of pension income could let you drop to 3 days/week from a full-time role.
+
+### 3. Children&rsquo;s house deposit gifts
+
+The 25% tax-free lump sum can fund significant gifts (subject to inheritance tax 7-year rule for very large amounts). Helping a child buy a first home is a common use.
+
+### 4. Specific large purchases
+
+Wedding for a child, home renovation, healthcare cost. The lump sum can cover these without taking on debt.
+
+When it doesn&rsquo;t make sense:
+
+- **You&rsquo;re still aggressively contributing to a pension.** Triggering MPAA cuts future capacity.
+- **You don&rsquo;t need the money.** Pension growth stays tax-free if untouched.
+- **Your tax band would be lower in retirement.** Drawing taxable income now at 40% vs later at 20% is a 50% extra tax cost.
+- **You&rsquo;re using it to invest in something risky.** Drawn pension money loses the pension wrapper&rsquo;s protections.
+
+## Defined benefit pensions
+
+Defined benefit (DB) pensions work differently. They pay a guaranteed lifetime income from the scheme&rsquo;s normal retirement age (often 60 or 65, depending on the scheme).
+
+A few scheme-specific options:
+
+- Many DB schemes allow **early retirement from age 55** with an actuarial reduction (typically 4–5% per year early).
+- DB schemes usually offer a **tax-free lump sum option** (often around 25%, sometimes less, with reduced annual pension in exchange).
+- **DB schemes don&rsquo;t trigger the MPAA** when accessed.
+
+The decision to take a DB early is permanent and involves giving up income for life. Get regulated pension advice before deciding — this is a one-way door.
+
+## Worked example: 55-year-old higher earner taking lump sum
+
+Robert is 55, earning £80,000, has a £400,000 DC pension. He wants to clear a £100,000 remaining mortgage. His decision:
+
+**Option A: Take 25% tax-free lump sum, clear mortgage.**
+
+- £100,000 tax-free lump sum withdrawn.
+- £300,000 remains in pension, continues to grow tax-free.
+- MPAA not triggered (only tax-free portion taken).
+- Continues contributing 8% of salary (£6,400) plus employer 5% (£4,000) = £10,400/year. Within the standard £60,000 annual allowance.
+- Net effect: mortgage paid off, pension capacity intact, ~£500/month saved on mortgage payments.
+
+**Option B: Take 25% tax-free + £20,000 taxable for &ldquo;buffer&rdquo;.**
+
+- £100,000 tax-free + £20,000 taxable = £120,000 total withdrawn.
+- £20,000 added to his £80,000 income → all £20,000 falls in higher-rate band.
+- Tax on £20,000: £8,000.
+- Net taxable lump received: £12,000.
+- MPAA triggered: future DC contributions capped at £10,000/year.
+- Even worse — his current contributions of £10,400 already exceed the new £10,000 limit, so he&rsquo;d need to reduce future contributions or face annual allowance charges.
+
+Robert chooses Option A. The £20,000 buffer wasn&rsquo;t worth the MPAA hit.
+
+## What about the 2028 age change?
+
+From April 2028, the minimum pension access age rises from 55 to 57. People born after a certain date will need to wait until 57 to access. Some pension schemes have &ldquo;protected pension ages&rdquo; that allow earlier access — check your scheme rules.
+
+## Internal links
+
+- [What is the 25 percent tax free pension lump sum?](/what-is-the-25-percent-tax-free-pension-lump-sum/)
+- [How does pension tax relief work for higher rate taxpayers?](/how-does-pension-tax-relief-work-for-higher-rate-taxpayers/)
+- [What is the annual allowance for pension contributions?](/what-is-the-annual-allowance-for-pension-contributions/)
+
+---
+
+*This guide is information, not regulated financial advice. Accessing a pension early is a one-way door for the MPAA — speak to a regulated pension adviser before triggering any taxable withdrawal.*

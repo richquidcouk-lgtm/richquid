@@ -1,0 +1,138 @@
+---
+meta_title: "Can I Get a UK Mortgage on a Visa? (2025 Lender Rules)"
+meta_description: "Yes — most UK lenders offer mortgages to visa holders, though deposit and time-in-UK requirements vary. Skilled Worker, ILR and spouse visa criteria explained."
+pillar: "Mortgages"
+source_keyword: "can I get a mortgage on a visa in the UK"
+---
+
+# Can I get a mortgage on a visa in the UK?
+
+Yes. Most mainstream UK mortgage lenders accept applications from visa holders, although requirements differ widely by visa type, time in the UK and deposit available. Skilled Worker, Health and Care Worker and Spouse visa holders are typically accepted; visa holders with at least 12 months of UK address history and a clean UK credit file usually get the best rates. Specialist lenders cover newer arrivals or unusual circumstances.
+
+This is what lenders actually look at — and what to do about each one — using 2025/26 lender practice.
+
+## What lenders look at first
+
+A UK mortgage decision rests on five factors. They all matter, but the order of importance is roughly:
+
+1. **Income** — gross salary, plus any reliable bonus, commission, or other regular income.
+2. **Deposit size** — usually expressed as a percentage of property value (LTV).
+3. **Credit file** — your UK credit history from Experian, Equifax and TransUnion.
+4. **Affordability** — stress-tested at a higher rate.
+5. **Visa type and remaining length** — does the visa give the lender confidence you&rsquo;ll be in the UK long enough to repay?
+
+For UK citizens, visa is irrelevant. For visa holders, it&rsquo;s the differentiator that pushes you onto either a standard or a specialist deal.
+
+## Which visa types do high-street lenders accept?
+
+The five major UK mortgage lenders (HSBC, Lloyds / Halifax, Barclays, Nationwide, NatWest) plus most building societies broadly accept these visa types:
+
+- **Skilled Worker visa**.
+- **Health and Care Worker visa**.
+- **Global Talent visa**.
+- **Innovator Founder visa**.
+- **Spouse / Partner / Parent visas**.
+- **EU Settled Status and Pre-Settled Status**.
+- **Indefinite Leave to Remain (ILR)** — typically treated identically to UK citizens.
+
+What varies between lenders:
+
+- **Minimum remaining visa length** — some require 24 months, some 12, some none (provided you have ILR or settled status).
+- **Minimum time in the UK** — common thresholds are 6 months, 12 months, 24 months, or 3 years of address history.
+- **Minimum deposit for visa holders** — sometimes 10% LTV is enough; some lenders require 15% or 25% from visa holders specifically.
+- **Acceptance of overseas income** — see our [overseas income for UK mortgage guide](/can-i-use-overseas-income-for-a-uk-mortgage/).
+
+## How much deposit do I need?
+
+For UK-resident, UK-employed visa holders with at least 12 months of UK credit history, the standard market typically opens at **10% deposit (90% LTV)** with many lenders, and **15% deposit (85% LTV)** with most lenders.
+
+Below 10% deposit is harder for visa holders. The 95% LTV market exists but is more selective — lenders often want UK citizens or ILR-holders here, not Skilled Worker visa holders.
+
+A few worked deposit thresholds for a £300,000 property:
+
+| Deposit % | Deposit £ | Mortgage £ |
+|---|---|---|
+| 5% | £15,000 | £285,000 |
+| 10% | £30,000 | £270,000 |
+| 15% | £45,000 | £255,000 |
+| 25% | £75,000 | £225,000 |
+
+The mortgage rate generally improves at each LTV band — 95%, 90%, 85%, 80%, 75% are common pricing cliffs.
+
+## What if I have less than 12 months of UK credit history?
+
+This is the most common challenge for newer arrivals. UK lenders rely heavily on credit reference agencies (Experian, Equifax, TransUnion) to assess applicants. If you arrived recently, your credit file is thin or empty.
+
+Options:
+
+- **Wait until you have 12+ months of UK history.** Use the time to register on the electoral roll (if eligible), open a UK current account, take out a UK mobile contract, and possibly a UK credit-building credit card. See our [credit-building guide](/how-to-build-a-credit-score-from-scratch-uk/).
+- **Apply with a specialist visa-friendly lender.** Some lenders (HSBC, Halifax, some building societies) have programmes specifically for newer arrivals with strong incomes and decent deposits. These often have higher rates than the mainstream market.
+- **Apply through a mortgage broker.** A specialist broker has visibility of which lenders accept what — particularly important for newer arrivals.
+
+## How does income work for visa holders?
+
+Income is usually assessed at **4 to 4.5× gross annual income**, like for UK citizens. A few specifics:
+
+- **Salary in GBP only** — most lenders won&rsquo;t count income paid in foreign currency, even if you&rsquo;re UK resident.
+- **Probation periods** — some lenders apply income only after you&rsquo;ve passed probation; others count gross income from day one.
+- **Bonuses and commission** — typically counted at 50–100% of recent year&rsquo;s figure if regular and documented.
+- **Contract employment** — day rate × ~46 weeks is a common formula for IT contractors.
+
+Self-employment as a visa holder is harder — most lenders want at least 2 years of UK tax returns. The Skilled Worker visa requires sponsored employment anyway, so this is mostly relevant to Innovator Founder, Global Talent or post-ILR self-employed applicants.
+
+## Stress testing — same for visa holders
+
+UK lenders are required by FCA rules to stress-test affordability. They model your monthly mortgage payment at a rate roughly **3 percentage points above the current product rate** — and confirm you could still afford it.
+
+For 2025/26, with mortgage rates around 4.5%, stress rates are typically around 7.5–9% depending on the lender. This is identical for visa holders and UK citizens.
+
+Our [mortgage affordability calculator](/tools/mortgage-affordability-calculator) lets you model this.
+
+## What about my visa expiring during the mortgage term?
+
+UK mortgages are typically 25–35 year terms, but most visas are 3–5 years. Lenders don&rsquo;t require your visa to cover the full term — they look at the likelihood of:
+
+- The visa being extended or renewed.
+- You obtaining ILR or settled status.
+- Your employment continuing.
+
+For Skilled Worker and Health and Care Worker visas, the lender assumes you&rsquo;ll renew based on employment. For Spouse / Family visas, the relationship is the basis. For most visa types, lenders accept a 3–5 year visa as sufficient evidence of UK commitment — particularly if you have ILR coming up within the visa term.
+
+If your visa is about to expire and you don&rsquo;t have a renewal in motion, lenders may delay or decline. Most applications go through during a stable visa period (year 2 or year 3 of a 5-year visa).
+
+## Worked example: Skilled Worker visa, 18 months in UK
+
+Liam, on a Skilled Worker visa, has been in the UK for 18 months. He earns £55,000 per year. He has £40,000 in deposit savings. He wants to buy a £280,000 property in Manchester.
+
+**LTI calculation**: £55,000 × 4.5 = £247,500 maximum mortgage.
+**LTV**: £280,000 − £40,000 = £240,000 mortgage. £240,000 / £280,000 = 85.7% LTV.
+**Borrowing**: £240,000 is within his LTI cap.
+**Deposit**: 14% (rounded) — close to the 85% LTV pricing cliff, just inside.
+**Stress test**: at 7.5%, monthly payment on £240,000 over 25 years ≈ £1,774. Affordable on a £55k income.
+
+Lenders likely to accept Liam (with broker support):
+- High-street lenders with visa-friendly criteria.
+- A few specialist lenders if the high street declines.
+
+If Liam had only 6 months in the UK, several mainstream lenders would decline based on UK address history alone, and a broker becomes more important to find the right specialist.
+
+## Use a broker, especially for visa applications
+
+For UK citizens with simple cases, going direct to a high-street lender often works fine. For visa holders, the value of using a mortgage broker is much higher:
+
+- They know which lenders accept which visa types.
+- They&rsquo;ve seen the criteria for newer arrivals.
+- They can quote multiple lenders without each one running a credit check.
+- They&rsquo;re FCA-regulated, paid by the lender (no fee to you) or by a flat fee — clarify before engaging.
+
+For visa-holder applications, the broker route is the default starting point for most people.
+
+## Internal links
+
+- [Can I get a mortgage on a skilled worker visa?](/can-i-get-a-mortgage-on-a-skilled-worker-visa/)
+- [Can I get a mortgage with ILR?](/can-i-get-a-mortgage-with-ilr/)
+- [Can I use overseas income for a UK mortgage?](/can-i-use-overseas-income-for-a-uk-mortgage/)
+
+---
+
+*This guide is information, not regulated financial advice. UK mortgages are regulated by the FCA — speak to a regulated mortgage adviser or broker before applying. Visa-holder lending criteria changes regularly; verify with the lender or broker at the time of application.*

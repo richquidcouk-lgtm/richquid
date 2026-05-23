@@ -1,0 +1,187 @@
+---
+meta_title: "What is a Guarantor Mortgage and How Does It Work UK?"
+meta_description: "A guarantor mortgage uses a family member's income or savings to support your application. Types include family deposit, springboard, and joint borrower."
+pillar: "Mortgages"
+source_keyword: "what is a guarantor mortgage and how does it work"
+---
+
+# What is a guarantor mortgage and how does it work?
+
+A guarantor mortgage in the UK is one where a **family member (usually a parent) supports the application** by pledging their income, savings or property as security — without becoming a co-owner of the property. If you default, the guarantor is liable for the payments. The main UK variants are: **Family Springboard mortgages** (Barclays), **Family deposit mortgages** (Halifax / Lloyds), **Joint Borrower Sole Proprietor (JBSP)**, and **traditional guarantor mortgages**. They help first-time buyers get on the ladder when their own income or deposit alone wouldn&rsquo;t qualify them.
+
+This is the framework for 2025/26.
+
+## Why guarantor mortgages exist
+
+The fundamental issue: many UK first-time buyers can&rsquo;t afford to buy without help. They have:
+
+- Insufficient income to meet LTI multiples for the property they want.
+- Insufficient deposit (5% can be challenging for higher-priced areas).
+- Some combination of both.
+
+A family member with strong income, savings or paid-off property can effectively &ldquo;lend their credit&rdquo; to the application — making it possible for the first-time buyer to access a mortgage they couldn&rsquo;t individually.
+
+## The main types in the UK
+
+### 1. Family Springboard Mortgage (Barclays)
+
+A specific Barclays product. How it works:
+
+- First-time buyer takes out a 100% LTV mortgage (no deposit needed).
+- A family member (parent, grandparent) deposits **10% of the property price** into a Barclays savings account that&rsquo;s linked to the mortgage.
+- The savings stay in the family member&rsquo;s name and **earn interest** at a competitive rate.
+- After **5 years** (with the borrower making all mortgage payments on time), the savings are returned to the family member.
+- If the borrower defaults, Barclays uses the savings to cover losses.
+
+Pros:
+
+- First-time buyer gets to buy without a deposit.
+- Family member retains ownership of the deposit money + earns interest.
+- After 5 years, the money returns to the family member.
+
+Cons:
+
+- Specific to Barclays.
+- Family member&rsquo;s £30,000+ is tied up for 5 years.
+- Borrower can&rsquo;t access the deposit themselves.
+
+### 2. Family Deposit Mortgage (Halifax / Lloyds — sometimes called &ldquo;3-year offset&rdquo;)
+
+Similar concept to Springboard but at different lenders, with variations in:
+
+- Required deposit percentage.
+- Length of time the deposit is locked.
+- Interest paid on the deposit.
+
+### 3. Joint Borrower Sole Proprietor (JBSP)
+
+A more flexible structure:
+
+- First-time buyer is the **sole legal owner** of the property.
+- The family member is a **joint borrower** on the mortgage — their income counts in the affordability assessment, but they&rsquo;re not on the title deeds.
+- The family member doesn&rsquo;t own a share of the property.
+
+Pros:
+
+- Family member&rsquo;s income boosts borrowing capacity.
+- They don&rsquo;t become a property owner (so no SDLT additional property surcharge applies to them).
+- The borrower can later remortgage to remove the family member from the joint loan.
+
+Cons:
+
+- The family member is legally responsible for the mortgage if the borrower defaults.
+- Their credit file is affected by the joint mortgage.
+
+JBSP is increasingly popular. It works particularly well for parents helping adult children where the children can afford some of the payments but not enough income to qualify alone.
+
+### 4. Traditional Guarantor Mortgage
+
+Less common now. The guarantor doesn&rsquo;t put up money but **commits to cover the payments** if the borrower defaults. Lenders may require:
+
+- Guarantor&rsquo;s income (typically 2.5× the projected mortgage payment).
+- Guarantor&rsquo;s clean credit file.
+- Sometimes a legal charge against the guarantor&rsquo;s own property as additional security.
+
+If the borrower defaults, the lender can take action against the guarantor. This is significantly more risk for the guarantor than springboard-style products.
+
+## Who can be a guarantor?
+
+Typically:
+
+- **Parents** — the most common case.
+- **Grandparents**.
+- **Siblings** (less commonly accepted).
+- **Step-parents**.
+
+Most lenders won&rsquo;t accept friends or unrelated parties as guarantors.
+
+Requirements vary by lender:
+
+- Guarantor usually **must be the homeowner** (own their own property, often mortgage-free or substantial equity).
+- **Income criteria** — guarantor must have enough income to cover payments if borrower defaults.
+- **Age limit** — many lenders won&rsquo;t accept guarantors over 75 at the mortgage maturity date.
+- **Clean credit file**.
+
+## Tax implications for guarantors
+
+Several tax angles to consider:
+
+### Stamp Duty Land Tax (SDLT)
+
+For JBSP: the family member is not on the title, so SDLT additional property surcharge doesn&rsquo;t apply to them.
+
+For other structures: depends on whether the family member is on the title. If they own another property, the additional-property surcharge (+5%) can apply on the full purchase price.
+
+### Capital Gains Tax (CGT)
+
+If the family member is on the title and the property isn&rsquo;t their main residence, CGT applies on their share when the property is sold. JBSP avoids this — they&rsquo;re not on the title.
+
+### Inheritance Tax (IHT)
+
+A guarantor providing a substantial sum (springboard deposit) doesn&rsquo;t generally trigger IHT — the money returns to them after 5 years. A loan or gift, on the other hand, can have IHT implications.
+
+## When a guarantor mortgage is worth considering
+
+Useful in scenarios:
+
+- **Strong long-term earnings but currently low salary** (e.g. junior doctor, trainee solicitor, recent graduate with offer letter).
+- **Self-employed with thin income history** but family willing to support.
+- **First-time buyer in expensive market** where 5% deposit alone won&rsquo;t qualify them at acceptable rates.
+- **Adult children helping aging parents** (less common but possible).
+
+When it&rsquo;s not:
+
+- **The borrower clearly can&rsquo;t afford the property** even with help.
+- **The family member can&rsquo;t afford to lose the deposit** if the borrower defaults.
+- **The relationship is fragile** — the legal entanglement can damage families.
+
+## Risks for the guarantor
+
+The financial and emotional risks are real:
+
+- **Lose the deposit** if the borrower defaults (springboard-style products).
+- **Become liable for the mortgage** if the borrower defaults (traditional guarantor / JBSP).
+- **Credit file impact** for JBSP guarantors.
+- **Loss of flexibility** — money tied up for the deposit period (3–5 years).
+- **Family conflict** if things go wrong.
+
+Always get **independent legal advice** before being a guarantor. Some borrowers&rsquo; solicitors won&rsquo;t accept the joint application without confirming the guarantor has received independent advice.
+
+## Worked example: parent helping daughter buy first flat
+
+Sasha is buying her first £250,000 flat. She earns £35,000 and has £10,000 deposit (4%).
+
+**Without guarantor**:
+
+- LTI 4.5× = £157,500 max mortgage.
+- She can only afford a ~£170,000 flat at 4% deposit. £250,000 is well beyond her reach.
+
+**With her dad as JBSP guarantor**:
+
+- Dad earns £80,000. Combined income £115,000.
+- Combined LTI 4.5× = £517,500 max.
+- £250,000 - £10,000 = £240,000 mortgage. Well within combined capacity.
+- Dad is on the mortgage, but Sasha is sole legal owner.
+- Dad&rsquo;s name on the joint mortgage affects his credit but doesn&rsquo;t make him a property owner.
+- After 3 years of payments, Sasha&rsquo;s income may have risen enough to remortgage and remove Dad from the loan.
+
+For Dad, the risks are:
+
+- If Sasha defaults, he&rsquo;s responsible for payments.
+- His credit file shows the joint mortgage liability.
+- He can&rsquo;t take on more credit easily during the joint period.
+
+For Sasha, the trade-off:
+
+- Gets on the housing ladder 5+ years earlier than without help.
+- Dependent on family support — relationship management matters.
+
+## Internal links
+
+- [How much deposit do I need as a first time buyer?](/how-much-deposit-do-i-need-as-a-first-time-buyer/)
+- [How much can I borrow on my salary UK?](/how-much-can-i-borrow-on-my-salary-uk/)
+- [What credit score do I need for a mortgage UK?](/what-credit-score-do-i-need-for-a-mortgage-uk/)
+
+---
+
+*This guide is information, not regulated financial advice. Guarantor mortgages create real legal liability for the guarantor — speak to a regulated mortgage adviser and solicitor before committing.*

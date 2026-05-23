@@ -1,0 +1,123 @@
+---
+meta_title: "Can I Transfer My UK Pension Abroad? (QROPS Rules)"
+meta_description: "Yes, via a QROPS — but a 25% Overseas Transfer Charge applies unless your destination scheme is in the same country you live in. The full rules and risks."
+pillar: "Pensions"
+source_keyword: "can I transfer my UK pension abroad"
+---
+
+# Can I transfer my UK pension abroad?
+
+Yes — you can transfer a UK pension to a Qualifying Recognised Overseas Pension Scheme (QROPS) registered with HMRC. But unless the QROPS is in the **same country you&rsquo;re tax-resident in** (or both in the EEA / Gibraltar, with conditions), a **25% Overseas Transfer Charge** applies on the transfer value. For most UK leavers, leaving the pension in the UK and drawing it via a double-tax treaty is simpler and cheaper.
+
+This is the full picture, with 2025/26 UK figures and the post-2024 rules.
+
+## What is a QROPS?
+
+A QROPS is an overseas pension scheme that HMRC has registered as broadly equivalent to a UK pension. To qualify, the scheme must:
+
+- Be established outside the UK.
+- Be regulated as a pension scheme in its host country.
+- Meet HMRC&rsquo;s rules on minimum age at access (currently 55, rising to 57 from April 2028), 25% tax-free lump sum equivalence, and reporting back to HMRC for at least 10 years after the transfer.
+
+HMRC maintains a [public QROPS list](https://www.gov.uk/government/publications/list-of-qualifying-recognised-overseas-pension-schemes-qrops) which is updated weekly. Inclusion on the list does not mean HMRC endorses the scheme — it means the scheme has self-certified compliance with the rules. HMRC can and does remove schemes.
+
+## When does the Overseas Transfer Charge apply?
+
+The Overseas Transfer Charge (OTC) is **25% of the transferred value**, taken at the point of transfer. It applies unless one of these exemptions is met:
+
+1. **You and the QROPS are in the same country.** The most common &ldquo;safe&rdquo; transfer.
+2. **You and the QROPS are both in the EEA / Gibraltar** (provided you remain tax-resident there for 5 full tax years after the transfer). [VERIFY: confirm current EEA exemption rules after the 2024 budget changes.]
+3. **The QROPS is provided by your employer.**
+4. **The QROPS is an overseas public service scheme** that you work for.
+5. **The QROPS is a pension scheme established by an international organisation.**
+
+If none applies, the 25% charge is deducted from the transfer value before it reaches the QROPS. On a £200,000 transfer, that&rsquo;s £50,000 of UK tax — usually unrecoverable.
+
+Even if you qualify for an exemption at transfer, the charge can be **retrospectively triggered** if you move country within 5 years and the conditions cease to be met. Long-term planning is essential.
+
+## The Spring 2024 budget tightened the rules further
+
+The 2024 Spring Budget and subsequent Finance Act made several changes to overseas pension transfers, partly to close avoidance routes and partly to align with the abolition of the Lifetime Allowance. Key points:
+
+- The OTC structure broadly remains, with the 25% charge.
+- Lump sums paid from a QROPS now interact with the UK&rsquo;s **Lump Sum Allowance (£268,275)** and **Lump Sum and Death Benefit Allowance (£1,073,100)** in specific ways. [VERIFY: details of post-LTA QROPS lump sum treatment.]
+- HMRC reporting requirements for QROPS providers have been extended.
+
+The detailed mechanics are in [HMRC&rsquo;s Pensions Tax Manual section on overseas transfers](https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual). Anyone considering an overseas transfer should get UK regulated pension advice from an adviser experienced with QROPS — this is not a DIY exercise.
+
+## What types of UK pension can be transferred to a QROPS?
+
+Most defined contribution UK pensions can be transferred, including:
+
+- **Personal pensions and SIPPs**.
+- **Workplace defined contribution (DC) pensions** — provided you&rsquo;re no longer an active member or the scheme allows transfers out.
+
+**Defined benefit (DB) pensions** can technically be transferred but it&rsquo;s usually a very bad idea:
+
+- DB pensions guarantee a specific income for life, inflation-linked, with a spouse&rsquo;s pension. Transferring gives up that guarantee in exchange for a cash equivalent transfer value (CETV).
+- Transfers from DB pensions over £30,000 in CETV require regulated UK pension advice by law.
+- Post-2017 reforms tightened the rules to reduce mis-selling — but real damage was done in the years before, particularly with British Steel and similar high-profile cases.
+
+If you have a DB pension, the strong default position from most regulated advisers is: don&rsquo;t transfer, including not to a QROPS. The guarantee is usually worth more than any flexibility a QROPS offers.
+
+## When does transferring to a QROPS actually make sense?
+
+The cases where QROPS can be the right answer are fairly narrow:
+
+- **Permanent emigration with no plans to return.** Especially if you&rsquo;ve moved to a country where the local QROPS is well-regulated and the OTC exemption applies.
+- **Very large pension pots** where the simplification of holding the pension in your country of residence outweighs the costs.
+- **Estate planning needs** that the local QROPS handles better than a UK SIPP — particularly for cross-border inheritance.
+- **Currency-matching for retirement income.** If you&rsquo;ll spend in EUR, USD or AUD for 30 years, holding the pension in that currency can reduce FX risk.
+
+The cases where it doesn&rsquo;t make sense:
+
+- **You might move again.** The OTC can be retrospectively triggered.
+- **You have a DB pension.** Stay put.
+- **Your pot is small (under £100,000).** Fees and OTC make the maths unfavourable.
+- **Someone approached you unprompted to recommend a QROPS.** Historically, this is where most QROPS mis-selling has happened. Always seek your own FCA-regulated UK pension adviser, not one recommended by the QROPS provider.
+
+## What about leaving the pension in the UK?
+
+For most UK leavers, leaving the pension where it is and drawing it under the double-tax treaty is the simpler path:
+
+- No OTC.
+- UK regulation and FSCS protection retained.
+- Drawdown flexibility unchanged.
+- The 25% UK tax-free lump sum still applies under UK rules (though your new country may tax it).
+
+The trade-offs:
+
+- Currency exchange on every payment, with FX cost.
+- Need to apply for treaty relief / NT code via HMRC.
+- Need to keep up with UK pension changes (rule changes, budget impacts).
+
+For most retirees on small-to-medium pots emigrating to a country with a tax treaty, this is the default starting point.
+
+## Worked example: emigrating to Portugal with a £400,000 SIPP
+
+David, 60, emigrates to Portugal permanently in 2025/26. His UK SIPP is worth £400,000.
+
+**Option A: Leave the SIPP in the UK.**
+- Apply for treaty relief under the UK–Portugal double tax treaty.
+- Draw £30,000/year as drawdown income, taxed in Portugal at local rates.
+- 25% lump sum option — Portugal may tax this; David takes advice locally.
+- No OTC. No additional UK exit charge.
+- Net result: pension still under UK regulation, drawing flexibly in retirement.
+
+**Option B: Transfer to a Portuguese QROPS.**
+- Portugal QROPS exists. EEA exemption applies if he remains tax-resident in the EEA for 5 years.
+- Transfer cost: typically 2–4% of value (£8,000–£16,000) plus ongoing 0.5–1.5% annual fees.
+- If he moves to a non-EEA country within 5 years, retrospectively triggers a 25% OTC = £100,000 of UK tax.
+- Net result: pension held in EUR, simpler local tax filing — but high cost and re-emigration risk.
+
+For most retirees, Option A wins on cost and risk. Option B becomes attractive only for very large pots where the simplification justifies the fees.
+
+## Internal links
+
+- [What happens to my pension if I leave the UK permanently?](/what-happens-to-my-pension-if-i-leave-the-uk-permanently/)
+- [Can I claim my UK pension if I move to India?](/can-i-claim-my-uk-pension-if-i-move-to-india/)
+- [Can I access my pension if I have a visa?](/can-i-access-my-pension-if-i-have-a-visa/)
+
+---
+
+*This guide is information, not regulated financial advice. Overseas pension transfers are highly technical and have triggered significant mis-selling cases — speak only to an FCA-regulated UK pension adviser, never to a QROPS provider directly, before considering a transfer.*

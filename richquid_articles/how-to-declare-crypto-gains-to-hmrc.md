@@ -1,0 +1,204 @@
+---
+meta_title: "How to Declare Crypto Gains to HMRC (UK 2025/26)"
+meta_description: "Crypto gains are subject to UK CGT at 18% or 24%. Each trade is a taxable event. How to calculate, report on Self Assessment, and the £3,000 annual exemption."
+pillar: "Tax and side income"
+source_keyword: "how to declare crypto gains to HMRC"
+---
+
+# How to declare crypto gains to HMRC
+
+UK cryptocurrency gains are subject to **Capital Gains Tax (CGT)**, with each disposal (sale, trade, conversion) being a taxable event. The 2025/26 CGT annual exempt amount is **£3,000** — gains above this are taxed at **18% (basic-rate band) or 24% (higher-rate band)** for all asset types after the 30 October 2024 changes. You must calculate gains per disposal, total them for the tax year, deduct any losses and the £3,000 allowance, then report on **Self Assessment**. From 2025, HMRC also has data-sharing arrangements with major crypto exchanges to identify undeclared gains.
+
+This is the framework for 2025/26.
+
+## What HMRC treats as a taxable disposal
+
+HMRC&rsquo;s position: a disposal happens whenever you do **anything** with crypto that isn&rsquo;t just holding it. Specifically:
+
+- **Selling crypto for GBP** (the obvious case).
+- **Trading one crypto for another** (e.g. BTC for ETH).
+- **Using crypto to pay for goods or services**.
+- **Gifting crypto** to anyone other than a spouse / civil partner.
+- **Receiving crypto airdrops** (often treated as miscellaneous income, taxed differently).
+- **Mining or staking rewards** (received as income, then subject to CGT on disposal).
+- **DeFi yield, liquidity provision, lending** — complex; usually treated as income or capital gain depending on circumstances.
+
+Each disposal is calculated separately for CGT.
+
+[HMRC&rsquo;s crypto tax guidance is at cryptoassets-manual](https://www.gov.uk/government/publications/cryptoassets-manual).
+
+## The basic CGT calculation per disposal
+
+For each disposal:
+
+**Gain = (Disposal proceeds) − (Acquisition cost) − (Allowable expenses)**
+
+- **Disposal proceeds**: the GBP value of what you received (cash, other crypto at market value, etc.) at the time of the disposal.
+- **Acquisition cost**: the GBP cost of the crypto you sold/traded.
+- **Allowable expenses**: transaction fees, exchange fees.
+
+A worked example:
+
+- Bought 0.5 BTC in March 2024 for £15,000.
+- Sold 0.5 BTC in October 2025 for £18,000.
+- Allowable expenses: £100 in trading fees.
+- **Gain**: £18,000 − £15,000 − £100 = £2,900.
+
+You sum gains across all disposals for the tax year, deduct losses, deduct the £3,000 annual allowance, and the result is taxable.
+
+## How crypto-to-crypto is treated
+
+A common confusion. UK tax treats crypto-to-crypto trades as:
+
+- A **disposal** of the asset you&rsquo;re trading out of (calculate gain/loss on this).
+- An **acquisition** of the asset you&rsquo;re trading into (new cost basis).
+
+So if you trade £5,000 of BTC for ETH:
+
+- BTC disposal: calculate gain/loss based on what you originally paid for the BTC.
+- ETH acquisition: new cost basis is £5,000 (the GBP value of the trade).
+
+This means many crypto traders generate **many taxable events** without ever cashing out to GBP. The tax bill can be substantial even if their bank account hasn&rsquo;t seen the gains.
+
+## The 30-day rule (Section 104 pooling)
+
+UK CGT rules for crypto use the &ldquo;Section 104 pool&rdquo; method, similar to shares. When you have multiple acquisitions of the same crypto:
+
+- All your holdings of that crypto are pooled at an **average cost basis**.
+- Each acquisition adds to the pool at its purchase price.
+- Each disposal removes from the pool at the average cost.
+
+The exception is the **30-day rule** (also called &ldquo;bed and breakfasting&rdquo; rule):
+
+- If you sell crypto and **rebuy the same crypto within 30 days**, the matching is against the rebuy (not the pool).
+- Effectively, you can&rsquo;t crystallise a loss by selling-and-rebuying within 30 days.
+
+A worked example:
+
+- Bought 1 BTC for £20,000 (pool).
+- Bought another 1 BTC for £25,000 (pool, average cost now £22,500).
+- Sold 1 BTC for £18,000.
+- Loss: £18,000 − £22,500 = −£4,500.
+
+If you rebought 1 BTC within 30 days at £19,000, the £18,000 sale is matched against the £19,000 rebuy:
+
+- Loss: £18,000 − £19,000 = −£1,000.
+- The original £22,500 pool average is unchanged.
+
+## The £3,000 annual exemption (2025/26)
+
+For 2025/26, the CGT annual exemption is **£3,000**.
+
+This was £6,000 in 2023/24, £12,300 before that. The exemption has been progressively cut.
+
+Your total gains (across all assets — crypto, shares, property, etc.) minus losses, minus the £3,000 allowance, equals your taxable gains.
+
+If your crypto disposals net to a gain of £8,000 in 2025/26:
+
+- Taxable gain: £8,000 − £3,000 = £5,000.
+
+If you have losses of £2,000 from other crypto trades and gains of £8,000:
+
+- Net gain: £6,000.
+- Taxable after allowance: £6,000 − £3,000 = £3,000.
+
+## CGT rates (post October 2024)
+
+From **30 October 2024**, CGT rates were unified across all asset types:
+
+- **18%** if your gain falls within your basic-rate band.
+- **24%** if your gain falls within higher-rate / additional-rate bands.
+
+The same rates apply to crypto, shares, residential property other than your main home, etc.
+
+A worked example:
+
+- You earn £40,000 salary.
+- Crypto gain (after allowance): £5,000.
+- Personal allowance + basic-rate band: £50,270 limit.
+- Your income + gain = £45,000 — fully within basic-rate band.
+- CGT: £5,000 × 18% = £900.
+
+If your salary were £60,000:
+
+- Basic-rate band already exhausted by salary.
+- £5,000 gain falls in higher-rate band.
+- CGT: £5,000 × 24% = £1,200.
+
+## How to declare on Self Assessment
+
+You report crypto gains in the **Capital Gains supplementary page (SA108)** of your Self Assessment:
+
+- **Date and description** of each disposal.
+- **Disposal proceeds**.
+- **Acquisition cost**.
+- **Allowable expenses**.
+- **Resulting gain or loss**.
+
+You don&rsquo;t need to enter each individual trade if your records are good — you can submit a summary with supporting calculations.
+
+You must also declare:
+
+- **Number of disposals** in the year.
+- **Total disposal value** (gross, before gains calculation).
+
+Even if your gains are below the £3,000 allowance, you may need to file if your **total disposals exceed £50,000** in the year. The reporting threshold is separate from the tax threshold.
+
+## When you don&rsquo;t need to file
+
+You don&rsquo;t need to register for Self Assessment if:
+
+- Total gains in the year are below £3,000 (annual exemption).
+- AND total proceeds (the gross value of all your disposals) is below £50,000.
+
+If either threshold is crossed, you must file.
+
+## What about losses?
+
+Crypto losses can be claimed:
+
+- **Against gains in the same year**: automatically.
+- **Carried forward** to future years: must be **claimed within 4 years** of the tax year the loss arose.
+- **&ldquo;Negligible value claim&rdquo;** for crypto that&rsquo;s become worthless: HMRC allows you to treat the crypto as effectively sold for £0, creating a loss.
+
+Claiming losses on Self Assessment is straightforward — declare them on SA108 with the relevant tax year.
+
+## Crypto-to-crypto trading is taxing
+
+A common gotcha. Active crypto traders making frequent trades generate many taxable events. Calculating gains across hundreds or thousands of trades is non-trivial.
+
+Tools that help:
+
+- **Specialist crypto tax software** (Koinly, CoinTracker, Recap, Accointing) — import exchange data, generate tax reports.
+- **Spreadsheets** for low-volume traders.
+- **Specialist crypto accountants** for high-volume or complex cases.
+
+The cost of crypto tax software is typically £49–£250/year depending on transaction volume — usually much less than the tax owed.
+
+## The £100,000+ disposal reporting
+
+If you have a high-value crypto disposal:
+
+- Above £50,000 of disposal proceeds (gross), you must file even if below allowance.
+- The post-disposal date, declared on SA108.
+
+## When mining and staking become taxable
+
+Mining and staking are typically treated as:
+
+- **Income** at the time you receive the reward (taxed at your marginal income tax rate).
+- **CGT applies** when you later sell the mined/staked crypto, on any gain from the value at receipt.
+
+So a £500 reward received from mining is income tax (£100 at 20% basic rate, say). If that crypto is later sold for £700, you have an £200 capital gain on top.
+
+The details vary depending on the nature of the activity — HMRC has specific guidance on staking, DeFi, NFTs, etc.
+
+## Internal links
+
+- [Do I pay tax on dividends from shares UK?](/do-i-pay-tax-on-dividends-from-shares-uk/)
+- [How do I file a self assessment tax return for the first time?](/how-do-i-file-a-self-assessment-tax-return-for-the-first-time/)
+- [What is the personal allowance and how does it work?](/what-is-the-personal-allowance-and-how-does-it-work/)
+
+---
+
+*This guide is information, not regulated financial advice. Crypto tax is complex and changing — speak to a qualified UK tax adviser for material gains or unusual activities like DeFi, staking, or NFT trading.*

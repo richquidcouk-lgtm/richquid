@@ -1,0 +1,184 @@
+---
+meta_title: "Is It Better to Fix My Mortgage for 2 or 5 Years?"
+meta_description: "2-year fix gives flexibility, 5-year gives certainty. The maths depends on rate-curve expectations. Often 5-year offers slightly lower rates in falling-rate environments."
+pillar: "Mortgages"
+source_keyword: "is it better to fix for 2 or 5 years"
+---
+
+# Is it better to fix my mortgage for 2 or 5 years?
+
+There&rsquo;s no universally right answer — it depends on **what you expect interest rates to do** and **how much certainty you value**. A 5-year fix gives **payment certainty** through a longer period and often comes with **slightly lower rates** when markets expect rates to fall. A 2-year fix gives **flexibility** to remortgage if rates fall further, with the risk of being locked into a higher rate if they rise. In a stable or falling rate environment (like 2025/26), **5-year fixes often offer better value** for borrowers who value certainty over flexibility.
+
+This is the decision framework for 2025/26.
+
+## How fixed-rate mortgages work
+
+A fixed-rate mortgage locks your interest rate for a defined period — typically 2, 3, 5, 7 or 10 years. Your monthly payment doesn&rsquo;t change during the fix, regardless of what the Bank of England base rate does.
+
+After the fix ends, you typically:
+
+- Remortgage to a new product, or
+- Drift onto the lender&rsquo;s SVR (much more expensive).
+
+The fix period&rsquo;s length is a key choice when you take out the mortgage and at each remortgage.
+
+## The 2-year fix
+
+### Pros:
+
+- **Flexibility**: you can remortgage to a better rate in 2 years if market rates have fallen.
+- **Lower commitment**: smaller window of uncertainty.
+- **Faster repricing**: if you expect rates to fall, you benefit sooner.
+
+### Cons:
+
+- **Lock-in to higher rate** if market rates rise sharply over 2 years.
+- **More frequent remortgaging admin** (every 2 years).
+- **Repeated remortgage costs** (legal, valuation, broker fees).
+
+## The 5-year fix
+
+### Pros:
+
+- **Payment certainty** for 5 years — useful for budgeting.
+- **Protection against rate rises** for a longer period.
+- **Less admin** — only remortgage every 5 years.
+- **Often slightly lower rates** when markets expect rates to fall.
+
+### Cons:
+
+- **Locked into higher rate** if market rates fall.
+- **Less flexibility** if you want to move home (porting available, but constrained).
+- **Higher Early Repayment Charges** if you exit early (typically up to 5% of balance).
+
+## When 5-year usually wins
+
+A 5-year fix tends to be the better choice when:
+
+### 1. Markets price rate cuts ahead
+
+If markets expect the BoE base rate to fall over the next 5 years, lenders price 5-year fixes slightly cheaper than 2-year fixes to attract borrowers. The borrower benefits by locking in a low rate now for the full 5-year period.
+
+In 2025/26, with BoE base rate having peaked in 2024 and markets pricing modest cuts ahead, 5-year fixes have often been competitive with 2-year.
+
+### 2. You&rsquo;re early in the mortgage term
+
+Early in a 25–35 year mortgage, your payments are mostly interest. A 5-year fix protects you against rate rises during the highest-interest portion of the loan.
+
+### 3. You&rsquo;re at the edge of affordability
+
+If a rate rise of 1% would significantly stretch your monthly budget, the certainty of a 5-year fix is worth more than the potential savings of a 2-year that might be cheaper next year.
+
+### 4. You don&rsquo;t plan to move soon
+
+If you expect to stay 5+ years in the property, a 5-year fix matches your time horizon.
+
+## When 2-year usually wins
+
+A 2-year fix tends to be the better choice when:
+
+### 1. Rates are expected to fall sharply
+
+If markets are pricing significant rate cuts (e.g. base rate falling 1.5%+ over 2 years), a 2-year fix lets you reprice to lower rates sooner.
+
+### 2. You might move within 2–3 years
+
+A shorter fix matches your time horizon. The Early Repayment Charge on a 2-year fix expires sooner, so you can move or refinance more freely.
+
+### 3. You think your circumstances might improve significantly
+
+If you&rsquo;re early in your career or starting a business and expect income to grow substantially, a 2-year fix lets you reprice with better LTV (more deposit, smaller relative mortgage) in 2 years.
+
+### 4. You believe the current rates are temporarily elevated
+
+If you think the current rate environment is at a cyclical peak, a 2-year fix lets you wait it out.
+
+## What rate gap is acceptable?
+
+A common decision framework: how much premium are you willing to pay for the extra 3 years of certainty?
+
+Example pricing scenarios:
+
+### Scenario A: 5-year fix at 4.5%, 2-year fix at 4.7%
+
+The 5-year is **cheaper** than the 2-year. Lenders are pricing in expected rate cuts. The 5-year locks in the lower rate plus offers longer-term certainty. Most borrowers would take the 5-year.
+
+### Scenario B: 5-year fix at 4.5%, 2-year fix at 4.3%
+
+The 5-year is **0.2% more expensive**. Over £200,000 mortgage and 5 years, that&rsquo;s about £2,000 extra interest. The 2-year saves £2,000 over 2 years if you can remortgage at a similar 4.3% rate when it expires.
+
+The trade-off: 2-year might let you remortgage at 3.5% if rates fall — significant savings — or might force a remortgage at 5.5% if rates rise.
+
+### Scenario C: 5-year fix at 4.5%, 2-year fix at 4.0%
+
+The 2-year is **0.5% cheaper**. The market is pricing rates to be lower in 2 years than in 5. The 2-year saves £5,000 over 2 years on a £200,000 mortgage. For this saving, you take rate risk for years 3–5.
+
+## The "exit and remortgage" alternative
+
+A worth considering: if your circumstances change significantly during your fix, you might want to exit early and remortgage. The cost:
+
+- **Early Repayment Charge (ERC)**: typically 2–5% of outstanding balance.
+- 2-year fix ERC: typically 2% in year 1, 1% in year 2.
+- 5-year fix ERC: typically 5% in year 1, decreasing to 1% in year 5.
+
+A 5-year fix is harder to exit early due to the larger ERC. Plan accordingly.
+
+## Should I fix for 10 years?
+
+Some UK lenders offer 10-year fixes. They&rsquo;re increasingly common.
+
+Pros:
+
+- **Maximum payment certainty** for 10 years.
+- **Sometimes lower rates** than 5-year if markets price long-term rate stability.
+
+Cons:
+
+- **Higher ERC** for early exit.
+- **Less flexibility** — life events over 10 years can be hard to predict.
+- **You miss any rate falls** for a longer period.
+
+For most UK borrowers, 10-year fixes are too inflexible. The exception: borrowers in stable circumstances with long time horizons who genuinely don&rsquo;t want to engage with mortgage decisions for a decade.
+
+## What about variable / tracker mortgages?
+
+The third option: a tracker mortgage that follows the BoE base rate plus a margin.
+
+When trackers win:
+
+- **Rates falling rapidly**: tracker automatically follows down.
+- **You think markets are wrong about future rates**.
+- **You value flexibility**: many trackers have no ERC.
+
+When trackers lose:
+
+- **Rates rising**: you bear the full impact of rate hikes.
+- **You need payment certainty**: variable payments break budgets.
+
+## Worked example: borrower deciding in 2025/26
+
+Liu has a £230,000 mortgage at 85% LTV. Current market rates available to her:
+
+- **2-year fix**: 4.4%.
+- **5-year fix**: 4.5%.
+- **Tracker (BoE base + 0.8%)**: 5.05% currently (with BoE base at 4.25%).
+
+Her thinking:
+
+- Markets price BoE cuts of 0.5% over the next 12–18 months.
+- If correct, the 2-year fix will reprice at 3.9% in 2027.
+- If markets are wrong and rates rise, the 5-year fix locks her at 4.5%.
+
+**Decision**: she takes the 5-year fix at 4.5%. Reasoning: 0.1% premium over 2-year for 5 years of payment certainty is acceptable. She prefers planning predictability to potentially squeezing 0.5% out in 2 years.
+
+For a borrower with higher tolerance for uncertainty and stronger conviction on rate falls, the 2-year fix would be the choice.
+
+## Internal links
+
+- [How does remortgaging work and when should I do it?](/how-does-remortgaging-work-and-when-should-i-do-it/)
+- [Can I overpay my mortgage to clear it early?](/can-i-overpay-my-mortgage-to-clear-it-early/)
+- [How much can I borrow on my salary UK?](/how-much-can-i-borrow-on-my-salary-uk/)
+
+---
+
+*This guide is information, not regulated financial advice. UK mortgages are regulated by the FCA — speak to a regulated mortgage adviser to discuss fix length for your circumstances.*

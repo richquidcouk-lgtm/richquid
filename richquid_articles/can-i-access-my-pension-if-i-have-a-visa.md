@@ -1,0 +1,125 @@
+---
+meta_title: "Can I Access My UK Pension if I Have a Visa?"
+meta_description: "Yes — visa status doesn't affect pension access age (55, rising to 57 in 2028). What changes if you leave the UK, plus tax treatment for visa holders."
+pillar: "Pensions"
+source_keyword: "can I access my pension if I have a visa"
+---
+
+# Can I access my pension if I have a visa?
+
+Yes. Visa status does not affect your right to access a UK pension. Anyone with a UK pension can begin drawing it from the minimum pension age — currently **55, rising to 57 from April 2028** — regardless of immigration status, residence or where they live. What changes for visa holders is the **tax treatment** of those withdrawals and how UK pension income is taxed in any other country where you&rsquo;re also tax-resident.
+
+This is what visa holders need to know about UK pensions, using 2025/26 rules.
+
+## Does visa type affect my pension access?
+
+No. Pension access is governed by HMRC&rsquo;s pension scheme rules — not by the Home Office. If you contributed to a UK workplace pension, SIPP or personal pension while in the UK, you own that pension and can access it from age 55 (57 from April 2028) wherever you are.
+
+This applies to all visa types:
+
+- Skilled Worker, Health and Care Worker visas.
+- Student visas, Graduate route.
+- Spouse, Partner, Parent visas.
+- Visitor visas (but you couldn&rsquo;t accrue pension if you weren&rsquo;t working).
+- Indefinite Leave to Remain (ILR), settled status, EU Pre-Settled Status.
+
+The pension is your money under contract law. Immigration status doesn&rsquo;t affect ownership.
+
+## What if I&rsquo;ve left the UK and my visa has expired?
+
+Your pension still belongs to you. You can:
+
+- **Continue holding it** with the UK provider. Most providers keep accounts for ex-UK residents indefinitely.
+- **Draw it from abroad** once you reach minimum pension age, via UK PAYE with treaty relief applied where applicable.
+- **Transfer it to a QROPS** in your country of residence (subject to the 25% Overseas Transfer Charge unless an exemption applies — see our [QROPS guide](/can-i-transfer-my-uk-pension-abroad/)).
+
+Some providers can&rsquo;t serve customers in certain countries (sanctioned countries, or countries where they don&rsquo;t have regulatory permission). In that case you may need to transfer the pension to a UK provider who does serve your destination — never to a third-party QROPS unless the structure is genuinely right for your situation.
+
+## What if I&rsquo;m still on a visa but planning to leave?
+
+If you&rsquo;re leaving the UK and have a workplace pension or SIPP, the most common steps before departure:
+
+1. **Consolidate scattered pots.** If you&rsquo;ve been in the UK for several years and changed jobs, you may have multiple workplace pensions. Consolidating into a single SIPP before leaving can reduce admin overhead from abroad.
+2. **Confirm the provider serves your destination.** Some platforms restrict service to UK addresses or won&rsquo;t allow non-residents to make investment changes.
+3. **Update contact details and tax residence** with the provider once you become non-resident.
+4. **Set up a UK bank account that allows non-resident operation** if your provider requires payments to a UK account.
+5. **Decide whether to keep contributing** — see below.
+
+## Can I keep contributing to my UK pension after I leave?
+
+Yes — but only with limited tax relief.
+
+UK tax relief on pension contributions normally requires UK earnings or UK residence. For ex-UK residents, the rule is:
+
+- For up to **five tax years after the year you leave the UK**, you can contribute up to **£3,600 gross per year** with basic-rate tax relief (£2,880 net, plus £720 HMRC top-up).
+- This applies even if you have no UK earnings during those years.
+- After five tax years, no further relief is given.
+
+You can contribute more than £3,600 gross, but no relief applies above that. Most planners don&rsquo;t recommend over-contributing without relief — you&rsquo;re locking the money up until age 57+ for no immediate benefit.
+
+## How is my UK pension withdrawal taxed if I&rsquo;m a visa holder still living in the UK?
+
+If you&rsquo;re on a visa and UK resident under the Statutory Residence Test, your pension withdrawal is taxed under standard UK pension rules:
+
+- **25% can be taken tax-free** (up to the Lump Sum Allowance of £268,275 in 2025/26).
+- **The remaining 75%** is taxed as income at your marginal rate — 0%, 20%, 40%, or 45% — on top of your other income.
+
+So a visa holder earning £40,000 PAYE who takes a £20,000 taxable pension withdrawal:
+
+- £20,000 added to taxable income → total £60,000.
+- £40,000–£50,270 taxed at 20% → £2,054.
+- £50,270–£60,000 taxed at 40% → £3,892.
+- Additional UK tax on the withdrawal: ~£5,946.
+
+(Plus any other deductions like student loan repayments if applicable.)
+
+The same rules apply to UK citizens and visa holders alike — the tax wrapper doesn&rsquo;t care about immigration status.
+
+## What if I&rsquo;m also tax-resident in another country?
+
+Some visa holders remain tax-resident in another country alongside the UK — particularly during arrival or departure transitions, or for those with dual citizenship who file taxes in both places (notably US citizens).
+
+In that case, **double-tax treaties** determine where the pension is ultimately taxed. The treaty between the UK and the other country usually says one of:
+
+1. Pension income is taxable only in the country of residence.
+2. Pension income is taxable in both, with credit for tax paid in the other.
+
+For Americans particularly, this is complex — the US taxes citizens on worldwide income regardless of residence, and US treatment of UK pensions doesn&rsquo;t always match UK treatment (the 25% tax-free lump sum is often taxed by the IRS).
+
+If you&rsquo;re subject to two tax systems, speak to a cross-border pension adviser before making any irreversible decisions about lump sums or drawdown timing.
+
+## Worked example: skilled worker visa holder leaving at 56
+
+Maria came to the UK on a Skilled Worker visa in 2018, worked here for 7 years, accumulated a workplace pension of £80,000, and returns permanently to Spain in 2025 at age 56.
+
+Her position:
+
+- **Pension stays in the UK.** She tells her provider she&rsquo;s now non-resident.
+- **At 56**, she could already start drawing the pension under current UK rules (minimum age 55 until April 2028). [VERIFY: confirm her exact minimum pension age based on scheme rules and 2028 change.]
+- **She decides to wait** until 60 to maximise investment growth.
+- **For tax years up to 2030** (5 tax years after leaving), she can contribute £3,600 gross per year with tax relief — useful if she has spare cash to lock up for 4+ more years.
+- **At age 60**, she starts drawdown.
+- **Applies for treaty relief** under the UK–Spain double tax treaty. The UK pension provider pays her gross; Spain taxes the income at Spanish rates.
+- **25% lump sum** — she takes advice on Spanish treatment before triggering. [VERIFY: with Spanish tax adviser.]
+
+The visa is irrelevant to all of this — what matters is residence, tax treaty and the pension scheme&rsquo;s own rules.
+
+## What about ILR — does indefinite leave change anything for pensions?
+
+ILR (Indefinite Leave to Remain) doesn&rsquo;t change the pension rules — pension access is determined by HMRC scheme rules, not Home Office status. ILR holders can:
+
+- Contribute to and access UK pensions exactly like UK citizens.
+- Keep the pension if they leave the UK (just as visa holders can).
+- Lose ILR if they spend more than 2 consecutive years outside the UK — but the pension itself doesn&rsquo;t care.
+
+If you&rsquo;re an ILR holder considering moving abroad and you may want to return later (perhaps to apply for citizenship after 12 months of residence), the pension stays put regardless. ILR loss is a separate issue.
+
+## Internal links
+
+- [What happens to my pension if I leave the UK permanently?](/what-happens-to-my-pension-if-i-leave-the-uk-permanently/)
+- [Can I transfer my UK pension abroad?](/can-i-transfer-my-uk-pension-abroad/)
+- [Can I take my pension at 55 and still work?](/can-i-take-my-pension-at-55-and-still-work/)
+
+---
+
+*This guide is information, not regulated financial advice. Pension access, cross-border tax and visa status interact in ways specific to your situation — speak to a qualified UK pension adviser before triggering withdrawals or transfers.*

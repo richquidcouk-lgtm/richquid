@@ -1,0 +1,256 @@
+---
+meta_title: "What's the Difference Between APR and AER UK? (2025/26)"
+meta_description: "APR is the cost of borrowing per year including fees. AER is the equivalent annual interest rate including compounding. They serve opposite purposes."
+pillar: "Savings and everyday"
+source_keyword: "what is the difference between APR and AER"
+---
+
+# What is the difference between APR and AER?
+
+**APR (Annual Percentage Rate)** is used for **borrowing** — it tells you the **total annual cost of credit** as a single percentage, including interest and most fees. **AER (Annual Equivalent Rate)** is used for **savings** — it tells you the **interest you&rsquo;ll earn over a year if interest is paid and compounded**, expressed as a single figure for comparison. APR is what you pay; AER is what you earn. Both are designed to let consumers compare products fairly, but they apply to opposite financial situations and follow different calculation rules under UK FCA regulations.
+
+This is the framework for 2025/26.
+
+## APR: Annual Percentage Rate (for borrowing)
+
+APR is the **cost of credit** expressed as a single annual percentage. It&rsquo;s used for:
+
+- **Credit cards**.
+- **Personal loans**.
+- **Mortgages** (separately, lenders also quote APRC for mortgages — Annual Percentage Rate of Charge).
+- **Car finance**.
+- **Buy Now Pay Later** schemes (when borrowing).
+- **Store cards**.
+- **Overdrafts**.
+
+What APR includes:
+
+1. **The interest rate** on the borrowing.
+2. **Mandatory fees** (arrangement fees, set-up fees, etc.).
+3. **Optional but typical fees** in some calculations.
+4. **The effect of compound interest** if the borrowing accumulates interest.
+
+What APR doesn&rsquo;t typically include:
+
+- Late payment fees.
+- Penalties for breaking terms.
+- Insurance or warranty add-ons.
+
+The APR is regulated by the FCA. Lenders must show it prominently on credit advertising. Two products with the same interest rate but different fee structures will have different APRs — making APR the standard comparison metric.
+
+A worked example for two credit cards:
+
+- **Card A**: 22% interest, no annual fee.
+- **Card B**: 18% interest, £25 annual fee.
+
+The APR calculation considers both:
+
+- **Card A APR**: 22% (no fees to factor in).
+- **Card B APR**: roughly 18% + (£25/£X usage) — depending on assumed usage, can be lower or higher than 22%.
+
+For someone carrying a £2,000 average balance, Card B&rsquo;s effective APR might be 19.25% — lower than Card A&rsquo;s 22%. The APR captures this nuance.
+
+## Representative APR vs Personal APR
+
+When you see a UK credit advert showing &ldquo;Representative APR 24.9%&rdquo;, this means:
+
+- **At least 51% of accepted applicants** receive this APR or better.
+- Some applicants will be offered higher APRs based on their credit profile.
+
+Your **personal APR** (the one you actually receive) may be:
+
+- **Same** as the representative APR — typical for applicants with strong credit.
+- **Higher** if your credit profile is weaker.
+- Visible to you only after the lender does a full credit check.
+
+This is why many UK borrowers get surprised when offered a 29% APR on a card advertising &ldquo;Representative 24.9%&rdquo;. The advert is honest under FCA rules; your specific rate depends on your application.
+
+## AER: Annual Equivalent Rate (for savings)
+
+AER is the **annual interest rate** on a savings account, assuming interest is **paid and compounded** within the year. It&rsquo;s the standard comparison metric for:
+
+- **Savings accounts** (easy-access, regular saver, fixed-rate bonds).
+- **Cash ISAs**.
+- **NS&I products** (Income Bonds, Direct Saver — not Premium Bonds which use prize rate).
+- **Bonds and gilts** (similar to AER, sometimes called effective yield).
+
+What AER tells you:
+
+- The total interest earned over a year, expressed as a single percentage.
+- Assumes interest is **reinvested** (compounded) within the year.
+- Allows fair comparison between products paying interest monthly, quarterly, annually, etc.
+
+A worked example:
+
+- **Product A**: pays 4% gross interest, monthly.
+- **Product B**: pays 4% gross interest, annually.
+
+Even though both have the same headline 4% gross rate, Product A&rsquo;s monthly interest compounds — the next month&rsquo;s interest is calculated on slightly higher balance.
+
+- Product A AER: ~4.07% (monthly compounding adds a little).
+- Product B AER: 4.00% (no compounding within the year).
+
+If you compare on the gross rate alone, both look the same. AER reveals Product A&rsquo;s monthly compounding advantage.
+
+## AER vs gross rate
+
+Most savings products quote both:
+
+- **Gross rate** (before tax, no compounding adjustment).
+- **AER** (with compounding factored in).
+
+Always compare AER to AER. Comparing gross rate to AER is misleading.
+
+For most UK products, gross rate and AER are similar — but they can differ by 0.05-0.15% for products with frequent compounding.
+
+## How AER and APR interact in different scenarios
+
+### A regular saver
+
+A regular saver at 5% AER pays:
+
+- 5% AER on the running balance.
+- You build the balance month by month.
+- Year-end interest: approximately 5% × (average balance).
+
+If you put in £200/month and the running balance averages £1,300, you receive about £65 interest — equivalent to about 5% AER on the average balance.
+
+The headline 5% is correct; the absolute interest amount is smaller than if you held £2,400 from day 1 at 5% AER.
+
+### A credit card
+
+A credit card with 22% APR:
+
+- If you carry a £2,000 balance for a year, you pay roughly £440 in interest.
+- The APR captures the compounding effect of unpaid interest.
+- Late or missed payments add penalty fees on top — not in the APR.
+
+### A mortgage
+
+A mortgage at 4.5% (effective annual rate) costs:
+
+- For £200,000 over 25 years: approximately £1,111/month, total ~£333,000 (£200k principal + £133k interest).
+- The APRC (mortgage equivalent of APR) includes arrangement fees and any product fees, so quoted APRC may be 4.7% vs base rate 4.5%.
+
+## Why they matter for decision-making
+
+### For borrowers
+
+The APR helps you:
+
+- Compare loans, cards, mortgages on a like-for-like basis.
+- See the true cost including fees, not just headline rate.
+- Make informed borrowing decisions.
+
+A common mistake: comparing headline rates without considering APR. A 6.9% &ldquo;representative&rdquo; loan with high arrangement fees might cost more than a 9.9% loan with no fees.
+
+### For savers
+
+The AER helps you:
+
+- Compare savings products on a like-for-like basis.
+- See the effect of compounding within the year.
+- Decide between monthly-paying and annual-paying products.
+
+A common mistake: ignoring AER and being seduced by &ldquo;headline&rdquo; rates that don&rsquo;t reflect compounding. A 4.2% annually-paid bond can return less than a 4.2% monthly-paid bond.
+
+## Comparing borrowing options
+
+When choosing between two loan options, look at:
+
+- **Headline interest rate**: starting point.
+- **APR**: most important comparison.
+- **Total cost over the term**: actual amount you&rsquo;ll pay.
+- **Fees**: arrangement, early repayment, late payment.
+- **Flexibility**: overpayment terms, early settlement, payment dates.
+
+A loan with lower APR is usually better, but check the terms — some low-APR products have inflexible repayment terms.
+
+## Comparing savings options
+
+When choosing between savings products, consider:
+
+- **Headline interest rate** as a guide.
+- **AER as primary comparison**.
+- **Access constraints** (fixed-rate vs easy-access).
+- **Interest payment frequency** (monthly vs annual).
+- **Deposit and withdrawal limits**.
+- **Tax wrapper** (ISA vs non-ISA).
+
+A 4.5% AER cash ISA often beats a 4.7% gross-rate easy-access savings account for higher-rate taxpayers because of the tax-free ISA wrapper.
+
+## A note on monthly vs annual compounding
+
+Some savings products explicitly advertise:
+
+- **Interest paid monthly**: monthly compounding, slightly higher AER.
+- **Interest paid annually**: less compounding, slightly lower AER.
+
+For practical purposes, the difference is small. Don&rsquo;t chase 0.05% of AER difference if it means accepting more restrictive terms.
+
+## Common APR/AER traps
+
+A few things to watch for:
+
+### 1. Introductory rates
+
+Many credit cards advertise &ldquo;0% APR for 12 months&rdquo;. After the intro period, the standard APR kicks in — often 22-30%. The headline 0% is real but temporary.
+
+### 2. &ldquo;Promo&rdquo; savings rates
+
+Some savings accounts pay a higher rate for the first 12 months, then drop to a lower rate. The AER is calculated for year 1 — but the second-year rate matters too.
+
+### 3. Variable rates
+
+Both APRs and AERs can be variable. A variable-rate mortgage can climb if the Bank of England base rate rises; a variable AER can drop. The displayed rate reflects today&rsquo;s value.
+
+### 4. Compounding period vs frequency of payment
+
+Some products pay interest monthly but compound it less frequently. The AER captures the true effect.
+
+### 5. Cashback vs interest rate
+
+Some products combine cashback (paid as a reward) with interest. The cashback isn&rsquo;t included in AER. Compare carefully.
+
+## Worked example: choosing a savings product
+
+Olivia is choosing between:
+
+- **Product A**: 5.0% AER easy-access cash ISA. Tax-free.
+- **Product B**: 5.2% AER easy-access savings (non-ISA). Subject to tax above PSA.
+
+She&rsquo;s a higher-rate taxpayer with £30,000 in savings, expecting to earn full £500 PSA elsewhere.
+
+- Product A: £30,000 × 5.0% = £1,500 interest, all tax-free.
+- Product B: £30,000 × 5.2% = £1,560 interest. £500 covered by PSA. £1,060 taxable. Tax at 40% = £424.
+- Product B net: £1,560 - £424 = £1,136.
+
+Despite Product B&rsquo;s slightly higher AER, Product A delivers £364 more after tax. The ISA wrapper wins.
+
+## Worked example: choosing a credit option
+
+Tom needs £5,000 for a planned purchase. Two options:
+
+- **Card A**: 0% on purchases for 15 months, then 24.9% APR. £25 annual fee.
+- **Personal loan**: 9.5% APR, £5,000 over 24 months, no fee. Monthly payment £230.
+
+If Tom can repay £334/month and clear the card in 15 months:
+
+- Card A: total cost £25 fee + £0 interest = £25.
+
+If Tom can only repay £230/month and falls into the post-intro APR:
+
+- Card A: significant interest charges in months 16+.
+- Personal loan: predictable £230/month for 24 months, total ~£5,520. Cost: £520.
+
+For Tom, the card is the obvious choice if he can clear within 15 months. If he can&rsquo;t, the loan is more predictable.
+
+## Internal links
+
+- [How does the personal savings allowance work?](/how-does-the-personal-savings-allowance-work/)
+- [Do I pay tax on savings interest UK?](/do-i-pay-tax-on-savings-interest-uk/)
+- [What is the best way to save for a house deposit?](/what-is-the-best-way-to-save-for-a-house-deposit/)
+
+---
+
+*This guide is information, not regulated financial advice. APR and AER calculations are regulated by the FCA. Always check the specific product terms before comparing.*

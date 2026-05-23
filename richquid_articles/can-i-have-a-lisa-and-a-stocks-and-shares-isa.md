@@ -1,0 +1,131 @@
+---
+meta_title: "Can I Have a LISA and a Stocks & Shares ISA?"
+meta_description: "Yes — you can hold and contribute to both in the same tax year. How the £4,000 LISA cap fits inside the £20,000 overall ISA allowance, with worked examples."
+pillar: "ISAs"
+source_keyword: "can I have a LISA and a stocks and shares ISA"
+---
+
+# Can I have a LISA and a stocks and shares ISA?
+
+Yes. You can hold a Lifetime ISA and a Stocks &amp; Shares ISA at the same time and contribute to both in the same tax year. The Lifetime ISA has its own £4,000 annual cap, which sits inside your overall £20,000 ISA allowance. So you could pay £4,000 into the LISA and up to £16,000 into the Stocks &amp; Shares ISA in 2025/26 — using the full allowance. The LISA earns a 25% government bonus on contributions up to £4,000 (worth up to £1,000 per year).
+
+This is how the two products work alongside each other for the 2025/26 tax year.
+
+## The allowance arithmetic
+
+The basics:
+
+- **Annual ISA allowance**: £20,000 per tax year.
+- **Lifetime ISA cap**: £4,000 per tax year, **within** the £20,000.
+- **Government LISA bonus**: 25% on LISA contributions, paid by HMRC (max £1,000 per year).
+
+If you use both:
+
+- LISA: up to £4,000 (gets £1,000 bonus = £5,000 in the LISA).
+- Stocks &amp; Shares ISA: up to £16,000 (the remainder of the £20,000).
+- Total your contribution: £20,000.
+- Total in ISA wrappers after bonus: £21,000.
+
+If you don&rsquo;t want to use the full LISA cap:
+
+- LISA: £2,000.
+- Stocks &amp; Shares ISA: up to £18,000.
+
+You can split the £20,000 in any combination — including paying nothing into one of them.
+
+## Who can hold a LISA alongside a stocks &amp; shares ISA?
+
+You can open a Lifetime ISA if:
+
+- You&rsquo;re aged **18 to 39** (inclusive) when opening.
+- You&rsquo;re UK resident for tax purposes.
+
+Once opened, you can keep contributing to the LISA until age 50 — even though you can&rsquo;t open a new one after 40.
+
+There&rsquo;s no age restriction on adult stocks &amp; shares ISAs other than being 18+. So if you&rsquo;re 25, you can open both today. If you&rsquo;re 41 and don&rsquo;t already have a LISA, you can&rsquo;t open one — but you can still open a stocks &amp; shares ISA.
+
+## Why hold both?
+
+A few reasons people use both:
+
+### 1. The LISA bonus is exceptional value
+
+The 25% government bonus on the LISA is unmatched anywhere else in UK personal finance. £4,000 of your money turns into £5,000 in the wrapper. Over 30 years at 5% real growth, that £5,000 grows to £21,600 — vs £17,280 without the bonus.
+
+If you&rsquo;re eligible for the LISA, getting the full £1,000 bonus each year is often worth doing **before** filling the rest of your stocks &amp; shares ISA.
+
+### 2. Different access rules
+
+- **LISA**: locked until either a first home (£450,000 cap) or age 60. Withdrawals for other purposes trigger a 25% penalty.
+- **Stocks &amp; Shares ISA**: no withdrawal restrictions, no penalty. Access any time, for any reason.
+
+This makes the LISA suit money you genuinely won&rsquo;t need for a long time, while the stocks &amp; shares ISA suits everything else. Holding both gives you both options.
+
+### 3. Spread the bonus
+
+The LISA bonus is paid monthly by HMRC (after a small delay). Spreading your annual £4,000 across the year vs. lump-sum at the end means more of the year is in the wrapper earning growth.
+
+## Are there age restrictions on contributing to both?
+
+- **LISA**: contributions allowed from 18 until age 50. After 50, the LISA continues to grow but you can&rsquo;t add new money.
+- **Stocks &amp; Shares ISA**: no age cap on contributions. As long as you&rsquo;re 18+ and UK resident, you can contribute throughout your life.
+
+A common pattern:
+
+- Age 18–50: fund LISA up to £4,000/year + S&amp;S ISA up to £16,000/year.
+- Age 50+: skip the LISA (no contributions possible), fund S&amp;S ISA up to £20,000/year.
+
+## Can I move money between the two?
+
+Yes, but only one direction practically works.
+
+### LISA → S&amp;S ISA
+
+You can transfer money from a LISA to a Stocks &amp; Shares ISA — but the 25% withdrawal penalty applies on the amount transferred. This is treated as a non-qualifying withdrawal.
+
+In practice, almost no one does this voluntarily. The exception is if you decide you won&rsquo;t use the LISA for a qualifying purpose (first home or age 60+) and want to free up access — but the penalty makes it expensive.
+
+### S&amp;S ISA → LISA
+
+You can transfer money from a Stocks &amp; Shares ISA into your LISA, but the transfer counts toward your **£4,000 annual LISA cap**, not just your overall £20,000.
+
+If you&rsquo;ve already used £4,000 of LISA allowance this year, you can&rsquo;t transfer more in until next tax year.
+
+## Worked example: 28-year-old saving for first home
+
+Emma is 28, earns £45,000, and is saving for a first home in 4 years. Her ISA plan for 2025/26:
+
+- **LISA contribution**: £4,000 (max). Gets £1,000 bonus = £5,000 in the LISA wrapper.
+- **Stocks &amp; Shares ISA contribution**: £6,000 (lower S&amp;S allocation while she&rsquo;s on a 4-year horizon).
+- **Cash ISA contribution**: £4,000 (for closer-term flexibility).
+- **Total contributions**: £14,000 of her £20,000 allowance used.
+- **Remaining allowance**: £6,000 (kept available if she gets a bonus or wants to top up later).
+
+In 4 years:
+
+- LISA value (with bonus, ~4% growth): roughly £24,000 across 4 years of contributions + bonus + growth.
+- She uses the LISA toward her £450k-or-less first home purchase.
+- The S&amp;S ISA grows for the long term.
+- The Cash ISA is liquid for moving costs or other near-term needs.
+
+If she didn&rsquo;t hold both, she&rsquo;d miss out on the LISA bonus. Holding only the LISA would mean less liquidity. The combination gets her the bonus plus flexibility.
+
+## What if I&rsquo;m 40+ and already missed the LISA window?
+
+If you didn&rsquo;t open a LISA before age 40, you can&rsquo;t open one now. The alternative is to maximise the stocks &amp; shares ISA and consider:
+
+- **Pension contributions** for retirement (tax relief at marginal rate, but locked until 57+).
+- **Stocks &amp; Shares ISA** for general long-term wealth.
+- **First-home saving** if applicable: stocks &amp; shares ISA still works, just without the LISA bonus.
+
+Some people who missed the LISA window opt to use a SIPP for the first-home retirement-overlap, accepting the access age trade-off in exchange for marginal-rate tax relief.
+
+## Internal links
+
+- [What happens to my LISA if I buy a house over 450k?](/what-happens-to-my-lisa-if-i-buy-a-house-over-450k/)
+- [Is a Junior ISA worth it?](/is-a-junior-isa-worth-it/)
+- [Can I pay into two ISAs in the same tax year?](/can-i-pay-into-two-isas-in-the-same-tax-year/)
+
+---
+
+*This guide is information, not regulated financial advice. The decision between using a LISA, a stocks &amp; shares ISA or a pension for long-term saving depends on individual circumstances — speak to a regulated adviser if it&rsquo;s a material decision.*

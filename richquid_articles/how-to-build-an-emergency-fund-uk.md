@@ -1,0 +1,233 @@
+---
+meta_title: "How to Build an Emergency Fund UK (2025/26)"
+meta_description: "Target 3-6 months of essential expenses in instant-access cash. The standard UK approach — accounts, savings rate, and when to dial up to 12 months."
+pillar: "Savings and everyday"
+source_keyword: "how to build an emergency fund UK"
+---
+
+# How to build an emergency fund in the UK
+
+A typical UK emergency fund target is **3 to 6 months of essential monthly expenses** held in **easy-access cash** (cash ISA, easy-access savings account, or premium bonds). Build it gradually by setting aside 10-20% of post-tax income each month into a dedicated account. Don&rsquo;t hold it in stocks (too volatile for emergencies), and don&rsquo;t mix it with day-to-day spending. The fund covers job loss, medical issues, urgent home repairs and similar events that would otherwise force you into expensive credit.
+
+This is the framework for 2025/26.
+
+## Why an emergency fund matters
+
+The emergency fund prevents:
+
+- **Credit card debt at 20-30% APR** during income gaps.
+- **Selling investments at the worst time** (often when markets are down and your job is at risk).
+- **Selling assets** under pressure (selling your home, withdrawing pension early).
+- **Financial panic** that leads to poor decisions.
+
+The cost of NOT having an emergency fund is often much higher than the relatively modest interest income you might earn elsewhere.
+
+## How much should I save?
+
+The standard UK target is **3-6 months of essential expenses** — not your total monthly spending, just the essentials you couldn&rsquo;t easily cut.
+
+### Calculating essential monthly expenses
+
+Include:
+
+- **Rent or mortgage**.
+- **Council tax**.
+- **Utility bills** (gas, electric, water).
+- **Broadband** (often essential for work).
+- **Insurance** (home, life, etc.).
+- **Groceries** (modest).
+- **Transport** to work.
+- **Childcare** if relevant.
+- **Loan repayments** that you can&rsquo;t pause.
+
+Exclude:
+
+- Subscriptions you could cancel.
+- Discretionary spending.
+- Holidays and entertainment.
+- Gifts and non-essential shopping.
+
+A typical UK household: £1,800–£3,500/month of essentials.
+
+For a £2,500/month essentials figure:
+
+- 3 months emergency fund: £7,500.
+- 6 months: £15,000.
+- 12 months: £30,000.
+
+### How much is right for you?
+
+The right amount depends on your circumstances:
+
+- **3 months** is the minimum. Suitable for stable dual-income households with secure jobs.
+- **6 months** is the standard recommendation for most households.
+- **9-12 months** is appropriate for: single earners, irregular income (self-employed), high-risk sectors (construction, hospitality, finance during downturns).
+
+## Where to hold the emergency fund
+
+The emergency fund must be:
+
+1. **Accessible within 24-72 hours** — not locked away.
+2. **Capital-preserving** — value won&rsquo;t drop when you need it.
+3. **Earning some interest** — but interest is secondary to safety.
+
+### Cash ISA (easy-access)
+
+The default for most UK savers:
+
+- Tax-free interest.
+- Withdrawal access usually same-day or next-day.
+- Typical rates 4-5% AER in 2025/26.
+- Use up your £20,000 annual ISA allowance.
+
+### Easy-access savings account (non-ISA)
+
+If your ISA allowance is filled or you prefer non-ISA:
+
+- Slightly higher interest sometimes than cash ISAs.
+- Interest subject to PSA / income tax.
+- Same instant access.
+
+### Premium Bonds
+
+A reasonable supplement for emergency funds above ISA limits:
+
+- 100% NS&I protection (beyond £85k FSCS).
+- Withdrawal in days.
+- Prize-based returns (variable, average ~3.8%).
+- Tax-free prizes.
+
+### Fixed-rate savings — generally NO
+
+Fixed-rate bonds and ISAs lock your money for 1-5 years. **Not suitable for emergency funds** because:
+
+- Early withdrawal triggers penalties (90-180 days&rsquo; interest).
+- Withdrawal restrictions during the fix.
+
+If you have a longer-term cash pot beyond your emergency fund, fixed-rate makes sense — but emergency money should stay liquid.
+
+### Stocks &amp; Shares ISA — NEVER
+
+Equities can drop 30-50% in a recession. Selling at the bottom to fund an emergency would be catastrophic.
+
+The whole point of the emergency fund is stability. Don&rsquo;t mix the goal of emergency liquidity with the goal of long-term wealth building.
+
+## How to build it from scratch
+
+Pace yourself. The emergency fund usually takes 12-36 months to build at sensible savings rates.
+
+### Step 1: Start with the £1,000 starter buffer
+
+Before doing anything else with savings, build a small £1,000-£2,000 cushion. The aim: handle small emergencies (broken boiler, car repair) without going into debt.
+
+This isn&rsquo;t the &ldquo;real&rdquo; emergency fund — it&rsquo;s the &ldquo;safety net so you can build the rest without sliding backwards.&rdquo;
+
+### Step 2: Save consistently
+
+Set up a **standing order** from your current account to a separate emergency fund account. Suggested amounts:
+
+- **10%** of post-tax income (conservative).
+- **20%** of post-tax income (aggressive).
+
+The key is **automation**. Manual saving usually fails because it competes with discretionary spending.
+
+### Step 3: Don&rsquo;t touch it (except for emergencies)
+
+The emergency fund is for **genuine emergencies**, not for:
+
+- Holidays.
+- Christmas spending.
+- &ldquo;Investment opportunities&rdquo;.
+- Furniture or upgrades.
+
+Setting up separate savings goals for each purpose (e.g. a Christmas saver, a holiday saver, etc.) keeps the emergency fund untouched for true emergencies.
+
+### Step 4: Adjust as life changes
+
+Review annually:
+
+- Has your income changed?
+- Have your essential expenses changed?
+- Is your job/sector situation stable?
+
+Adjust the target accordingly.
+
+## What counts as an emergency?
+
+True emergencies — use the fund:
+
+- **Job loss** for self or partner.
+- **Major medical issues** affecting your ability to work.
+- **Unexpected major home repair** (heating system failure, roof damage).
+- **Bereavement** with urgent costs.
+- **Family crisis** requiring travel or support.
+- **Major appliance failure** (washing machine, fridge) that you need replaced immediately.
+
+NOT emergencies — don&rsquo;t use the fund:
+
+- **Black Friday deals**.
+- **Holiday opportunities**.
+- **Friend&rsquo;s wedding gift**.
+- **Christmas shopping**.
+- **Car upgrade**.
+- **Investment opportunities**.
+
+If something isn&rsquo;t a true emergency, fund it from other savings, postpone it, or save up separately.
+
+## What if I&rsquo;m in debt?
+
+If you have high-interest debt (credit cards, payday loans):
+
+- Build a small £1,000 starter buffer first.
+- Then aggressively pay down the debt before building the full emergency fund.
+- After debt is cleared, build the emergency fund to 3-6 months.
+
+This is because high-interest debt costs more than the emergency fund earns. Eliminating 20%+ debt is mathematically the same as a 20%+ guaranteed return.
+
+See our [UK personal finance order of operations](/uk-personal-finance-order-of-operations/) for the full priority pyramid.
+
+## Worked example: building from a starting position
+
+Jamie, 32, earns £35,000 post-tax. Monthly essential expenses: £2,200. Target: 6 months = £13,200.
+
+**Plan**:
+
+- Open easy-access cash ISA.
+- Set up £400/month standing order (about 14% of income).
+- £4,800/year savings.
+- Plus interest on growing balance at 4.5% = ~£20/month after year 1.
+
+**Timeline**:
+
+- Year 1: ~£4,800 + interest = £4,900.
+- Year 2: ~£10,000 total.
+- Year 3: ~£15,200 — emergency fund target achieved.
+
+Once at target, Jamie can:
+
+- Stop adding to the emergency fund.
+- Redirect the £400/month to other priorities (ISA equity portion, pension, debt clearance).
+- Continue letting the emergency fund earn interest, topping up if essentials grow.
+
+## Where the emergency fund fits in the UK financial pyramid
+
+The typical priority order:
+
+1. **£1,000–£2,000 starter buffer** (emergency cushion).
+2. **High-interest debt elimination** (cards, payday loans).
+3. **Employer pension match capture**.
+4. **Full 3-6 month emergency fund**.
+5. **ISA / further pension contributions**.
+6. **Long-term equity investing**.
+
+The emergency fund comes after debt and employer pension match but before discretionary equity investing. It&rsquo;s a foundational layer, not optional.
+
+## Internal links
+
+- [What is the best way to save for a house deposit?](/what-is-the-best-way-to-save-for-a-house-deposit/)
+- [How does the personal savings allowance work?](/how-does-the-personal-savings-allowance-work/)
+- [What is a regular saver account and is it worth it?](/what-is-a-regular-saver-account-and-is-it-worth-it/)
+
+---
+
+*This guide is information, not regulated financial advice. Emergency fund needs vary by individual circumstances — speak to a regulated adviser for personalised guidance.*

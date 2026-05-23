@@ -1,0 +1,193 @@
+---
+meta_title: "What Credit Score Do I Need for a UK Mortgage?"
+meta_description: "There's no fixed credit score for a UK mortgage — lenders use their own scoring models. Most mainstream lenders accept 'Good' on Experian (881+). Specialist routes for lower."
+pillar: "Mortgages"
+source_keyword: "what credit score do I need for a mortgage UK"
+---
+
+# What credit score do I need for a UK mortgage?
+
+There&rsquo;s no fixed credit score for a UK mortgage — UK lenders use their own internal scoring models, not the consumer-facing Experian / Equifax / TransUnion scores. Most mainstream UK lenders will accept applicants with a credit profile rated **&ldquo;Good&rdquo; on Experian (881–960) or higher**, equivalent to **&ldquo;Good or Excellent&rdquo; on Equifax (671+) or TransUnion (604+)**. Lower scores limit choice to specialist lenders at higher rates. The most important things on your credit file are recent payment history (no missed payments), low utilisation, electoral roll registration, and absence of CCJs, defaults or bankruptcies in the last 6 years.
+
+This is the framework for 2025/26.
+
+## What the credit score actually means
+
+The score you see on free apps like ClearScore, Credit Karma, or MoneySavingExpert is a **consumer-facing approximation** of your credit-worthiness from one of the three UK credit reference agencies:
+
+- **Experian** — 0–999 scale; 881+ is &ldquo;Good&rdquo;, 961+ is &ldquo;Excellent&rdquo;.
+- **Equifax** — 0–1000 scale; 671+ is &ldquo;Good&rdquo;, 811+ is &ldquo;Excellent&rdquo;.
+- **TransUnion** — 0–710 scale; 604+ is &ldquo;Good&rdquo;, 628+ is &ldquo;Excellent&rdquo;.
+
+Lenders **don&rsquo;t see this score**. They access your underlying credit file (the data) and apply their own internal scoring models. So the displayed score is a useful indicator but not the deciding factor.
+
+## What lenders actually look at
+
+When you apply, a mortgage lender checks your credit file at one or more of the three agencies. They look at:
+
+### 1. Payment history
+
+The single biggest factor. Lenders look at the last **6 years** for:
+
+- **Missed payments**: even one in the last 12 months reduces your score significantly.
+- **Late payments**: anything more than 30 days overdue.
+- **Defaults**: when a debt is officially given up by the lender.
+- **CCJs (County Court Judgments)**: court-ordered payment obligations.
+- **IVAs and bankruptcies**: insolvency arrangements.
+
+Clean history for 6+ years is the goal. Any of the above significantly reduce mortgage options.
+
+### 2. Credit utilisation
+
+How much of your available credit you&rsquo;re using. UK lenders prefer:
+
+- **Below 30% utilisation** across credit cards.
+- **No overdraft excess**.
+- **Cards not maxed out**.
+
+Even with clean payment history, high utilisation looks risky to lenders.
+
+### 3. Recent credit applications
+
+Each application creates a **hard search** on your file. Multiple applications in a short period (last 6 months) make lenders nervous.
+
+The fix: limit new credit applications in the 3 months before applying for a mortgage. Soft searches (rate-shopping comparison tools) don&rsquo;t harm your file.
+
+### 4. Address history and electoral roll
+
+Lenders prefer:
+
+- **Stable address history** (no frequent moves).
+- **Registered on the electoral roll** at current address (if eligible).
+- **6+ months** at current address.
+
+### 5. Existing debts and commitments
+
+The actual debt you currently hold — credit cards, loans, car finance, BNPL — counts in the affordability assessment alongside the credit score.
+
+## Different scores from different agencies
+
+It&rsquo;s common to have noticeably different scores at the three agencies:
+
+- Experian: 850 (Good).
+- Equifax: 700 (Good).
+- TransUnion: 580 (Fair).
+
+Each agency holds different data — some lenders only report to one or two agencies. The lender doing the mortgage check uses **one specific agency** (depends on the lender).
+
+It&rsquo;s worth checking all three free of charge to understand your overall picture.
+
+## Free credit checking services
+
+UK credit reference agencies offer free access to your file:
+
+- [ClearScore (Equifax)](https://www.clearscore.com/) — monthly updates, free, no ads pressure.
+- [MoneySavingExpert Credit Club (Experian)](https://www.moneysavingexpert.com/) — monthly updates, free.
+- [Credit Karma UK (TransUnion)](https://www.creditkarma.co.uk/) — weekly updates, free.
+
+All show:
+
+- Your current score and grade.
+- Account-by-account history.
+- Any negative marks.
+- Tips for improvement.
+
+Don&rsquo;t pay for credit checking services — the free ones provide the same data lenders see.
+
+## Improving your credit score before applying
+
+If your score isn&rsquo;t where you want it, allow at least **3–6 months** to improve before applying for a mortgage:
+
+1. **Pay all bills on time, every time** — even small ones (utility, phone, council tax). Automate where possible.
+2. **Pay down credit card balances** below 30% utilisation.
+3. **Register on the electoral roll** if not already.
+4. **Don&rsquo;t apply for new credit** in the 3 months before your mortgage application.
+5. **Don&rsquo;t close old credit accounts** — credit length matters.
+6. **Check for errors** in your credit file and dispute them. Errors do happen and can damage your score.
+
+For applicants with significantly damaged credit, the path is longer — defaults stay on file for 6 years from the date of the default, CCJs for 6 years from the judgment date.
+
+## What lenders accept by credit category
+
+A rough guide to what credit categories typically unlock:
+
+### Excellent credit (961+ Experian, 811+ Equifax, 628+ TransUnion)
+
+- All major lenders, best rates, full product range.
+- Higher LTI multiples sometimes available.
+
+### Good credit (881+ Experian, 671+ Equifax, 604+ TransUnion)
+
+- Mainstream lender access.
+- Standard product range.
+- Competitive rates.
+
+### Fair credit (721+ Experian, 439+ Equifax, 566+ TransUnion)
+
+- Limited mainstream choice.
+- Some specialist lenders at slightly higher rates.
+- Higher deposit usually required.
+
+### Poor credit (561+ Experian, 380+ Equifax, 551+ TransUnion)
+
+- Specialist lenders mainly.
+- Significantly higher rates (1–2% premium).
+- Larger deposit required (20%+).
+
+### Very poor credit (below 561 Experian, etc.)
+
+- Few mainstream options.
+- Bridging finance or specialist sub-prime lenders.
+- Rates typically 6%+.
+
+## Specific issues and their impact
+
+### CCJs
+
+Recent CCJs are very damaging. After 6 years they fall off the file. Even old CCJs marked as &ldquo;Satisfied&rdquo; can show as relatively recent for lender purposes.
+
+### Defaults
+
+Defaults remain for 6 years. Their impact reduces over time but stays material until they age off.
+
+### Bankruptcies and IVAs
+
+Major events. Most mainstream lenders won&rsquo;t lend within 6 years of discharge. Specialist lenders may at 4+ years post-discharge.
+
+### Missed payments
+
+A missed payment in the last 12 months damages your score considerably. After 12 months it has less weight but is still on the file for 6 years.
+
+### Multiple recent applications
+
+3+ hard searches in 3 months = lenders see you as desperate or being declined elsewhere. Hold off on credit applications in the months before your mortgage application.
+
+## Worked example: improving credit ahead of mortgage
+
+Liam, 32, wants to apply for a mortgage in 18 months. He checks his ClearScore: 720 (Fair).
+
+He reviews his file:
+
+- One missed credit card payment 8 months ago.
+- £4,500 on a £5,000 credit card limit (90% utilisation).
+- Not on the electoral roll (he moved last year, didn&rsquo;t update).
+- One IVA from 7 years ago (just falling off).
+
+12-month plan:
+
+- Set up direct debit to clear card balance, target 30% utilisation by month 4.
+- Register on electoral roll within 30 days.
+- Avoid new credit applications for 12 months.
+- The IVA falls off after 6 years from discharge, improving the file naturally.
+
+After 12 months, his score should be ~800–850 (Good). 18 months later, his mortgage application has a much stronger position.
+
+## Internal links
+
+- [How much deposit do I need as a first time buyer?](/how-much-deposit-do-i-need-as-a-first-time-buyer/)
+- [How much can I borrow on my salary UK?](/how-much-can-i-borrow-on-my-salary-uk/)
+- [How does remortgaging work and when should I do it?](/how-does-remortgaging-work-and-when-should-i-do-it/)
+
+---
+
+*This guide is information, not regulated financial advice. UK mortgages are regulated by the FCA — speak to a regulated mortgage adviser for a personalised assessment.*

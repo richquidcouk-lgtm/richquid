@@ -1,0 +1,215 @@
+---
+meta_title: "Do I Pay Tax on Dividends from Shares UK? (2025/26)"
+meta_description: "Yes — outside an ISA. First £500 tax-free under Dividend Allowance, then 8.75% basic, 33.75% higher, 39.35% additional rate. ISA dividends are tax-free."
+pillar: "Tax and side income"
+source_keyword: "do I pay tax on dividends from shares UK"
+---
+
+# Do I pay tax on dividends from shares in the UK?
+
+Yes — on dividends received **outside an ISA, SIPP or other tax wrapper**. The first **£500 per tax year is tax-free** under the Dividend Allowance. Above that, dividends are taxed at **8.75% (basic-rate band)**, **33.75% (higher-rate band)** or **39.35% (additional-rate band)** for 2025/26. Dividends inside a stocks &amp; shares ISA or pension are completely tax-free and don&rsquo;t use the allowance. The Dividend Allowance has been progressively cut — it was £2,000 in 2022/23.
+
+This is the dividend tax framework for 2025/26.
+
+## What counts as a dividend for tax purposes
+
+UK tax treats &ldquo;dividends&rdquo; as:
+
+- **Dividends from UK company shares** (whether listed on the stock market or in a limited company you own).
+- **Distributions from open-ended investment companies (OEICs)** and **investment trusts**.
+- **Some other distributions** that have a similar character to dividends.
+
+What&rsquo;s separate:
+
+- **Interest** (uses the Personal Savings Allowance).
+- **Capital gains** (use the £3,000 annual exemption).
+- **REIT property income distributions** (taxed as property income, not dividends, in many cases).
+
+## The Dividend Allowance for 2025/26
+
+The first £500 of dividend income each tax year is tax-free under the **Dividend Allowance**.
+
+Historical context:
+
+- 2017/18 – 2022/23: £2,000.
+- 2023/24: £1,000.
+- 2024/25 onwards: **£500**.
+
+The progressive cut has substantially increased the tax burden on share investors holding outside ISAs.
+
+## Dividend tax rates
+
+Above the £500 allowance, dividends are taxed at rates that fit within your income tax bands:
+
+- **Basic-rate band (£12,570–£50,270)**: **8.75%**.
+- **Higher-rate band (£50,270–£125,140)**: **33.75%**.
+- **Additional-rate band (above £125,140)**: **39.35%**.
+
+These rates are lower than income tax rates because the underlying company has already paid corporation tax on the profits being distributed.
+
+## How dividends sit in your income
+
+Dividends are added on top of your other income. They use up bands in order:
+
+1. **Personal allowance** is used by non-dividend income first.
+2. **Basic-rate band** then used by non-dividend, then dividends.
+3. **Higher-rate band** for any spillover.
+
+A worked example:
+
+- Salary: £30,000.
+- Dividends: £8,000.
+
+Income tax position:
+
+- Personal allowance: £12,570 (used by salary).
+- Basic-rate band: covers salary £12,570–£30,000 + dividends £0–£500 (allowance) = effectively £17,930 of salary + £500 dividends.
+- Salary in basic rate: £17,430 taxed at 20% = £3,486.
+- Dividends covered by allowance: £500 tax-free.
+- Remaining dividends in basic rate: £7,500 taxed at 8.75% = £656.
+- **Total tax**: £3,486 + £656 = £4,142.
+
+## Dividends from your own limited company
+
+If you&rsquo;re a director-shareholder of a limited company, dividends are often a tax-efficient way to extract profit:
+
+- Company pays corporation tax on profits (19–25%).
+- After-tax profit is then available for dividends.
+- You pay personal dividend tax on the dividend.
+
+The combined effective tax rate (corporation tax + dividend tax) is often **lower than salary** for owner-directors. Many small companies use a **salary up to the NI threshold (~£12,570) + dividends for the rest** structure.
+
+A worked example for a basic-rate dividend recipient:
+
+- Company profit: £40,000.
+- Corporation tax at 19%: £7,600. (For small companies under £50k profit; 25% above £250k.)
+- After-tax profit: £32,400.
+- Distributed as dividend.
+- Personal dividend tax: (£32,400 − £500) × 8.75% = £2,792.
+- **Total combined tax**: £7,600 + £2,792 = **£10,392** (26% effective).
+
+Compare to salary at 25% combined income tax + NI (rough): £10,000 tax on £40,000.
+
+The dividend route is roughly comparable for small profits but becomes more efficient at higher levels, particularly with the personal allowance preserved.
+
+## Dividends inside an ISA — completely tax-free
+
+Dividends received from shares held inside a **Stocks &amp; Shares ISA** are:
+
+- **Not taxed** in the UK.
+- **Don&rsquo;t use the £500 Dividend Allowance**.
+- **Don&rsquo;t need declaring** on Self Assessment.
+
+This is one of the most valuable aspects of the ISA wrapper for income-focused investors. A portfolio paying 4% dividends in an ISA generates tax-free income for life — whereas the same portfolio outside an ISA is taxed every year.
+
+## Dividends inside a pension — completely tax-free until withdrawal
+
+Dividends inside a SIPP or workplace pension:
+
+- **Not taxed** while inside the pension.
+- The pension grows tax-free until you withdraw.
+- On withdrawal: taxed as income (the 25% tax-free lump sum aside).
+
+For a long-term investor, the pension wrapper&rsquo;s tax-free dividend reinvestment is hugely beneficial.
+
+## Foreign dividends
+
+If you receive dividends from foreign companies (outside the UK):
+
+- They&rsquo;re typically subject to **foreign withholding tax** at source (rates vary — often 15% for US, 25%+ for some European countries).
+- They&rsquo;re also taxable in the UK at the same dividend rates (8.75/33.75/39.35%).
+- The **UK-foreign tax treaty** typically allows you to claim a credit for foreign tax paid against UK tax owed.
+
+You report foreign dividends on the **Foreign Income** supplementary page of your Self Assessment.
+
+## REIT (Real Estate Investment Trust) dividends
+
+REITs often distribute income as &ldquo;Property Income Distributions (PIDs)&rdquo; — which are taxed as **property income**, not dividends:
+
+- Subject to **basic/higher/additional rate income tax** (20%, 40%, 45%).
+- 20% basic-rate tax is **withheld at source** by the REIT.
+- You report the gross amount on your Self Assessment.
+
+This makes REIT income tax less favorable than ordinary dividends — particularly for higher-rate taxpayers.
+
+REIT income inside an ISA is, however, completely tax-free — no withholding, no further tax. Worth considering for income-focused investors.
+
+## How dividends interact with the personal allowance taper
+
+A common high-earner scenario: dividends push you over £100,000 of adjusted net income, triggering the personal allowance taper.
+
+- Combined income (salary + dividends) above £100k starts removing £1 of allowance per £2 of income over.
+- Personal allowance fully exhausted at £125,140 of adjusted net income.
+
+For directors paying themselves with dividends, this can be unexpectedly punitive. Each £2 of dividend income above £100k effectively costs:
+
+- Dividend tax at higher rate: 33.75% × £2 = £0.675.
+- Lost personal allowance: 40% × £1 = £0.40.
+- Effective rate: 50%+ on each £2 of additional dividend income.
+
+This is why some director-shareholders use **pension contributions** to keep adjusted income below £100k — preserving the personal allowance and avoiding the effective 60% marginal rate band.
+
+## Reporting dividends on Self Assessment
+
+You report:
+
+- **UK dividends** in the &ldquo;Income from UK dividends&rdquo; section of the SA100 main form.
+- **Foreign dividends** on the SA106 Foreign Income page.
+- **Total dividends received** in the tax year (not net of withholding tax).
+
+If your **total income is under £150,000** and your dividends are all from listed UK companies, the main form often handles it. For complex situations, the Foreign page or specific schedules apply.
+
+If you don&rsquo;t currently need to file Self Assessment but have dividends over £500 above other income reaching the personal allowance limit, you should register to file — your dividend tax can&rsquo;t be deducted at source.
+
+## When dividends don&rsquo;t need declaring
+
+You don&rsquo;t need to register for Self Assessment for dividends alone if:
+
+- Your total dividend income is £500 or below (covered by allowance).
+- AND you don&rsquo;t need to file for any other reason.
+
+For someone with PAYE income only + £400 of dividends:
+
+- Within £500 allowance.
+- No tax owed.
+- No need to register.
+
+If dividends rise above £500 in any year, you must register and file.
+
+## Worked example: high earner with significant dividends
+
+Karim earns £80,000 salary plus £15,000 of dividends from his investment portfolio (outside ISA).
+
+**Income position**:
+
+- Combined: £95,000.
+- Personal allowance: £12,570 (used by salary).
+- Salary in basic rate: £37,700 × 20% = £7,540.
+- Salary in higher rate: (£80,000 − £50,270) = £29,730 × 40% = £11,892.
+- **Salary income tax**: £19,432.
+
+**Dividend position**:
+
+- Dividend allowance: £500 tax-free.
+- Remaining dividends: £14,500.
+- All falls in higher rate (income above £80,000 + dividends keeps us above £50,270).
+- Higher-rate dividend tax: £14,500 × 33.75% = £4,894.
+
+**Total tax**: £19,432 + £4,894 = **£24,326**.
+
+If the same £15,000 of dividends were in an ISA:
+
+- Tax saved: £4,894.
+- Same gross income, much more take-home.
+
+For investors with substantial dividend income, sheltering in ISAs is increasingly valuable as the Dividend Allowance shrinks.
+
+## Internal links
+
+- [How to declare crypto gains to HMRC](/how-to-declare-crypto-gains-to-hmrc/)
+- [Do I pay tax on freelance income alongside a full time job?](/do-i-pay-tax-on-freelance-income-alongside-a-full-time-job/)
+- [How do I file a self assessment tax return for the first time?](/how-do-i-file-a-self-assessment-tax-return-for-the-first-time/)
+
+---
+
+*This guide is information, not regulated financial advice. Dividend tax rules can change between budgets — confirm on [gov.uk](https://www.gov.uk/) before relying on specific figures.*

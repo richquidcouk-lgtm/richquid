@@ -1,0 +1,170 @@
+---
+meta_title: "Mortgage with 1 Year Self-Employed Accounts? (UK 2025)"
+meta_description: "Yes — some UK lenders accept 1 year of self-employed accounts, including Halifax, Kensington and specialist lenders. The criteria and rate trade-offs."
+pillar: "Mortgages"
+source_keyword: "can I get a mortgage with 1 year self employed accounts"
+---
+
+# Can I get a mortgage with 1 year of self-employed accounts?
+
+Yes — but the lender pool narrows significantly. Most mainstream UK lenders prefer **2 to 3 years of accounts** for self-employed mortgage applicants. A smaller group accept **1 year of accounts**, including Halifax, NatWest, Aldermore, Pepper, Kensington and a handful of building societies (subject to criteria changes). You&rsquo;ll typically face slightly higher rates (0.25–0.75% premium), tighter affordability tests, and stricter documentation than employed borrowers. Going through a broker is essential.
+
+This is the framework for 2025/26.
+
+## Why lenders prefer 2+ years of accounts
+
+The fundamental issue is **income predictability**. For employed borrowers, the salary on payslips is straightforward — same number every month, with employer reference confirming continuation.
+
+Self-employed income is variable. A first-year self-employed person:
+
+- May have built up an unusually busy or quiet first year.
+- Hasn&rsquo;t demonstrated consistency.
+- Hasn&rsquo;t been through a normal business cycle.
+
+Two years of accounts give lenders enough data to:
+
+- Average the income.
+- Identify a trend (growing, stable, declining).
+- Assess seasonality and variability.
+
+For lenders willing to accept 1 year, they&rsquo;re betting on the documented income with limited downside protection — which is why they price the risk slightly higher.
+
+## Who accepts 1 year of accounts?
+
+Subject to current product availability (always changing), lenders known to accept 1 year of self-employed accounts include:
+
+- **Halifax** — typically with strong income documentation and a clean credit file.
+- **NatWest** — has specific 1-year SE products.
+- **Aldermore** — specialist lender, often accommodates 1-year SE.
+- **Pepper Money** — specialist with 1-year SE products.
+- **Kensington** — specialist, often used by brokers for 1-year SE.
+- **Selected building societies** — Hinckley &amp; Rugby, Newcastle BS, Skipton, some others.
+
+[VERIFY: confirm current lender criteria with a specialist mortgage broker.]
+
+These typically also accept:
+
+- Sole trader accounts.
+- Limited company director accounts (with the director&rsquo;s salary and dividend takings).
+- Contractor day-rate income (subject to specific contractor criteria).
+
+## How lenders calculate self-employed income
+
+Different lenders use different metrics:
+
+### Sole trader
+
+Most lenders use **net profit** from your Self Assessment tax return (the SA302) or accounts.
+
+For 1-year SE applicants:
+
+- Use the most recent SA302 / accounts.
+- Average against employer-equivalent reference if you transitioned to self-employment mid-year (e.g. used to be employed by the same business).
+
+### Limited company director
+
+Two approaches:
+
+- **Salary + dividends**: total of what the company paid you personally.
+- **Director&rsquo;s share of profits**: some lenders look at the company&rsquo;s retained profit + your share + your salary. This can be much higher than salary + dividends alone if you&rsquo;ve been retaining profit in the company.
+
+Specialist lenders that consider share of profits include some BTL specialists and self-employed-focused lenders.
+
+### Contractor day rates
+
+For day-rate contractors (typically IT, engineering, consultants):
+
+- Day rate × ~46 working weeks × 5 = annual income.
+- Some lenders use a more conservative 230-day annual base.
+
+This calculation is more favourable than treating the contractor as fully self-employed and using full SA302 figures.
+
+## Documentation needed for 1-year SE applications
+
+Substantially more than employed applicants. Typical requirements:
+
+1. **Latest SA302 / Tax Year Overview** from HMRC.
+2. **Accounts prepared by an accountant** for the most recent business year.
+3. **Last 3 months of business and personal bank statements**.
+4. **Letter from accountant** confirming the figures and any explanations of unusual items.
+5. **CV or business plan** in some cases, especially if the business is new.
+6. **Evidence of continuing work** (existing contracts, retainer agreements, current pipeline).
+7. **Proof of identity, address, deposit source** — standard for all mortgages.
+
+Some lenders also ask for:
+
+- A copy of any **professional qualifications** relevant to the business.
+- **Business website** or social media presence.
+- **References from previous clients or employer** (especially if you transitioned from employed to self-employed).
+
+The administrative burden is much higher than for employed borrowers.
+
+## Affordability assessment
+
+UK lenders are required by FCA rules to assess affordability — i.e. that you can repay the mortgage at a stressed interest rate.
+
+For 1-year SE applicants:
+
+- Standard 4–4.5× annual income is the typical lending multiple.
+- Stress test at ~7–9% rate over the mortgage term.
+- Lenders may apply a slightly lower multiple (3.5–4×) due to perceived risk.
+- Affordability tighter for new businesses with limited cash buffer.
+
+## What about the deposit?
+
+The deposit usually needs to be 10–25% for 1-year SE applicants — many lenders won&rsquo;t do 95% LTV for newly self-employed.
+
+Higher deposit improves your position significantly:
+
+- More lenders to choose from.
+- Lower rates.
+- Easier affordability assessment.
+
+## Working with a broker is almost essential
+
+For 1-year SE applications, a specialist self-employed mortgage broker is invaluable because:
+
+- They know current lender criteria for newly SE applicants.
+- They can quote multiple lenders without each running a separate hard credit check.
+- They know which lender accepts which type of income (sole trader vs Ltd vs contractor).
+- They have relationships with specialist lenders that don&rsquo;t typically deal direct with borrowers.
+
+Brokers are FCA-regulated and typically paid by the lender (no fee to you) or by a flat broker fee (£300–£800). Clarify the model before engaging.
+
+## What if I have less than 1 year of accounts?
+
+If you&rsquo;re less than 12 months self-employed:
+
+- Most lenders will decline you.
+- A few specialist lenders take applications based on **projections, contracts and business plans** — usually at significantly higher rates.
+- Often borrowers wait until they have at least 12 months of SE accounts.
+
+If you previously had a salary in the same industry (e.g. employed solicitor going self-employed as a solicitor), some lenders use the combined employment + new SE record to bridge.
+
+## Worked example: 1 year of SE accounts, IT contractor
+
+David is an IT contractor, day rate £400, working as a sole trader. He has 1 full year of accounts:
+
+- Net profit (2024/25): £45,000.
+- Current pipeline: 4 ongoing contracts.
+
+His position:
+
+- 4.5× income calculation: £45,000 × 4.5 = £202,500 maximum mortgage.
+- He has £40,000 deposit saved.
+- Target: £240,000 property.
+- Loan needed: £200,000. Within his LTI cap.
+
+Using a broker, he finds a 1-year SE accepting lender at 4.7% (vs ~4.5% for an equivalent employed applicant). Over 25 years, the 0.2% premium costs ~£10,000 in extra interest — a real cost but accessible mortgage.
+
+If he&rsquo;d waited another year (2 years of SE accounts), he could likely get mainstream rates and a wider lender pool. The trade-off: 12 months of waiting vs higher rate now.
+
+## Internal links
+
+- [How much can I borrow on my salary UK?](/how-much-can-i-borrow-on-my-salary-uk/)
+- [What credit score do I need for a mortgage UK?](/what-credit-score-do-i-need-for-a-mortgage-uk/)
+- [How does remortgaging work and when should I do it?](/how-does-remortgaging-work-and-when-should-i-do-it/)
+
+---
+
+*This guide is information, not regulated financial advice. UK mortgages are regulated by the FCA — speak to a specialist mortgage broker for self-employed applications.*

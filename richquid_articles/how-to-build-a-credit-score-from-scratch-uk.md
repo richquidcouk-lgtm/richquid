@@ -1,0 +1,174 @@
+---
+meta_title: "How to Build a UK Credit Score from Scratch (Step-by-Step)"
+meta_description: "A clear order for building UK credit from nothing — current account, electoral roll, credit-builder card, then mainstream. The 12-month plan that works."
+pillar: "Savings and everyday"
+source_keyword: "how to build a credit score from scratch UK"
+---
+
+# How to build a UK credit score from scratch
+
+The fastest reliable route to a strong UK credit file: **open a UK current account**, register on the electoral roll if eligible, get **one credit-builder credit card**, use it for small purchases and **pay the balance in full every month**, and keep the activity consistent for **12 months**. After a year of clean use, you&rsquo;ll typically have access to mainstream credit cards, lower rates, and qualify for most mortgages. The specific actions in the right order matter more than &ldquo;trying harder&rdquo;.
+
+This is the plan, in detail, with the mechanics that actually move the score.
+
+## What is a UK credit score?
+
+A &ldquo;credit score&rdquo; isn&rsquo;t a single number — it&rsquo;s a snapshot of your credit history across three UK credit reference agencies:
+
+- **Experian** — uses a 0–999 scale; 881+ is &ldquo;Excellent&rdquo;.
+- **Equifax** — uses a 0–1000 scale; 811+ is &ldquo;Excellent&rdquo;.
+- **TransUnion** — uses a 0–710 scale; 628+ is &ldquo;Excellent&rdquo;.
+
+Lenders don&rsquo;t use the consumer-facing scores you see on free apps like ClearScore, Credit Karma, or MoneySavingExpert&rsquo;s Credit Club. They use **their own internal scoring models** built from the underlying credit report data. So the public score is an indicator, not the actual deciding factor.
+
+What lenders actually look at:
+
+1. **Accounts you hold and their payment history** — every credit card, loan, mobile contract, utility account.
+2. **Time on file** — how long you&rsquo;ve had credit relationships.
+3. **Recent credit applications** — too many in a short time looks risky.
+4. **Defaults, CCJs, IVAs, bankruptcies** — these stay on file for 6 years.
+5. **Address history** — stable address vs frequent moves.
+6. **Electoral roll registration** — strong positive signal if you&rsquo;re eligible.
+
+## Step 1: Get a UK current account
+
+Without a UK current account, you can&rsquo;t do anything else on this list. See our [bank account guide for new arrivals](/how-to-open-a-bank-account-as-a-new-arrival-to-the-uk/).
+
+The current account itself doesn&rsquo;t directly affect your credit score — current accounts aren&rsquo;t reported to credit bureaus in the way credit cards are. But it&rsquo;s a foundation for everything else: salary deposits, direct debits, credit card payments all flow through it.
+
+## Step 2: Register on the electoral roll (if eligible)
+
+The electoral roll is the single biggest free boost to your credit file. It demonstrates a verified UK address relationship.
+
+Eligibility:
+
+- UK citizens.
+- Irish citizens.
+- EU citizens with settled or pre-settled status.
+- Certain Commonwealth citizens with the right to remain.
+
+Register at [gov.uk: register to vote](https://www.gov.uk/register-to-vote). Takes 5 minutes online; the local authority confirms within a few weeks. Once confirmed, you&rsquo;ll appear on the electoral roll, and credit reference agencies use this to verify your identity.
+
+If you&rsquo;re not eligible to vote (e.g. on a Skilled Worker visa without ILR), you can&rsquo;t register. The fix is to provide alternative proof of address — passport, BRP, signed tenancy agreement, utility bills — when applying for credit. Some lenders accept these as substitutes for electoral roll registration.
+
+## Step 3: Open a single credit-builder credit card
+
+This is where credit building actually begins. The pattern: get one card, use it small, pay it off in full, and let time work.
+
+Recommended starting points (subject to current availability):
+
+- **Capital One Classic** — accessible, transparent, well-known.
+- **Aqua** — long-running credit-builder brand.
+- **Tesco Foundation** — straightforward.
+- **Barclaycard Forward** — if you&rsquo;re an existing Barclays customer.
+
+Apply for one. Wait for approval — typically 3–14 days. Once you have the card:
+
+- Set up the card account online or via the provider&rsquo;s app.
+- **Set up automatic full balance payment by direct debit**. This is non-negotiable — automation prevents missed payments.
+- Start using the card for small regular purchases (£50–£150/month is plenty).
+
+## Step 4: Use the card responsibly for 6+ months
+
+Three rules for using a credit-builder card:
+
+1. **Pay the full balance every month.** Never carry a balance — the APR is high and it doesn&rsquo;t help your credit any more than paying in full does.
+2. **Keep utilisation below 30%.** If your limit is £500, don&rsquo;t spend more than £150 in a billing cycle. Lower utilisation looks better to lenders.
+3. **Don&rsquo;t miss a payment — ever.** Set up direct debit. Set a calendar reminder. Whatever it takes.
+
+If you do these three things for 6 months, your credit reference file shows:
+
+- A credit card account in good standing.
+- Six months of on-time payments.
+- Healthy utilisation (not maxed out).
+- No defaults, CCJs or recent searches.
+
+Lenders see this and treat you very differently from someone with no file at all.
+
+## Step 5: Check your credit file (free, quarterly)
+
+Use the free services to monitor your credit file:
+
+- **ClearScore** ([clearscore.com](https://www.clearscore.com/)) — Equifax data, updated monthly. Free, no ads.
+- **MoneySavingExpert Credit Club** — Experian data, updated monthly. Free.
+- **Credit Karma UK** — TransUnion data, updated weekly. Free.
+- **Statutory credit reports** — by law, you can get a free report from each agency. Available via [Experian](https://www.experian.co.uk/), [Equifax](https://www.equifax.co.uk/), [TransUnion](https://www.transunion.co.uk/).
+
+Check each quarterly. Look for:
+
+- **Errors** — incorrect addresses, accounts you don&rsquo;t recognise, wrong payment marks. Dispute via the agency&rsquo;s correction process.
+- **Missed payments** — if a payment was actually made on time, dispute it.
+- **Hard searches** — these are recorded each time you apply for credit. Multiple in a short time look risky.
+
+Disputing errors is free and can move your file by tens of points.
+
+## Step 6: After 6 months, consider a second card
+
+Once your first credit-builder card has 6+ months of clean history, your file looks substantially better. You may be eligible for:
+
+- A mainstream low-rate credit card (e.g. Halifax, Lloyds, NatWest standard cards).
+- A rewards card (cashback, Amex, M&S).
+- Higher credit limits on existing cards (some lenders auto-increase after 5–6 months).
+
+Apply for ONE additional card if useful. Pay it off in full. Don&rsquo;t close the original — keeping older accounts open helps your credit length.
+
+## Step 7: After 12 months, apply for &ldquo;real&rdquo; products
+
+After a year of clean use:
+
+- Apply for a competitive mainstream credit card with rewards or a 0% balance transfer.
+- Apply for a mobile phone contract (post-pay rather than PAYG) — these report to credit agencies and add to your file.
+- Apply for a personal loan or car finance if needed (only if you genuinely need the credit — never just for the credit-building effect).
+
+By month 12, your credit file shows:
+
+- Multiple accounts in good standing.
+- 12 months of on-time payments.
+- Healthy utilisation.
+- No defaults or adverse marks.
+- Stable address history.
+
+Lenders treat this file similarly to a UK-born resident with similar tenure.
+
+## Things to avoid in your first 12 months
+
+A few habits to avoid:
+
+- **Applying for many cards in quick succession.** Hard searches stack up.
+- **Closing accounts.** Old accounts in good standing help your file age.
+- **Carrying balances.** Pay in full. Interest doesn&rsquo;t help your score.
+- **Using payday loans.** They damage your profile, even when repaid.
+- **Maxing out cards.** Even if you pay in full, statement-date utilisation matters.
+- **Missing utility or mobile bill payments.** Many of these report to credit reference agencies.
+
+## What about overdrafts?
+
+Authorised overdrafts (with your bank&rsquo;s permission) don&rsquo;t harm your credit file as long as you stay within the limit. **Unauthorised overdrafts** (going below the agreed limit, or having a payment returned) appear as adverse data and damage your file.
+
+If you&rsquo;re using an overdraft regularly, treat it as a debt rather than &ldquo;extra income&rdquo;. The interest rates are high (often 35–40%) and the credit profile impact is real.
+
+## Worked example: 12-month timeline
+
+Reema arrives in the UK on a Spouse visa in June 2025.
+
+- **June**: opens Monzo current account and joint HSBC account. Sets up salary deposit.
+- **June**: registers on the electoral roll (eligible via UK spouse).
+- **July**: applies for Capital One Classic. Approved at £500 limit, 34.9% APR.
+- **July–December**: spends £100–£150/month on groceries, pays in full each month via direct debit.
+- **September**: Capital One increases limit to £1,000.
+- **December**: checks ClearScore — moved from no score to ~720/999 (Good).
+- **January 2026**: applies for an HSBC standard credit card. Approved.
+- **April 2026**: applies for mortgage broker pre-screen. Multiple lenders willing to offer based on her now-strong UK credit profile.
+- **June 2026**: 12 months in, full mainstream credit access.
+
+The total monetary cost of the process: zero (free current account + credit card paid in full each month).
+
+## Internal links
+
+- [How to open a bank account as a new arrival to the UK](/how-to-open-a-bank-account-as-a-new-arrival-to-the-uk/)
+- [What credit cards can I get with no UK credit history?](/what-credit-cards-can-i-get-with-no-uk-credit-history/)
+- [What is the difference between APR and AER?](/what-is-the-difference-between-apr-and-aer/)
+
+---
+
+*This guide is information, not regulated financial advice. Credit-building takes time and depends on individual circumstances — there&rsquo;s no shortcut. Always check current product terms before applying.*

@@ -1,0 +1,163 @@
+---
+meta_title: "Can I Port My Mortgage to a New House UK?"
+meta_description: "Most UK fixed-rate mortgages are portable — you keep the same rate when moving. The lender re-runs affordability and the property must meet their criteria."
+pillar: "Mortgages"
+source_keyword: "can I port my mortgage to a new house"
+---
+
+# Can I port my mortgage to a new house?
+
+Yes — most UK fixed-rate mortgages are **portable**, meaning you can move them to a new property without paying the Early Repayment Charge (ERC) for breaking the fix. You keep your existing interest rate, but the lender re-runs **affordability checks** and the new property must meet their **valuation and criteria**. If you&rsquo;re buying a more expensive home and need additional borrowing, a top-up loan at current market rates is added. The ERC applies only if you actually leave the lender entirely.
+
+This is how mortgage porting works in 2025/26.
+
+## What &ldquo;porting&rdquo; actually means
+
+When you move home, your mortgage either:
+
+- **Stays with you** (gets ported to the new property), or
+- **Gets paid off** with the sale proceeds, and you take a new mortgage on the new property.
+
+Porting keeps your existing mortgage product — same lender, same rate, same fix expiry — but moves the lien from your old house to your new house.
+
+The process:
+
+1. Sell your existing home.
+2. Buy a new home.
+3. Lender redeems the old mortgage and creates a new mortgage on the new property, with the same terms.
+
+The lender doesn&rsquo;t literally &ldquo;move&rdquo; the mortgage — the old loan is paid off and a new one is created. But for product, rate and ERC purposes, they treat it as a continuation.
+
+## Why porting matters
+
+The main reason: **avoiding the Early Repayment Charge (ERC)**.
+
+Most fixed-rate mortgages have ERCs of 1–5% of the outstanding balance if you pay off early. For a £250,000 mortgage with a 3% ERC, that&rsquo;s £7,500 — a real cost if you can&rsquo;t port.
+
+Porting also lets you keep:
+
+- A favorable rate that&rsquo;s no longer available.
+- The remaining fix term length without re-applying.
+- Your overall mortgage structure.
+
+For someone who fixed at 2.0% in 2020/21 (when rates were unusually low), being able to port to a new home means keeping the historic rate rather than remortgaging onto today&rsquo;s much higher rates.
+
+## What lenders check when you port
+
+Porting isn&rsquo;t automatic. The lender treats it like a fresh application in several ways:
+
+### 1. Affordability re-check
+
+Your current income, expenses and debts are reassessed. Even though you&rsquo;ve been paying the mortgage successfully, the lender wants to confirm you can afford payments on the new property.
+
+If your circumstances have deteriorated (lost a job, taken on debts, gone self-employed), the lender may not approve the port — or may approve at a reduced borrowing level.
+
+### 2. Property valuation
+
+The new property must meet the lender&rsquo;s **valuation and acceptability criteria**:
+
+- Not on a cladding-affected building (post-Grenfell criteria).
+- Standard construction (not pre-fabricated, ex-public-housing-non-traditional, etc.).
+- Acceptable EPC rating in some cases.
+- Sensible LTV based on new property value.
+
+If the new property is below the lender&rsquo;s standards, they decline the port.
+
+### 3. New LTV calculation
+
+The lender calculates LTV based on the new property value and the outstanding mortgage:
+
+- If selling at £300,000 with £180,000 mortgage outstanding (60% LTV), and buying at £400,000 with £240,000 needed... the new LTV is 60% — same as before.
+- If the new LTV is higher (you&rsquo;re moving up to a more expensive home), the lender may apply different rates to the additional borrowing.
+
+## What if I need to borrow more?
+
+Often the case when upsizing. You sell £300k, buy £400k, need £100k extra mortgage.
+
+The lender typically:
+
+- **Ports the existing mortgage** at the existing rate.
+- **Adds a top-up loan** at current market rates for the additional borrowing.
+
+So if your existing mortgage is at 2.5% (fixed pre-2022) and current market rate is 4.5%:
+
+- Port £180,000 at 2.5%.
+- Additional £100,000 at 4.5%.
+- Blended effective rate: ~3.2%.
+
+This is materially better than fully remortgaging the whole loan at today&rsquo;s rates.
+
+## What if I&rsquo;m downsizing or paying off some mortgage?
+
+If you&rsquo;re moving to a less expensive home or paying down the mortgage:
+
+- The ported mortgage is for a smaller amount.
+- Some lenders apply the ERC on the **amount paid off** rather than letting you reduce the mortgage without penalty.
+
+For example, if you have a £250,000 mortgage and want to port only £200,000 to the new property (paying off £50,000):
+
+- The £50,000 you&rsquo;re effectively paying off may trigger an ERC (typically the same % as full early redemption).
+- £50,000 × 3% ERC = £1,500.
+
+Some lenders allow this within the standard 10% overpayment allowance. Check your terms.
+
+## Timing issues with porting
+
+Porting requires the **sale and purchase to complete simultaneously** (or within a short window — typically 90 days).
+
+If you sell first and don&rsquo;t buy immediately:
+
+- Mortgage is redeemed.
+- ERC may apply.
+- You become a non-borrower, then have to start fresh when buying.
+- New mortgage at current rates.
+
+This is one of the biggest porting traps — if your buyer&rsquo;s chain falls through or your purchase is delayed, you can lose the port.
+
+The fix: **bridge financing** or staying in temporary accommodation while the new purchase progresses. Both are expensive but cheaper than ERC + remortgage premium.
+
+## When porting isn&rsquo;t possible
+
+Several scenarios where porting doesn&rsquo;t work:
+
+- **Lender changed criteria**: the new property doesn&rsquo;t meet their current standards.
+- **Your affordability deteriorated**: lender can&rsquo;t justify the port.
+- **The product is no longer available**: legacy products may not be portable to new properties.
+- **Specific product terms**: a small number of mortgage products are explicitly non-portable. Check your offer document.
+- **Timing**: sale and purchase don&rsquo;t complete close enough together.
+
+In any of these cases, you remortgage onto a new product — paying ERC if applicable on the old one.
+
+## Worked example: porting during a move
+
+Tom has a £180,000 fixed-rate mortgage at 3.5%, with 3 years remaining on a 5-year fix. He sells his £300k home and buys a £380k home.
+
+His position:
+
+- Net sale proceeds: £300,000 − £180,000 (mortgage outstanding) − selling costs (~£8,000) = £112,000.
+- He puts £112,000 toward the £380,000 purchase as deposit.
+- Needs £268,000 mortgage on new property.
+
+Porting plan:
+
+- Port £180,000 at 3.5% (his existing rate).
+- Top up £88,000 at current market rate of 4.7%.
+- Blended rate: ~3.9% on combined £268,000.
+
+Without porting:
+
+- ERC on £180,000 at 3% = £5,400.
+- Full mortgage at current 4.7% rate.
+- Cost saving over 3 remaining years of his fix: significant on the £180k portion.
+
+Total savings from porting: ~£8,000–£12,000 over the remaining fix period, vs paying ERC and remortgaging at full current rates.
+
+## Internal links
+
+- [How does remortgaging work and when should I do it?](/how-does-remortgaging-work-and-when-should-i-do-it/)
+- [Can I overpay my mortgage to clear it early?](/can-i-overpay-my-mortgage-to-clear-it-early/)
+- [What fees do I pay when buying a house UK?](/what-fees-do-i-pay-when-buying-a-house-uk/)
+
+---
+
+*This guide is information, not regulated financial advice. UK mortgages are regulated by the FCA — speak to a regulated mortgage adviser before relying on the porting option in a specific move.*

@@ -1,0 +1,206 @@
+---
+meta_title: "How Much Can I Borrow on My Salary in the UK?"
+meta_description: "Most UK lenders cap at 4–4.5× gross income. Some go to 5–5.5× for higher earners or specific products. The factors that affect your actual borrowing limit."
+pillar: "Mortgages"
+source_keyword: "how much can I borrow on my salary UK"
+---
+
+# How much can I borrow on my salary in the UK?
+
+Most UK mainstream mortgage lenders cap borrowing at **4 to 4.5× gross annual income**. A smaller group of lenders stretch to **5–5.5×** for higher earners, certain professions (doctors, lawyers, accountants), or specific products. The actual figure depends on income type, monthly debts, deposit size and lender-specific criteria. Joint mortgages use combined income, with both applicants assessed. Beyond the LTI cap, the **stress test** ensures you could still afford the mortgage at a higher interest rate (typically 7–9%) — sometimes this becomes the binding constraint.
+
+This is how UK lenders actually calculate borrowing capacity in 2025/26.
+
+## The standard 4 to 4.5× LTI
+
+Most UK lenders apply a **Loan-to-Income (LTI)** multiplier between 4× and 4.5× gross income. Some examples:
+
+- **Single applicant earning £40,000**: ~£160,000–£180,000 maximum mortgage.
+- **Single applicant earning £60,000**: ~£240,000–£270,000 maximum mortgage.
+- **Joint applicants earning £40,000 + £35,000** (£75,000 combined): ~£300,000–£337,500 maximum.
+
+These are headline figures — actual offers may be lower if other factors (debts, credit profile, deposit) reduce affordability.
+
+The Bank of England imposes a separate constraint on lenders: they can only have a limited share of their mortgage book at LTI ratios above 4.5×. This means the 4.5× rule is hard for most lenders.
+
+[Bank of England — financial stability constraints](https://www.bankofengland.co.uk/financial-stability).
+
+## When lenders stretch to 5× or higher
+
+Some lenders offer higher LTI ratios for specific borrowers:
+
+### Higher earners
+
+For applicants earning over £75,000 individually or £100,000 jointly, some lenders extend to:
+
+- 4.75× LTI.
+- 5× LTI.
+- 5.5× LTI (rare).
+
+The logic: higher absolute incomes mean more disposable cash after essentials, so a larger mortgage is genuinely affordable.
+
+Lenders known for stretched LTI on higher earners: Halifax, Barclays, HSBC, Nationwide, certain private banks.
+
+### Professional mortgages
+
+Some lenders offer professional mortgages with LTI of 5× or higher for:
+
+- **Doctors and dentists** in the NHS / private practice.
+- **Lawyers** (solicitors, barristers, in firms with documented progression).
+- **Accountants** in chartered firms.
+- **Architects** with chartered status.
+- **Senior IT contractors** at specific day rates.
+
+Eligibility criteria are tight — typically chartered status plus a clean credit file.
+
+### Track Record schemes
+
+Some lenders offer products that use rental payment history as part of the affordability case. If you&rsquo;ve been paying £1,500/month rent for 3 years, the lender treats that as evidence you can afford a similar mortgage payment — often extending LTI to 5–5.5× of your declared income.
+
+These are typically marketed to first-time buyers stuck because the 4.5× rule limits them below house prices that match their rental costs.
+
+## Joint applications
+
+Joint mortgages use both applicants&rsquo; income, but it&rsquo;s not always simply additive.
+
+### Standard joint approach
+
+Combined income × LTI multiple. For a couple earning £50,000 + £40,000 = £90,000:
+
+- 4.5× LTI = £405,000 maximum mortgage.
+
+### Higher earner approach
+
+Some lenders use a hybrid:
+
+- Higher earner: 4.5× their income.
+- Lower earner: 3× to 4× their income.
+- Combined: typically less than 4.5× × combined income.
+
+For the same £50,000 + £40,000 couple:
+
+- £50,000 × 4.5 = £225,000.
+- £40,000 × 4 = £160,000.
+- Combined: £385,000.
+
+This treats each applicant&rsquo;s capacity separately, which can be slightly lower than simple combined LTI.
+
+### Joint application affordability
+
+Beyond LTI, the lender stress-tests joint affordability:
+
+- Both incomes considered.
+- Joint expenses, credit cards, loans included.
+- If one applicant has poor credit, the joint application may be declined.
+
+## How monthly debts reduce borrowing capacity
+
+UK lenders subtract debt service from income in their affordability calculation.
+
+A common heuristic: every £100 of monthly debt reduces maximum borrowing by approximately £3,000.
+
+For a £50,000 earner with £100/month credit card payments and £150/month car finance:
+
+- Income: £50,000.
+- Standard 4.5× LTI: £225,000.
+- Less debt impact: £250 × £3,000 / £100 = £7,500.
+- Adjusted maximum: ~£217,500.
+
+For £400/month of car finance and credit cards combined:
+
+- Reduction: ~£12,000.
+- Maximum mortgage: ~£213,000.
+
+For £600/month of debts:
+
+- Reduction: ~£18,000.
+- Maximum: ~£207,000.
+
+Clearing debts before applying usually unlocks more borrowing capacity.
+
+## The stress test
+
+The Bank of England requires lenders to stress-test borrowers at a higher interest rate (typically the lender&rsquo;s standard variable rate + 1%, or 7–9% in 2025/26 conditions).
+
+A worked example:
+
+- £200,000 mortgage at 4.5% over 25 years: monthly payment £1,111.
+- At stressed 8.0% rate: monthly payment £1,544 (£433 more).
+
+Lenders check whether the stressed payment + your other essentials fits within your income. If not, they decline regardless of the LTI calculation.
+
+For higher-income borrowers, the stress test is usually loose because there&rsquo;s plenty of headroom. For lower-income borrowers, the stress test can be the binding constraint — the LTI says yes, but stressed payment vs your income disposable is too tight.
+
+## Income types — what counts and what doesn&rsquo;t
+
+Different income types are weighted differently:
+
+### Always counted at 100%
+
+- Base salary (employed).
+- Self-employed net profit (verified via SA302 / accounts).
+- Pension income.
+
+### Typically counted at 50–100%
+
+- Bonuses (if regular and documented over 1–2 years).
+- Commission income.
+- Shift allowances, overtime.
+
+### Sometimes counted
+
+- Rental income from existing buy-to-let (typically 75–80% — to allow for voids).
+- Investment income (dividends, interest) for high earners.
+- Maintenance payments (sometimes).
+
+### Usually not counted
+
+- Cashback rewards, gambling winnings.
+- Irregular freelance income with no documented track record.
+- One-off bonuses with no expectation of repetition.
+
+## Joint income for couples — particularly important
+
+For dual-earner couples, both incomes matter. Worth knowing:
+
+- Combined income usually wins more borrowing capacity than either alone.
+- Partner&rsquo;s job loss after the mortgage is a real risk — lenders test affordability on combined income.
+- If one partner&rsquo;s income is fragile (gig work, irregular freelance), lenders may discount it.
+
+## Worked example: typical scenarios
+
+### Scenario 1: single first-time buyer, £35,000
+
+- LTI 4.5× = £157,500.
+- £0 monthly debts.
+- Property budget with 10% deposit: £175,000.
+- Achievable for properties outside major UK cities. Tight for London/SE.
+
+### Scenario 2: single mid-career professional, £55,000
+
+- LTI 4.5× = £247,500.
+- £100/month debts.
+- Property budget with 10% deposit: ~£275,000.
+- Mid-range UK city properties accessible.
+
+### Scenario 3: dual-earner couple, £75,000 combined
+
+- Combined LTI 4.5× = £337,500.
+- £300/month combined debts.
+- Property budget with 10% deposit: £370,000.
+- Standard suburban UK properties accessible.
+
+### Scenario 4: high earner with stretch LTI, £120,000
+
+- 5× LTI possible at some lenders = £600,000.
+- Stretches borrowing power for London/SE markets.
+
+## Internal links
+
+- [How much deposit do I need as a first time buyer?](/how-much-deposit-do-i-need-as-a-first-time-buyer/)
+- [What credit score do I need for a mortgage UK?](/what-credit-score-do-i-need-for-a-mortgage-uk/)
+- [Can I get a mortgage with 1 year self employed accounts?](/can-i-get-a-mortgage-with-1-year-self-employed-accounts/)
+
+---
+
+*This guide is information, not regulated financial advice. UK mortgages are regulated by the FCA — speak to a regulated mortgage broker for a specific affordability assessment.*
