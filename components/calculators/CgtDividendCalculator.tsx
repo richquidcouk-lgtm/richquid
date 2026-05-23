@@ -9,8 +9,8 @@ const CGT_AEA = 3000
 const CGT_BASIC = 0.18
 const CGT_HIGHER = 0.24
 const DIV_ALLOWANCE = 500
-const DIV_BASIC = 0.0875
-const DIV_HIGHER = 0.3375
+const DIV_BASIC = 0.1075
+const DIV_HIGHER = 0.3575
 const DIV_ADDITIONAL = 0.3935
 
 function computeCGT(income: number, gain: number) {
@@ -175,8 +175,8 @@ export default function CgtDividendCalculator() {
                   <div className="flex justify-between"><dt>Dividends</dt><dd className="tabular-nums">{formatGBP(parseAmount(dividends))}</dd></div>
                   <div className="flex justify-between text-[color:var(--ink-2)]"><dt>− Dividend allowance</dt><dd className="tabular-nums">{formatGBP(Math.min(parseAmount(dividends), DIV_ALLOWANCE))}</dd></div>
                   <div className="flex justify-between font-semibold"><dt>Taxable dividends</dt><dd className="tabular-nums">{formatGBP(div.taxableDiv)}</dd></div>
-                  {div.atBasic > 0 && <div className="flex justify-between text-[color:var(--ink-3)]"><dt>At 8.75% (basic)</dt><dd className="tabular-nums">{formatGBP(div.atBasic * DIV_BASIC)}</dd></div>}
-                  {div.atHigher > 0 && <div className="flex justify-between text-[color:var(--ink-3)]"><dt>At 33.75% (higher)</dt><dd className="tabular-nums">{formatGBP(div.atHigher * DIV_HIGHER)}</dd></div>}
+                  {div.atBasic > 0 && <div className="flex justify-between text-[color:var(--ink-3)]"><dt>At 10.75% (basic)</dt><dd className="tabular-nums">{formatGBP(div.atBasic * DIV_BASIC)}</dd></div>}
+                  {div.atHigher > 0 && <div className="flex justify-between text-[color:var(--ink-3)]"><dt>At 35.75% (higher)</dt><dd className="tabular-nums">{formatGBP(div.atHigher * DIV_HIGHER)}</dd></div>}
                   {div.atAdditional > 0 && <div className="flex justify-between text-[color:var(--ink-3)]"><dt>At 39.35% (additional)</dt><dd className="tabular-nums">{formatGBP(div.atAdditional * DIV_ADDITIONAL)}</dd></div>}
                 </dl>
               </div>
@@ -206,7 +206,7 @@ export default function CgtDividendCalculator() {
                 <strong>Dividend tax</strong> sits on top of your other income. The first £500 each year is tax-free (the dividend allowance — down from £1,000 in 2023/24 and £2,000 before that).
               </p>
               <p>
-                Rates: <strong>8.75% basic, 33.75% higher, 39.35% additional</strong>. Dividends from shares held inside a Stocks &amp; Shares ISA are entirely tax-free and don&rsquo;t use the allowance.
+                Rates (from 6 April 2026): <strong>10.75% basic, 35.75% higher, 39.35% additional</strong> — basic and higher rates rose 2pp on 6 April 2026 (Autumn Budget 2024 announcement). Dividends from shares held inside a Stocks &amp; Shares ISA are entirely tax-free and don&rsquo;t use the allowance.
               </p>
               <p>
                 Dividend reinvestment is still a taxable event in a general account — even if you didn&rsquo;t take the cash.

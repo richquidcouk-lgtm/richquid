@@ -18,24 +18,24 @@ export interface SnapshotMetric {
   note?: string
 }
 
-export const SNAPSHOT_LAST_VERIFIED = '2026-05-22'
+export const SNAPSHOT_LAST_VERIFIED = '2026-05-23'
 
 export const SNAPSHOT: SnapshotMetric[] = [
   {
     label: 'Bank of England base rate',
-    value: '4.25%',
-    asOf: '2026-03-20',
+    value: '3.75%',
+    asOf: '2026-04-29',
     source: 'Bank of England',
     sourceUrl: 'https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate',
-    note: 'Set by the Monetary Policy Committee.',
+    note: 'Held for the third consecutive MPC meeting.',
   },
   {
     label: 'UK CPI inflation',
-    value: '2.3%',
+    value: '3.3%',
     asOf: '2026-04-16',
     source: 'ONS',
     sourceUrl: 'https://www.ons.gov.uk/economy/inflationandpriceindices',
-    note: '12-month rate, all items.',
+    note: '12-month rate, March 2026 release.',
   },
   {
     label: 'UK unemployment rate',
