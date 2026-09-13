@@ -30,6 +30,8 @@ export function categoryFromSlug(slug: string): Category | undefined {
 export interface CategoryMeta {
   intro: string
   cornerstone?: string
+  /** Overrides the generic "{category} guides — UK personal finance" <title> when set. */
+  seoTitle?: string
 }
 
 export const CATEGORY_META: Record<Category, CategoryMeta> = {
@@ -50,6 +52,7 @@ export const CATEGORY_META: Record<Category, CategoryMeta> = {
   },
   Pensions: {
     intro: 'Workplace pensions, SIPPs, the State Pension and the April 2027 IHT changes — what you need to know about UK retirement saving.',
+    seoTitle: 'UK Pension Guides — State Pension, Reform & Retirement Rules',
   },
   Savings: {
     intro: 'Personal Savings Allowance, Premium Bonds, regular savers, emergency funds — making cash work as hard as it can outside the ISA.',

@@ -22,7 +22,7 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: Props): Metadata {
   const category = categoryFromSlug(params.category)
   if (!category) return { title: 'Category not found' }
-  const title = `${category} guides — UK personal finance`
+  const title = CATEGORY_META[category].seoTitle ?? `${category} guides — UK personal finance`
   const description = CATEGORY_META[category].intro
   return {
     title,
