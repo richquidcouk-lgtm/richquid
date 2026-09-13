@@ -12,11 +12,6 @@ const INK_3 = '#6B6B6B'
 const GREEN = '#0F4F3A'
 const GOLD = '#C9A961'
 
-export async function generateImageMetadata({ params }: { params: { tool: string } }) {
-  const tool = getTool(params.tool)
-  return [{ id: 'default', alt: tool?.title ?? 'RichQuid calculator', size, contentType }]
-}
-
 export function generateStaticParams() {
   return TOOLS.map(t => ({ tool: t.slug }))
 }
