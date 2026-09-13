@@ -96,6 +96,33 @@ export function studentLoanRepayment(gross: number, plan: StudentLoanPlan): numb
   return Math.max(0, (gross - threshold) * rate)
 }
 
+// --- Personal Savings Allowance ---------------------------------------------
+// Savings-income tax bands are not devolved, so PSA banding always follows the
+// rest-of-UK thresholds above, even for Scottish taxpayers.
+
+export const PSA_BASIC_RATE = 1000
+export const PSA_HIGHER_RATE = 500
+export const PSA_ADDITIONAL_RATE = 0
+
+export function personalSavingsAllowance(grossIncome: number): number {
+  if (grossIncome <= RUK_BASIC_LIMIT) return PSA_BASIC_RATE
+  if (grossIncome <= RUK_HIGHER_LIMIT) return PSA_HIGHER_RATE
+  return PSA_ADDITIONAL_RATE
+}
+
+// --- Pension annual allowance ------------------------------------------------
+
+export const PENSION_ANNUAL_ALLOWANCE = 60000
+export const PENSION_ANNUAL_ALLOWANCE_MIN = 10000
+export const PENSION_TAPER_THRESHOLD = 260000
+export const MPAA = 10000
+
+export function pensionAnnualAllowance(adjustedIncome: number): number {
+  if (adjustedIncome <= PENSION_TAPER_THRESHOLD) return PENSION_ANNUAL_ALLOWANCE
+  const taper = Math.floor((adjustedIncome - PENSION_TAPER_THRESHOLD) / 2)
+  return Math.max(PENSION_ANNUAL_ALLOWANCE_MIN, PENSION_ANNUAL_ALLOWANCE - taper)
+}
+
 // --- Formatting -----------------------------------------------------------
 
 export function formatGBP(n: number, dp = 0): string {

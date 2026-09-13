@@ -2,6 +2,7 @@ import type { LucideIcon } from 'lucide-react'
 import {
   Calculator, PiggyBank, ShieldCheck, Scale, TrendingUp,
   Wallet, Home, Landmark, Receipt, LineChart, GraduationCap,
+  Coins, Clock,
 } from 'lucide-react'
 
 export interface Tool {
@@ -80,6 +81,20 @@ export const TOOLS: Tool[] = [
     description: 'See what you&rsquo;ll repay across Plans 1, 2, 4, 5 and Postgrad — including the combined undergrad+postgrad case.',
     status: 'live',
     icon: GraduationCap,
+  },
+  {
+    slug: 'savings-tax-calculator',
+    title: 'Savings Tax Calculator',
+    description: 'Work out if you owe tax on savings interest, based on your Personal Savings Allowance and tax band.',
+    status: 'live',
+    icon: Coins,
+  },
+  {
+    slug: 'pension-contribution-tracker',
+    title: 'Pension Contribution Tracker',
+    description: 'Project your pension pot to retirement and see the tax relief a SIPP or workplace pension adds on top.',
+    status: 'live',
+    icon: Clock,
   },
   {
     slug: 'sipp-vs-workplace-pension',

@@ -11,6 +11,8 @@ import MortgageAffordabilityCalculator from '@/components/calculators/MortgageAf
 import SelfAssessmentEstimator from '@/components/calculators/SelfAssessmentEstimator'
 import CgtDividendCalculator from '@/components/calculators/CgtDividendCalculator'
 import StudentLoanCalculator from '@/components/calculators/StudentLoanCalculator'
+import SavingsTaxCalculator from '@/components/calculators/SavingsTaxCalculator'
+import PensionContributionTracker from '@/components/calculators/PensionContributionTracker'
 
 type Props = { params: { tool: string } }
 
@@ -41,6 +43,8 @@ const CALCULATORS: Record<string, React.ComponentType> = {
   'self-assessment-tax-estimator': SelfAssessmentEstimator,
   'capital-gains-dividend-tax-calculator': CgtDividendCalculator,
   'student-loan-calculator': StudentLoanCalculator,
+  'savings-tax-calculator': SavingsTaxCalculator,
+  'pension-contribution-tracker': PensionContributionTracker,
 }
 
 export default function EmbedPage({ params }: Props) {
