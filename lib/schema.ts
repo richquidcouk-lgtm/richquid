@@ -99,3 +99,8 @@ export function extractFaqPairs(mdxContent: string, limit = 10): FAQItem[] {
   flush()
   return pairs.slice(0, limit)
 }
+
+/** Escape script-delimiter characters while preserving valid JSON. */
+export function serializeJsonLd(value: unknown): string {
+  return JSON.stringify(value).replace(/</g, '\\u003c')
+}

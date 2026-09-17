@@ -1,10 +1,13 @@
 /**
- * UK personal tax helpers — 2025/26 tax year.
+ * UK personal tax helpers — 2026/27 tax year.
  * Update the constants here when bands change; every calculator uses these.
  */
 
 export const TAX_YEAR = '2026/27'
-export const CALC_LAST_REVIEWED = '2026-05-23'
+export const CALC_LAST_REVIEWED = '2026-09-16'
+// Income tax / NI / student loan sources: gov.uk/income-tax-rates,
+// gov.uk/scottish-income-tax and gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027
+export const BASIC_TAXABLE_BAND = 37700
 
 // --- Income tax (rest of UK: England, Wales, NI) ----------------------------
 
@@ -19,47 +22,28 @@ export function personalAllowance(gross: number): number {
   return Math.max(0, PA_BASE - taper)
 }
 
-export function incomeTaxRUK(gross: number): number {
-  const pa = personalAllowance(gross)
-  let tax = 0
-  const basicTop = Math.min(gross, RUK_BASIC_LIMIT)
-  tax += Math.max(0, basicTop - pa) * 0.20
-  if (gross > RUK_BASIC_LIMIT) {
-    const higherTop = Math.min(gross, RUK_HIGHER_LIMIT)
-    tax += (higherTop - RUK_BASIC_LIMIT) * 0.40
-  }
-  if (gross > RUK_HIGHER_LIMIT) {
-    tax += (gross - RUK_HIGHER_LIMIT) * 0.45
+/** Band ceilings apply to taxable income, not gross pay. */
+function taxByBands(taxable: number, bands: readonly (readonly [number, number])[]): number {
+  let tax = 0, previous = 0
+  for (const [ceiling, rate] of bands) {
+    tax += Math.max(0, Math.min(taxable, ceiling) - previous) * rate
+    previous = ceiling
+    if (taxable <= ceiling) break
   }
   return tax
 }
 
-// --- Scottish income tax ---------------------------------------------------
-
-const SCOT_BANDS: Array<{ top: number; rate: number }> = [
-  { top: 15397, rate: 0.19 }, // Starter
-  { top: 27491, rate: 0.20 }, // Basic
-  { top: 43662, rate: 0.21 }, // Intermediate
-  { top: 75000, rate: 0.42 }, // Higher
-  { top: 125140, rate: 0.45 }, // Advanced
-  { top: Infinity, rate: 0.48 }, // Top
-]
+export function incomeTaxRUK(gross: number): number {
+  return taxByBands(Math.max(0, gross - personalAllowance(gross)), [
+    [BASIC_TAXABLE_BAND, 0.20], [125140, 0.40], [Infinity, 0.45],
+  ])
+}
 
 export function incomeTaxScotland(gross: number): number {
-  const pa = personalAllowance(gross)
-  const taxable = Math.max(0, gross - pa)
-  if (taxable === 0) return 0
-  let tax = 0
-  let consumed = pa
-  for (const band of SCOT_BANDS) {
-    const bandTop = band.top
-    if (gross <= consumed) break
-    const slice = Math.min(gross, bandTop) - consumed
-    if (slice > 0) tax += slice * band.rate
-    consumed = bandTop
-    if (gross <= bandTop) break
-  }
-  return tax
+  return taxByBands(Math.max(0, gross - personalAllowance(gross)), [
+    [3967, 0.19], [16956, 0.20], [31092, 0.21],
+    [62430, 0.42], [125140, 0.45], [Infinity, 0.48],
+  ])
 }
 
 export function incomeTax(gross: number, scotland = false): number {
@@ -84,14 +68,15 @@ export function employeeNI(gross: number): number {
 export type StudentLoanPlan = 'plan1' | 'plan2' | 'plan4' | 'plan5' | 'postgrad'
 
 export const STUDENT_LOAN: Record<StudentLoanPlan, { threshold: number; rate: number; label: string }> = {
-  plan1: { threshold: 26065, rate: 0.09, label: 'Plan 1' },
-  plan2: { threshold: 28470, rate: 0.09, label: 'Plan 2' },
-  plan4: { threshold: 32745, rate: 0.09, label: 'Plan 4 (Scotland)' },
+  plan1: { threshold: 26900, rate: 0.09, label: 'Plan 1' },
+  plan2: { threshold: 29385, rate: 0.09, label: 'Plan 2' },
+  plan4: { threshold: 33795, rate: 0.09, label: 'Plan 4 (Scotland)' },
   plan5: { threshold: 25000, rate: 0.09, label: 'Plan 5' },
   postgrad: { threshold: 21000, rate: 0.06, label: 'Postgrad loan' },
 }
 
 export function studentLoanRepayment(gross: number, plan: StudentLoanPlan): number {
+  if (!STUDENT_LOAN[plan]) return Number.NaN
   const { threshold, rate } = STUDENT_LOAN[plan]
   return Math.max(0, (gross - threshold) * rate)
 }
@@ -126,6 +111,7 @@ export function pensionAnnualAllowance(adjustedIncome: number): number {
 // --- Formatting -----------------------------------------------------------
 
 export function formatGBP(n: number, dp = 0): string {
+  if (!Number.isFinite(n)) return '—'
   return n.toLocaleString('en-GB', {
     style: 'currency',
     currency: 'GBP',
@@ -134,7 +120,24 @@ export function formatGBP(n: number, dp = 0): string {
   })
 }
 
-export function parseAmount(v: string): number {
-  const n = parseFloat(v.replace(/[^0-9.]/g, ''))
-  return Number.isFinite(n) && n >= 0 ? n : 0
+/** Blank inputs mean zero; invalid values must not be turned into positive money. */
+export function parseAmount(value: string): number {
+  const clean = value.trim().replace(/^£\s*/, '')
+  if (!clean) return 0
+  if (!/^(?:\d+|\d{1,3}(?:,\d{3})+)(?:\.\d*)?$/.test(clean)) return Number.NaN
+  const number = Number(clean.replace(/,/g, ''))
+  return Number.isFinite(number) ? number : Number.NaN
+}
+
+/** Standard personal allowance, no dividends/reliefs. Savings bands apply UK-wide. */
+export function savingsTax(otherIncome: number, interest: number) {
+  const allowance = personalAllowance(otherIncome + interest)
+  const taxableOther = Math.max(0, otherIncome - allowance)
+  const taxableInterest = Math.max(0, interest - Math.max(0, allowance - otherIncome))
+  const startingRate = Math.min(taxableInterest, Math.max(0, 5000 - taxableOther))
+  const psa = personalSavingsAllowance(otherIncome + interest)
+  const zeroRated = startingRate + Math.min(psa, taxableInterest - startingRate)
+  const interestTax = taxByBands(taxableOther + taxableInterest, [[37700, .2], [125140, .4], [Infinity, .45]])
+    - taxByBands(taxableOther + zeroRated, [[37700, .2], [125140, .4], [Infinity, .45]])
+  return { interestTax, psa, startingRate, allowance, taxableInterest: Math.max(0, taxableInterest - zeroRated) }
 }

@@ -1,7 +1,11 @@
+import { serializeJsonLd } from '@/lib/schema'
+import { collectArticleNavigation, type ArticleNode, type ArticleNavigation } from '@/lib/article-navigation'
+import { TOOL_READING } from '@/lib/tool-reading'
+import { getTool } from '@/lib/tools'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { MDXRemote } from 'next-mdx-remote/rsc'
+import { compileMDX } from 'next-mdx-remote/rsc'
 import remarkGfm from 'remark-gfm'
 import { getAllGuideMeta, getGuide, getRelatedGuides } from '@/lib/mdx'
 import AffiliateDisclosure from '@/components/AffiliateDisclosure'
@@ -53,21 +57,32 @@ const mdxComponents = {
   ),
 }
 
-export default function GuidePage({ params }: Props) {
+export default async function GuidePage({ params }: Props) {
   const guide = getGuide(params.slug)
   if (!guide) notFound()
 
   const related = getRelatedGuides(guide.slug, 3)
+  let navigation: ArticleNavigation = { headings: [], sources: [] }
+  const { content } = await compileMDX({ source: guide.content, components: mdxComponents,
+    options: { mdxOptions: { remarkPlugins: [remarkGfm], rehypePlugins: [() => (tree: ArticleNode) => { navigation = collectArticleNavigation(tree) }] } },
+  })
+  const relatedTools = Object.entries(TOOL_READING).filter(([, value]) => value.guides.includes(guide.slug)).map(([slug]) => getTool(slug)).filter(tool => tool?.status === 'live')
 
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
+    '@id': `${SITE_URL}/guides/${guide.slug}#article`,
+    url: `${SITE_URL}/guides/${guide.slug}`,
+    inLanguage: 'en-GB',
+    isPartOf: { '@id': `${SITE_URL}/#website` },
+    citation: navigation.sources.map(source => ({ '@type': 'CreativeWork', name: source.title, url: source.url })),
+    ...(guide.featuredImage ? { image: new URL(guide.featuredImage, SITE_URL).href } : {}),
     headline: guide.title,
     description: guide.excerpt,
     datePublished: guide.publishedAt,
     ...(guide.updatedAt ? { dateModified: guide.updatedAt } : {}),
-    author: { '@type': 'Person', name: guide.author },
-    publisher: { '@type': 'Organization', name: 'RichQuid', url: SITE_URL },
+    author: { '@type': 'Person', '@id': `${SITE_URL}/about#editorial`, name: guide.author, url: `${SITE_URL}/about#editorial` },
+    publisher: { '@id': `${SITE_URL}/#organization` },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE_URL}/guides/${guide.slug}` },
     articleSection: guide.category,
   }
@@ -84,10 +99,10 @@ export default function GuidePage({ params }: Props) {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(articleSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(breadcrumbSchema) }} />
       {faqSchema && (
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(faqSchema) }} />
       )}
 
       <article className="mx-auto max-w-prose px-5 py-12 sm:px-0 sm:py-16">
@@ -99,7 +114,7 @@ export default function GuidePage({ params }: Props) {
           <p className="metadata mb-3 uppercase tracking-[0.2em] text-[color:var(--green)]">{guide.category}</p>
           <h1 className="font-serif-display text-[clamp(32px,5vw,48px)] leading-[1.08]">{guide.title}</h1>
           <p className="metadata mt-5 text-[14px]">
-            By <span className="text-[color:var(--ink-2)]">{guide.author}</span>
+            By <Link href="/about#editorial" className="underline">{guide.author}</Link>
             <span aria-hidden> · </span>
             <time dateTime={guide.publishedAt}>Published {formatDate(guide.publishedAt)}</time>
             {guide.updatedAt && guide.updatedAt !== guide.publishedAt && (
@@ -113,16 +128,26 @@ export default function GuidePage({ params }: Props) {
           </p>
         </header>
 
+        <p className="my-6 text-lg leading-relaxed">{guide.excerpt}</p>
+        {navigation.headings.length > 0 && <nav aria-label="On this page" className="my-6 rounded border border-rule p-5">
+          <p className="font-semibold">On this page</p>
+          <ul className="mt-3 space-y-2">{navigation.headings.map(item => <li key={item.id}><a className="text-sm underline" href={`#${item.id}`}>{item.title}</a></li>)}</ul>
+        </nav>}
         <AffiliateDisclosure />
 
         <div className="prose prose-lg max-w-prose">
-          <MDXRemote
-            source={guide.content}
-            components={mdxComponents}
-            options={{ mdxOptions: { remarkPlugins: [remarkGfm] } }}
-          />
+          {content}
         </div>
 
+        {navigation.sources.length > 0 && <section aria-label="Sources referenced in this guide" className="my-8 border-t border-rule pt-6">
+          <h2 className="font-serif-display text-2xl">Sources referenced in this guide</h2>
+          <ul className="mt-3 list-inside list-disc space-y-2">{navigation.sources.map(source => <li key={source.url}><a className="text-sm underline" href={source.url}>{source.title}</a></li>)}</ul>
+        </section>}
+        {relatedTools.length > 0 && <section className="my-8 rounded border border-rule p-5" aria-label="Useful calculators">
+          <h2 className="font-serif-display text-2xl">Put the numbers into practice</h2>
+          <ul className="mt-3 space-y-2">{relatedTools.map(tool => tool && <li key={tool.slug}><Link className="underline" href={`/tools/${tool.slug}`}>{tool.title}</Link></li>)}</ul>
+        </section>}
+        <p className="my-6 text-sm">Read our <Link className="underline" href="/methodology">methodology</Link> or <Link className="underline" href="/contact">report a correction</Link>. Check the effective dates and provider terms for your circumstances.</p>
         <Newsletter />
 
         <hr className="my-12 border-rule" />

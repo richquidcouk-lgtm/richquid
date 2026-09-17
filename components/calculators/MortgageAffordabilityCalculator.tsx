@@ -1,5 +1,7 @@
 'use client'
 
+import AmountInput from './AmountInput'
+
 import { useMemo } from 'react'
 import { formatGBP, parseAmount, incomeTax, employeeNI } from '@/lib/uk-tax'
 import { useStateFromUrl } from '@/lib/url-state'
@@ -37,15 +39,13 @@ export default function MortgageAffordabilityCalculator() {
     const maxLoan = totalIncome * lti
     // Debts haircut: most lenders reduce borrowing power by ~£X for every £100/mo of debt
     // Common rule of thumb: reduce maxLoan by 30x annual debt payments
-    const debtHaircut = monthlyDebts * 12 * 30 / 12 // approx; we'll subtract directly
     const adjustedMaxLoan = Math.max(0, maxLoan - monthlyDebts * 12 * 2.5)
     const maxPurchase = adjustedMaxLoan + dep
 
-    // Income tax + NI for combined income to estimate net take-home (treat as one earner for simplicity; conservative).
-    const grossForTax = totalIncome
-    const tax = incomeTax(grossForTax)
-    const ni = employeeNI(grossForTax)
-    const monthlyNet = (grossForTax - tax - ni) / 12
+    // Each applicant has a separate personal allowance and NI calculation.
+    const tax = incomeTax(i1) + incomeTax(i2)
+    const ni = employeeNI(i1) + employeeNI(i2)
+    const monthlyNet = (totalIncome - tax - ni) / 12
 
     const payNow = monthlyPayment(adjustedMaxLoan, r, yrs)
     const payStressed = monthlyPayment(adjustedMaxLoan, sr, yrs)
@@ -74,7 +74,7 @@ export default function MortgageAffordabilityCalculator() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Annual salary plus regular bonus.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={income1}
                 onChange={e => setIncome1(e.target.value)}
                 aria-label="Primary applicant gross income"
@@ -87,7 +87,7 @@ export default function MortgageAffordabilityCalculator() {
             <span className="block text-[14px] font-semibold text-[color:var(--ink)]">Partner&rsquo;s income <span className="font-normal text-[color:var(--ink-3)]">(optional)</span></span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={income2}
                 onChange={e => setIncome2(e.target.value)}
                 placeholder="0"
@@ -102,7 +102,7 @@ export default function MortgageAffordabilityCalculator() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Loans, car finance, credit card minimums. Excludes living costs.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={debts}
                 onChange={e => setDebts(e.target.value)}
                 aria-label="Monthly debt repayments"
@@ -116,7 +116,7 @@ export default function MortgageAffordabilityCalculator() {
             <span className="block text-[14px] font-semibold text-[color:var(--ink)]">Deposit available</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={deposit}
                 onChange={e => setDeposit(e.target.value)}
                 aria-label="Available deposit"
@@ -129,7 +129,7 @@ export default function MortgageAffordabilityCalculator() {
             <label className="block">
               <span className="block text-[13px] font-semibold text-[color:var(--ink)]">LTI multiple</span>
               <span className="metadata block text-[11.5px] text-[color:var(--ink-3)]">× your income</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={ltiMultiple}
                 onChange={e => setLtiMultiple(e.target.value)}
                 aria-label="Loan to income multiple"
@@ -140,7 +140,7 @@ export default function MortgageAffordabilityCalculator() {
               <span className="block text-[13px] font-semibold text-[color:var(--ink)]">Rate</span>
               <span className="metadata block text-[11.5px] text-[color:var(--ink-3)]">today&rsquo;s deal</span>
               <div className="relative mt-1">
-                <input
+                <AmountInput
                   inputMode="decimal" value={rate}
                   onChange={e => setRate(e.target.value)}
                   aria-label="Mortgage interest rate"
@@ -152,7 +152,7 @@ export default function MortgageAffordabilityCalculator() {
             <label className="block">
               <span className="block text-[13px] font-semibold text-[color:var(--ink)]">Term</span>
               <span className="metadata block text-[11.5px] text-[color:var(--ink-3)]">years</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={term}
                 onChange={e => setTerm(e.target.value)}
                 aria-label="Mortgage term in years"
@@ -165,7 +165,7 @@ export default function MortgageAffordabilityCalculator() {
             <span className="block text-[13px] font-semibold text-[color:var(--ink)]">Stress rate</span>
             <span className="metadata block text-[12px] text-[color:var(--ink-3)]">Lenders test you can still afford this if rates climb (typically 7–9%).</span>
             <div className="relative mt-1 max-w-[140px]">
-              <input
+              <AmountInput
                 inputMode="decimal" value={stressRate}
                 onChange={e => setStressRate(e.target.value)}
                 aria-label="Stress test rate"
@@ -194,7 +194,7 @@ export default function MortgageAffordabilityCalculator() {
             <p className="metadata uppercase tracking-[0.18em] text-[color:var(--ink-3)]">Monthly cost</p>
             <dl className="mt-3 space-y-2 text-[14.5px]">
               <div className="flex justify-between">
-                <dt>At {parseAmount(rate)}% (today)</dt>
+                <dt>At {parseAmount(rate)}% (your chosen rate)</dt>
                 <dd className="tabular-nums">{formatGBP(result.payNow)}</dd>
               </div>
               <div className="flex justify-between text-[color:var(--ink-2)]">
@@ -211,7 +211,7 @@ export default function MortgageAffordabilityCalculator() {
           {result.tightAffordability && (
             <div className="rounded-md border border-rule bg-[color:var(--gold-soft)]/40 p-4 text-[13.5px] leading-relaxed text-[color:var(--ink-2)]">
               <p>
-                At the stressed rate, your housing + debt costs would consume over 40% of net income. Lenders may decline at this level — consider a smaller loan, longer term, or larger deposit.
+                At the stressed rate, your housing + debt costs would consume over 40% of net income. Review your budget and assumptions; this flag does not predict a lender’s decision.
               </p>
             </div>
           )}
@@ -222,16 +222,16 @@ export default function MortgageAffordabilityCalculator() {
         <summary className="cursor-pointer font-semibold text-[color:var(--ink)]">How this is worked out</summary>
         <div className="mt-3 space-y-2">
           <p>
-            Most UK lenders cap borrowing at <strong>4 to 4.5× gross income</strong>. A few stretch to 5–5.5× for higher earners or specific products. You can move the multiple to see what each band looks like.
+            Choose an illustrative income multiple to explore a borrowing range. Eligibility and the multiple offered depend on the individual lender and your circumstances.
           </p>
           <p>
-            Monthly debt repayments are subtracted from your borrowing power — every £100/month of debt reduces your max loan by roughly £3,000 in our model (a common lender heuristic).
+            Monthly debt repayments are subtracted from your borrowing power — every £100/month of debt reduces your max loan by roughly £3,000 in our model (an illustrative adjustment, not a lender rule).
           </p>
           <p>
             Mortgage payments use the standard repayment formula: P × r × (1+r)<sup>n</sup> ÷ ((1+r)<sup>n</sup> − 1), with r = monthly rate and n = months.
           </p>
           <p>
-            The <strong>stress test</strong> mirrors FCA rules — lenders confirm you could still pay if rates rose. Many use 7–9% today. If your stressed monthly cost (mortgage + existing debts) exceeds ~40% of your net income, expect declines.
+            The <strong>higher-rate scenario</strong> uses the rate you enter. The 40% flag is a planning prompt, not an FCA rule or approval threshold. This model excludes pensions, student loans, Scottish tax and household living costs; a lender will assess more information.
           </p>
         </div>
       </details>

@@ -1,4 +1,5 @@
 export type Category =
+  | 'Banking and Credit'
   | 'Budgeting'
   | 'Cashback'
   | 'Energy Bills'
@@ -9,6 +10,7 @@ export type Category =
   | 'Tax'
 
 export const CATEGORIES: Category[] = [
+  'Banking and Credit',
   'Budgeting',
   'Cashback',
   'Energy Bills',
@@ -35,6 +37,10 @@ export interface CategoryMeta {
 }
 
 export const CATEGORY_META: Record<Category, CategoryMeta> = {
+  'Banking and Credit': {
+    intro: 'Start with a UK bank account, prepare the documents, understand credit eligibility and build a reliable payment history. Follow the guides in the order that fits your next decision.',
+    seoTitle: 'UK Banking and Credit — New Arrivals, Documents and Credit History',
+  },
   Budgeting: {
     intro: 'Practical, plain-English guides on UK budgeting — order of operations, emergency funds, the priority sequence most people work through.',
   },

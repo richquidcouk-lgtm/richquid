@@ -27,10 +27,10 @@ export default function PrivacyPage() {
         <h2>What we collect</h2>
         <ul>
           <li>
-            <strong>Analytics.</strong> When you visit a page we record anonymised, aggregated information such as the page URL, browser type, device type, country, and the time of your visit. We use this to understand which guides and calculators are useful. We use Vercel&rsquo;s built-in analytics, which does not use cookies and does not identify individual users. If we later add Google Analytics, we will update this page first.
+            <strong>Analytics.</strong> The site loads Google Analytics to understand page usage. The configured page URL excludes calculator input query strings. Google may process technical information about visits and use cookies. See <a href="https://policies.google.com/privacy">Google&rsquo;s privacy policy</a> for its processing practices. Do not enter personal identifiers into calculator fields.
           </li>
           <li>
-            <strong>Newsletter sign-ups.</strong> If you choose to subscribe to our newsletter, we store the email address you provide. We use it only to send the newsletter and to send a confirmation message. We do not sell, rent or share newsletter addresses with anyone.
+            <strong>Newsletter.</strong> New subscriptions are currently unavailable. The website does not accept new newsletter email addresses while the service is disabled.
           </li>
           <li>
             <strong>Affiliate click-throughs.</strong> When you click an affiliate link out of RichQuid, the destination provider receives standard referral information (typically a referral code that identifies RichQuid, and the page you came from). They do not receive your email or name from us.

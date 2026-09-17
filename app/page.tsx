@@ -182,7 +182,7 @@ export default function HomePage() {
                 Icon: ShieldCheck,
                 title: 'Built by data engineers, not bankers',
                 body:
-                  'RichQuid is run by software engineers who got tired of vague financial websites. Every calculator on this site shows you exactly how the answer was reached. Every guide is fact-checked against HMRC and FCA sources. If we make a mistake, we fix it and credit whoever spotted it.',
+                  'RichQuid is run by software engineers who got tired of vague financial websites. Every calculator on this site shows you exactly how the answer was reached. We link to relevant official guidance and publish corrections when we identify errors. If we make a mistake, we fix it and credit whoever spotted it.',
               },
               {
                 Icon: Scale,
@@ -211,14 +211,14 @@ export default function HomePage() {
       <section style={{ background: '#F2F2EC', borderTop: '1px solid var(--rule)' }} aria-labelledby="newsletter-heading">
         <div className="mx-auto max-w-[640px] px-5 py-16 text-center sm:px-8 sm:py-24">
           <h2 id="newsletter-heading" className="font-serif-display text-[clamp(28px,4vw,42px)] leading-tight">
-            One useful email <em className="not-italic text-[color:var(--green)]">a month.</em>
+            Your next <em className="not-italic text-[color:var(--green)]">money question.</em>
           </h2>
           <p className="mx-auto mt-4 max-w-[560px] text-[17px] leading-[1.65] text-[color:var(--ink-2)]">
-            The new calculators we&rsquo;ve launched. The UK money rules that changed. The guides our readers found most useful. No spam, no upselling, unsubscribe in one click.
+            Explore practical guides and calculators for your next decision. Newsletter subscriptions are currently unavailable.
           </p>
           <NewsletterInline />
           <p className="metadata mt-4 text-[12.5px] text-[color:var(--ink-3)]">
-            We never share your email. Read our{' '}
+            Read our{' '}
             <Link href="/privacy" className="underline underline-offset-4 hover:text-[color:var(--green)]">privacy policy</Link>.
           </p>
         </div>

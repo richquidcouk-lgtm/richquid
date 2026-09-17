@@ -21,12 +21,12 @@ export default function AboutPage() {
           RichQuid was built to make UK personal finance less mysterious.
         </p>
         <p>
-          We don&rsquo;t sell advice. We don&rsquo;t take a slice when you act on what you read. What we do is build calculators and write guides that show you the maths behind the financial decisions you&rsquo;re making — ISAs, pensions, salary sacrifice, emergency funds, and the rest.
+          We don&rsquo;t sell advice. Some links may earn us an affiliate commission, as explained below. What we do is build calculators and write guides that show you the maths behind the financial decisions you&rsquo;re making — ISAs, pensions, salary sacrifice, emergency funds, and the rest.
         </p>
 
-        <h2>Who writes the site</h2>
+        <h2 id="editorial">Who writes the site</h2>
         <p>
-          The site is written by <strong>Clara Penny</strong>, who covers tax-efficient saving and investing for UK consumers. Clara writes anonymously to keep the focus on the maths rather than the personality — a deliberate choice, not an evasion. You can verify any figure on this site against the underlying source data we cite.
+          The guides are published under the name <strong>Clara Penny</strong>, who covers tax-efficient saving and investing for UK consumers. Clara writes anonymously to keep the focus on the maths rather than the personality — a deliberate choice, not an evasion. You can verify any figure on this site against the underlying source data we cite.
         </p>
 
         <h2>How we make money</h2>

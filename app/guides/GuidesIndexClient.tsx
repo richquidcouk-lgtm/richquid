@@ -22,7 +22,7 @@ export default function GuidesIndexClient({ posts }: { posts: GuideMeta[] }) {
           UK personal finance, <em className="not-italic text-[color:var(--green)]">written like a friend would explain it.</em>
         </h1>
         <p className="mt-5 text-[18px] leading-relaxed text-[color:var(--ink-2)]">
-          Every guide cites its sources. Every figure is verifiable. No sponsored content dressed up as advice.
+          Practical explanations, worked examples and links to relevant sources. Check the dates and provider terms before making a financial decision.
         </p>
       </header>
 

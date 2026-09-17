@@ -1,5 +1,7 @@
 'use client'
 
+import AmountInput from './AmountInput'
+
 import { useMemo } from 'react'
 import { formatGBP, parseAmount } from '@/lib/uk-tax'
 import { useStateFromUrl } from '@/lib/url-state'
@@ -103,7 +105,7 @@ export default function StampDutyCalculator() {
 
     if (region === 'england') {
       regimeName = 'SDLT'
-      if (additional) {
+      if (additional && p >= 40000) {
         bands = withSurcharge(SDLT_STANDARD, 0.05) // +5% additional dwelling surcharge
       } else if (firstTimeBuyer && p <= SDLT_FTB_LIMIT) {
         bands = SDLT_FTB
@@ -122,8 +124,8 @@ export default function StampDutyCalculator() {
       }
     } else {
       regimeName = 'LTT'
-      bands = additional ? LTT_HIGHER : LTT_STANDARD
-      if (firstTimeBuyer) regimeNote = 'Wales does not have a separate first-time buyer relief — the standard £225,000 threshold already applies to everyone.'
+      bands = additional && p >= 40000 ? LTT_HIGHER : LTT_STANDARD
+      if (firstTimeBuyer) regimeNote = 'Wales has no separate first-time buyer relief. Main or higher residential rates apply according to the transaction.'
     }
 
     const { total, breakdown } = bandTax(p, bands)
@@ -166,7 +168,7 @@ export default function StampDutyCalculator() {
             <span className="block text-[14px] font-semibold text-[color:var(--ink)]">Purchase price</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal"
                 value={price}
                 onChange={e => setPrice(e.target.value)}
@@ -244,6 +246,7 @@ export default function StampDutyCalculator() {
         </aside>
       </div>
 
+      <p className="mt-5 text-sm">Single residential purchase by an individual. Excludes the England/NI non-resident surcharge, linked transactions, mixed-use property, company purchases and lease rent. Confirm main-residence replacement and relief eligibility before selecting buyer status.</p>
       <details className="mt-8 border-t border-rule pt-6 text-[14.5px] leading-relaxed text-[color:var(--ink-2)]">
         <summary className="cursor-pointer font-semibold text-[color:var(--ink)]">How this is worked out</summary>
         <div className="mt-3 space-y-2">

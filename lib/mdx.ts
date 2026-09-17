@@ -16,7 +16,7 @@ function readGuideFile(filename: string): Guide {
     slug,
     title: String(data.title ?? slug),
     excerpt: String(data.excerpt ?? ''),
-    publishedAt: String(data.publishedAt ?? new Date().toISOString().slice(0, 10)),
+    publishedAt: String(data.publishedAt ?? ''),
     updatedAt: data.updatedAt ? String(data.updatedAt) : undefined,
     category: (data.category ?? 'Savings') as Category,
     author: String(data.author ?? 'Clara Penny'),

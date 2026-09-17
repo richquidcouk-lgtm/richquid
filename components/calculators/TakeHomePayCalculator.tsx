@@ -1,5 +1,7 @@
 'use client'
 
+import AmountInput from './AmountInput'
+
 import { useMemo } from 'react'
 import {
   TAX_YEAR, formatGBP, parseAmount,
@@ -59,7 +61,7 @@ export default function TakeHomePayCalculator() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Before pension, tax and NI.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal"
                 value={salary}
                 onChange={e => setSalary(e.target.value)}
@@ -120,7 +122,7 @@ export default function TakeHomePayCalculator() {
                   className="h-2 flex-1 cursor-pointer accent-[color:var(--green)]"
                 />
                 <div className="relative">
-                  <input
+                  <AmountInput
                     inputMode="decimal" value={pensionPct}
                     onChange={e => setPensionPct(e.target.value)}
                     className="w-20 rounded-md border border-rule bg-[color:var(--paper)] py-2 pl-3 pr-7 text-right text-[16px] tabular-nums focus:border-[color:var(--green)] focus:outline-none"
@@ -165,7 +167,7 @@ export default function TakeHomePayCalculator() {
               {result.pensionContribution > 0 && (
                 <div className="flex justify-between text-[color:var(--ink-2)]">
                   <dt>− Pension contribution</dt>
-                  <dd className="tabular-nums">{formatGBP(result.pensionContribution)}</dd>
+                  <dd className="tabular-nums">{formatGBP(pensionMode === 'relief-at-source' ? result.pensionFromNet : result.pensionContribution)}</dd>
                 </div>
               )}
               <div className="flex justify-between text-[color:var(--ink-2)]"><dt>− Income tax</dt><dd className="tabular-nums">{formatGBP(result.tax)}</dd></div>
@@ -179,6 +181,7 @@ export default function TakeHomePayCalculator() {
         </aside>
       </div>
 
+      <p className="mt-5 text-sm">For relief-at-source pensions, take-home is shown before any additional relief claim or tax-code adjustment, including restoration of personal allowance. The pension percentage is the gross contribution; 80% is paid from net pay. This is an annual estimate, not a payslip calculation.</p>
       <details className="mt-8 border-t border-rule pt-6 text-[14.5px] leading-relaxed text-[color:var(--ink-2)]">
         <summary className="cursor-pointer font-semibold text-[color:var(--ink)]">How this is worked out</summary>
         <div className="mt-3 space-y-2">

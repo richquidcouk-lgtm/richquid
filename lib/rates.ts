@@ -53,7 +53,7 @@ export const RATES: RateRange[] = [
     watchOuts: [
       'Interest above the PSA is taxable at your marginal rate.',
       'Bonus-rate headline products often pay less after the first 12 months.',
-      'FSCS protection is £85,000 per banking group — check that two brand names aren’t under the same licence.',
+      'FSCS protection is £120,000 per eligible person per authorised firm — check that two brand names aren’t under the same licence.',
     ],
   },
   {
@@ -79,7 +79,7 @@ export const RATES: RateRange[] = [
     watchOuts: [
       'Interest is taxable above the Personal Savings Allowance.',
       'Some bonds pay interest annually only — others monthly. The monthly-interest version usually has a slightly lower AER.',
-      'NS&I products are 100% government-backed beyond the £85k FSCS limit.',
+      'NS&I products are 100% government-backed beyond the £120k FSCS limit.',
     ],
   },
   {
@@ -114,7 +114,7 @@ export const RATES: RateRange[] = [
     rangeLow: 0.035,
     rangeHigh: 0.040,
     access: 'No lock-in. Withdraw any time.',
-    suits: 'Cash savers who prefer prize-draw upside over guaranteed interest, and who value 100% NS&I protection beyond the £85k FSCS limit.',
+    suits: 'Cash savers who prefer prize-draw upside over guaranteed interest, and who value 100% NS&I protection beyond the £120k FSCS limit.',
     watchOuts: [
       'The "rate" shown is the prize-fund rate — your actual return depends on luck and follows a long-tailed distribution.',
       'Prizes are tax-free and don’t need declaring.',

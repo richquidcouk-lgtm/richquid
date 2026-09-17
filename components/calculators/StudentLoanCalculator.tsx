@@ -1,5 +1,7 @@
 'use client'
 
+import AmountInput from './AmountInput'
+
 import { useMemo, useState } from 'react'
 import { TAX_YEAR, formatGBP, parseAmount, STUDENT_LOAN, studentLoanRepayment, type StudentLoanPlan } from '@/lib/uk-tax'
 
@@ -32,7 +34,7 @@ export default function StudentLoanCalculator() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Before tax. Salary sacrifice into pension reduces this.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={salary}
                 onChange={e => setSalary(e.target.value)}
                 aria-label="Gross annual salary"
@@ -132,9 +134,9 @@ export default function StudentLoanCalculator() {
             <strong>Plan thresholds ({TAX_YEAR}):</strong>
           </p>
           <ul className="ml-5 list-disc space-y-0.5 text-[13.5px]">
-            <li>Plan 1: £26,065 — pre-2012 starters, NI/Scotland (older).</li>
-            <li>Plan 2: £28,470 — England/Wales 2012 to Aug 2023.</li>
-            <li>Plan 4: £32,745 — Scotland.</li>
+            <li>Plan 1: £26,900 — pre-2012 starters, NI/Scotland (older).</li>
+            <li>Plan 2: £29,385 — England/Wales 2012 to Aug 2023.</li>
+            <li>Plan 4: £33,795 — Scotland.</li>
             <li>Plan 5: £25,000 — England, new from Aug 2023.</li>
             <li>Postgrad: £21,000 — masters &amp; doctoral.</li>
           </ul>

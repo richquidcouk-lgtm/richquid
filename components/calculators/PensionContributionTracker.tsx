@@ -1,5 +1,7 @@
 'use client'
 
+import AmountInput from './AmountInput'
+
 import { useMemo, useState } from 'react'
 import { PENSION_ANNUAL_ALLOWANCE, formatGBP, parseAmount } from '@/lib/uk-tax'
 
@@ -10,7 +12,7 @@ const RETIREMENT_AGE = 67
 
 const FUND_TYPES: { key: FundType; label: string; hint: string }[] = [
   { key: 'sipp', label: 'SIPP', hint: 'Self-invested personal pension — relief added by the provider, more reclaimed via Self Assessment if you&rsquo;re higher/additional rate.' },
-  { key: 'workplace', label: 'Workplace pension', hint: 'Relief usually applied automatically through payroll (net pay or salary sacrifice).' },
+  { key: 'workplace', label: 'Workplace pension (relief at source)', hint: 'Only for schemes adding basic-rate relief to a net payment. Excludes net-pay and salary-sacrifice schemes.' },
   { key: 'isa', label: 'ISA', hint: 'No pension tax relief, but the money stays accessible any time — shown here for comparison.' },
 ]
 
@@ -38,7 +40,7 @@ export default function PensionContributionTracker() {
     const years = Math.max(0, RETIREMENT_AGE - currentAge)
     const pot = parseAmount(currentPot)
     const netContribution = parseAmount(contribution)
-    const rate = parseFloat(growthRate) || 0
+    const rate = parseAmount(growthRate)
 
     const isPension = fundType !== 'isa'
     const bandRate = BAND_RATES[taxBand]
@@ -74,14 +76,14 @@ export default function PensionContributionTracker() {
               aria-label="Current age"
               className="mt-2 w-full rounded-md border border-rule bg-[color:var(--paper)] py-2.5 px-3 text-[16px] tabular-nums focus:border-[color:var(--green)] focus:outline-none"
             />
-            <span className="metadata mt-1 block text-[12px] text-[color:var(--ink-3)]">Projection runs to age {RETIREMENT_AGE}, the phased-in State Pension age.</span>
+            <span className="metadata mt-1 block text-[12px] text-[color:var(--ink-3)]">Projection runs to age {RETIREMENT_AGE}, an illustrative target age, not a personalised State Pension date.</span>
           </label>
 
           <label className="block">
             <span className="block text-[14px] font-semibold text-[color:var(--ink)]">Current pot value (optional)</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal"
                 value={currentPot}
                 onChange={e => setCurrentPot(e.target.value)}
@@ -97,7 +99,7 @@ export default function PensionContributionTracker() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">The net amount that actually leaves your bank account.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal"
                 value={contribution}
                 onChange={e => setContribution(e.target.value)}
@@ -111,7 +113,7 @@ export default function PensionContributionTracker() {
           <label className="block">
             <span className="block text-[14px] font-semibold text-[color:var(--ink)]">Assumed annual growth</span>
             <div className="relative mt-2">
-              <input
+              <AmountInput
                 inputMode="decimal"
                 value={growthRate}
                 onChange={e => setGrowthRate(e.target.value)}
@@ -197,6 +199,7 @@ export default function PensionContributionTracker() {
         </aside>
       </div>
 
+      <p className="mt-5 text-sm">Assumes contributions qualify for relief at the selected rate in full, with enough relevant earnings and tax paid. Scottish relief rates, employer contributions, pension withdrawal tax, inflation and charges are not modelled. Growth is an assumed non-negative rate, not a forecast.</p>
       <details className="mt-8 border-t border-rule pt-6 text-[14.5px] leading-relaxed text-[color:var(--ink-2)]">
         <summary className="cursor-pointer font-semibold text-[color:var(--ink)]">How this is worked out</summary>
         <div className="mt-3 space-y-2">

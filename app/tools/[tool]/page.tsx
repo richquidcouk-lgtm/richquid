@@ -1,3 +1,6 @@
+import { serializeJsonLd } from '@/lib/schema'
+import { TOOL_READING } from '@/lib/tool-reading'
+import { getGuide } from '@/lib/mdx'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
@@ -31,6 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!tool) return { title: 'Calculator not found' }
   return {
     title: tool.title,
+    robots: tool.status === 'live' ? { index: true, follow: true } : { index: false, follow: true },
     description: tool.description,
     alternates: { canonical: `/tools/${tool.slug}` },
   }
@@ -54,6 +58,7 @@ export default function ToolPage({ params }: Props) {
   const tool = getTool(params.tool)
   if (!tool) notFound()
 
+  const reading = TOOL_READING[tool.slug]
   const Calculator = CALCULATORS[tool.slug]
   const isLive = tool.status === 'live' && Calculator
 
@@ -66,12 +71,14 @@ export default function ToolPage({ params }: Props) {
   const jsonLd = isLive ? {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
+    '@id': `${SITE_URL}/tools/${tool.slug}#calculator`,
+    isPartOf: { '@id': `${SITE_URL}/#website` },
     name: tool.title,
     description: tool.description,
     applicationCategory: 'FinanceApplication',
     operatingSystem: 'Any',
     url: `${SITE_URL}/tools/${tool.slug}`,
-    publisher: { '@type': 'Organization', name: 'RichQuid', url: SITE_URL },
+    publisher: { '@id': `${SITE_URL}/#organization` },
     offers: { '@type': 'Offer', price: 0, priceCurrency: 'GBP' },
     inLanguage: 'en-GB',
   } : null
@@ -81,12 +88,12 @@ export default function ToolPage({ params }: Props) {
       {jsonLd && (
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+          dangerouslySetInnerHTML={{ __html: serializeJsonLd(jsonLd) }}
         />
       )}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: serializeJsonLd(breadcrumbSchema) }}
       />
       <header className="mb-10 border-b border-rule pb-8">
         <p className="metadata mb-3 uppercase tracking-[0.2em] text-[color:var(--gold)]">Calculator</p>
@@ -97,6 +104,13 @@ export default function ToolPage({ params }: Props) {
       {isLive ? (
         <>
           <Calculator />
+          {reading && <section className="my-8 rounded border border-rule p-5" aria-label="Assumptions and related guides">
+            <h2 className="font-serif-display text-2xl">Before using this estimate</h2>
+            <p className="mt-3 leading-relaxed">{reading.note}</p>
+            <a className="mt-3 inline-block underline" href={reading.source}>Check the source guidance</a>
+            <h3 className="mt-5 font-semibold">Related guides</h3>
+            <ul className="mt-3 space-y-2">{reading.guides.map(slug => { const guide = getGuide(slug); return guide ? <li key={slug}><Link className="underline" href={`/guides/${slug}`}>{guide.title}</Link></li> : null })}</ul>
+          </section>}
           <EmbedSnippet slug={tool.slug} title={tool.title} />
         </>
       ) : (
@@ -117,7 +131,7 @@ export default function ToolPage({ params }: Props) {
           ← All calculators
         </Link>
         <p className="metadata text-[12.5px] text-[color:var(--ink-3)]">
-          Tax year {TAX_YEAR} · Last reviewed {new Date(CALC_LAST_REVIEWED).toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })} · Educational only, not personal financial advice
+          Tax year {TAX_YEAR} · Tax and loan constants checked {new Date(CALC_LAST_REVIEWED).toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })} · Educational only, not personal financial advice
         </p>
       </div>
 

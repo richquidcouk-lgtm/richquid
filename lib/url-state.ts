@@ -1,6 +1,7 @@
 'use client'
 
 import { useCallback, useEffect, useRef, useState } from 'react'
+import { parseAmount } from './uk-tax'
 
 /**
  * useStateFromUrl
@@ -30,7 +31,15 @@ export function useStateFromUrl(
     if (typeof window === 'undefined') return
     const params = new URLSearchParams(window.location.search)
     const fromUrl = params.get(key)
-    if (fromUrl !== null) setValueLocal(fromUrl)
+    const options: Record<string, string[]> = {
+      loan: ['none', 'plan1', 'plan2', 'plan4', 'plan5', 'postgrad'],
+      pension: ['none', 'salary-sacrifice', 'relief-at-source'],
+      scotland: ['true', 'false'],
+      region: ['england', 'scotland', 'wales'],
+      ftb: ['true', 'false'],
+      add: ['true', 'false'],
+    }
+    if (fromUrl !== null && (options[key] ? options[key].includes(fromUrl) : Number.isFinite(parseAmount(fromUrl)))) setValueLocal(fromUrl)
   }, [key])
 
   const setValue = useCallback(

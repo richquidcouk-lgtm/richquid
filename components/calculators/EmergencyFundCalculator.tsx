@@ -1,5 +1,8 @@
 'use client'
 
+import AmountInput from './AmountInput'
+import { parseAmount } from '@/lib/uk-tax'
+
 import { useMemo, useState } from 'react'
 
 type Costs = {
@@ -19,11 +22,6 @@ const FIELDS: { key: keyof Costs; label: string; hint: string }[] = [
   { key: 'debtMin', label: 'Minimum debt payments', hint: 'Credit cards, loans, BNPL — the floor, not the optimal payoff.' },
   { key: 'other', label: 'Other essentials', hint: 'Childcare, healthcare, anything you literally can’t skip.' },
 ]
-
-function parseAmount(v: string): number {
-  const n = parseFloat(v.replace(/[^0-9.]/g, ''))
-  return Number.isFinite(n) && n >= 0 ? n : 0
-}
 
 function formatGBP(n: number): string {
   return n.toLocaleString('en-GB', {
@@ -79,7 +77,7 @@ export default function EmergencyFundCalculator() {
                 <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">{f.hint}</span>
                 <div className="relative mt-2">
                   <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-                  <input
+                  <AmountInput
                     inputMode="decimal"
                     value={costs[f.key]}
                     onChange={handle(f.key)}
@@ -121,7 +119,7 @@ export default function EmergencyFundCalculator() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Cash you can access within 24 hours.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal"
                 value={saved}
                 onChange={e => setSaved(e.target.value)}

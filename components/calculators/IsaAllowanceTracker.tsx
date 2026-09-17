@@ -1,6 +1,9 @@
 'use client'
 
+import AmountInput from './AmountInput'
+
 import { useMemo, useState } from 'react'
+import { TAX_YEAR, parseAmount } from '@/lib/uk-tax'
 
 const ISA_ALLOWANCE = 20000
 const LISA_LIMIT = 4000
@@ -18,11 +21,6 @@ const FIELDS: { key: keyof IsaInputs; label: string; hint: string }[] = [
   { key: 'lisa', label: 'Lifetime ISA', hint: 'Counts toward the £20k total. Max £4,000/year on its own.' },
   { key: 'ifisa', label: 'Innovative Finance ISA', hint: 'Peer-to-peer lending ISAs.' },
 ]
-
-function parseAmount(v: string): number {
-  const n = parseFloat(v.replace(/[^0-9.]/g, ''))
-  return Number.isFinite(n) && n >= 0 ? n : 0
-}
 
 function formatGBP(n: number): string {
   return n.toLocaleString('en-GB', {
@@ -64,9 +62,9 @@ export default function IsaAllowanceTracker() {
     <section className="rounded-lg border border-rule bg-white p-6 sm:p-8">
       <div className="grid gap-8 lg:grid-cols-[1fr_320px]">
         <div className="space-y-5">
-          <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">2025/26 tax year</p>
+          <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">{TAX_YEAR} tax year</p>
           <p className="text-[15px] leading-relaxed text-[color:var(--ink-2)]">
-            Enter what you&rsquo;ve paid into each type of ISA since 6 April 2025. Withdrawals from a flexible ISA don&rsquo;t free up allowance unless you&rsquo;re replacing them in the same tax year, in the same account.
+            Enter what you&rsquo;ve paid into each type of ISA since 6 April 2026. Withdrawals from a flexible ISA don&rsquo;t free up allowance unless you&rsquo;re replacing them in the same tax year, in the same account.
           </p>
           <div className="space-y-4">
             {FIELDS.map(f => (
@@ -75,7 +73,7 @@ export default function IsaAllowanceTracker() {
                 <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">{f.hint}</span>
                 <div className="relative mt-2">
                   <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-                  <input
+                  <AmountInput
                     inputMode="decimal"
                     value={inputs[f.key]}
                     onChange={handle(f.key)}
@@ -137,7 +135,7 @@ export default function IsaAllowanceTracker() {
         <summary className="cursor-pointer font-semibold text-[color:var(--ink)]">How this is worked out</summary>
         <div className="mt-3 space-y-2">
           <p>
-            The total ISA allowance for the 2025/26 tax year is <strong>£20,000</strong>. It applies across <em>all</em> adult ISAs you hold — the £20,000 is shared, not per account.
+            The total ISA allowance for the {TAX_YEAR} tax year is <strong>£20,000</strong>. It applies across <em>all</em> adult ISAs you hold — the £20,000 is shared, not per account.
           </p>
           <p>
             The Lifetime ISA has its own annual cap of <strong>£4,000</strong> within that £20,000, and HMRC pays a 25% bonus on contributions up to that cap.

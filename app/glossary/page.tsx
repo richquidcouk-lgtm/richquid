@@ -1,3 +1,4 @@
+import { serializeJsonLd } from '@/lib/schema'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { GLOSSARY, GLOSSARY_LAST_REVIEWED, groupByLetter } from '@/lib/glossary'
@@ -42,7 +43,7 @@ export default function GlossaryPage() {
     <article className="mx-auto max-w-4xl px-5 py-12 sm:px-8 sm:py-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: serializeJsonLd(jsonLd) }}
       />
       <header className="border-b border-rule pb-8">
         <p className="metadata mb-3 uppercase tracking-[0.2em] text-[color:var(--green)]">Reference</p>

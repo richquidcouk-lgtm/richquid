@@ -1,5 +1,7 @@
 'use client'
 
+import AmountInput from './AmountInput'
+
 import { useMemo, useState } from 'react'
 import { TAX_YEAR, formatGBP, parseAmount, incomeTaxRUK, NI_PRIMARY, NI_UPPER } from '@/lib/uk-tax'
 
@@ -53,7 +55,7 @@ export default function SelfAssessmentEstimator() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Gross salary already taxed by your employer. Zero if you&rsquo;re fully self-employed.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={paye}
                 onChange={e => setPaye(e.target.value)}
                 aria-label="PAYE income"
@@ -67,7 +69,7 @@ export default function SelfAssessmentEstimator() {
             <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Gross — what clients paid you, before expenses.</span>
             <div className="relative mt-2">
               <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-              <input
+              <AmountInput
                 inputMode="decimal" value={seIncome}
                 onChange={e => setSeIncome(e.target.value)}
                 aria-label="Self-employed income"
@@ -101,7 +103,7 @@ export default function SelfAssessmentEstimator() {
                 <span className="metadata block text-[12.5px] text-[color:var(--ink-3)]">Allowable expenses (equipment, mileage, share of bills…)</span>
                 <div className="relative mt-1">
                   <span className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[color:var(--ink-3)]">£</span>
-                  <input
+                  <AmountInput
                     inputMode="decimal" value={expenses}
                     onChange={e => setExpenses(e.target.value)}
                     aria-label="Allowable expenses"

@@ -35,7 +35,7 @@ export const TOOLS: Tool[] = [
   {
     slug: 'mortgage-affordability-calculator',
     title: 'Mortgage Affordability',
-    description: 'How much a UK lender would actually let you borrow — with the same stress test they use.',
+    description: 'Estimate a borrowing range from your income, commitments and assumptions. Each lender makes its own affordability decision.',
     status: 'live',
     icon: Landmark,
     featured: true,

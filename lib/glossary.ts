@@ -139,7 +139,7 @@ export const GLOSSARY: GlossaryTerm[] = [
     term: 'FSCS (Financial Services Compensation Scheme)',
     slug: 'fscs',
     short: 'The UK’s deposit and investor compensation scheme — protects your savings if a regulated firm fails.',
-    body: 'FSCS protection covers up to £85,000 per person, per banking group, for cash deposits. Investment claims are capped at £85,000 per person, per firm. Note that some banking brands share a single banking licence (Halifax and Bank of Scotland, for example) — splitting savings across brands inside the same group doesn’t increase protection.',
+    body: 'FSCS protection covers up to £120,000 per eligible person per authorised firm, for cash deposits. Eligible investment claims have a different limit of £85,000 per person, per firm. Note that some banking brands share a single banking licence (Halifax and Bank of Scotland, for example) — splitting savings across brands inside the same group doesn’t increase protection.',
     source: { label: 'FSCS', url: 'https://www.fscs.org.uk/' },
   },
   {
@@ -272,7 +272,7 @@ export const GLOSSARY: GlossaryTerm[] = [
     term: 'NS&I',
     slug: 'nsi',
     short: 'National Savings and Investments — the government-backed savings provider.',
-    body: 'NS&I products are 100% backed by HM Treasury — protection is unlimited and doesn’t fall under the FSCS £85,000 cap. Premium Bonds, Income Bonds and Direct Saver are the most widely held NS&I products. Rates are competitive at times, not always.',
+    body: 'NS&I products are 100% backed by HM Treasury — protection is unlimited and doesn’t fall under the FSCS £120,000 deposit limit. Premium Bonds, Income Bonds and Direct Saver are the most widely held NS&I products. Rates are competitive at times, not always.',
     related: ['premium-bonds', 'fscs'],
   },
   {

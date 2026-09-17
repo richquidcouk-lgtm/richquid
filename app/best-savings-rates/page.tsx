@@ -22,7 +22,7 @@ function RateRow({ r }: { r: RateRange }) {
         <h3 className="font-serif-display text-[22px] leading-tight">{r.label}</h3>
         <p className="metadata tabular-nums text-[14px] text-[color:var(--green-dark)]">
           <span className="font-semibold">{formatPct(r.rangeLow)} – {formatPct(r.rangeHigh)}</span>
-          <span className="ml-2 uppercase tracking-[0.18em] text-[11.5px] text-[color:var(--ink-3)]">AER range</span>
+          <span className="ml-2 uppercase tracking-[0.18em] text-[11.5px] text-[color:var(--ink-3)]">Historical range</span>
         </p>
       </div>
       <dl className="mt-4 grid gap-3 text-[14.5px] sm:grid-cols-[140px_1fr]">
@@ -50,10 +50,10 @@ export default function BestSavingsRatesPage() {
           UK savings rates, by product type
         </h1>
         <p className="mt-4 text-[18px] leading-relaxed text-[color:var(--ink-2)]">
-          Rate ranges across the main UK savings products, with the trade-offs that decide which one fits a given chunk of cash. We don&rsquo;t publish named-provider comparisons — those move daily and need a regulated data feed. For today&rsquo;s top picks, the live aggregators below are where we send you.
+          Rate ranges across the main UK savings products, with the trade-offs that decide which one fits a given chunk of cash. We don&rsquo;t publish named-provider comparisons — those change frequently and require ongoing verification. For today&rsquo;s top picks, the live aggregators below are where we send you.
         </p>
         <p className="metadata mt-5 text-[13px] text-[color:var(--ink-3)]">
-          Last reviewed {formatReviewed(RATES_LAST_REVIEWED)}
+          Historical rate examples from {formatReviewed(RATES_LAST_REVIEWED)} — not current offers. Check a provider before applying.
         </p>
       </header>
 
@@ -86,7 +86,7 @@ export default function BestSavingsRatesPage() {
         <h2 className="font-serif-display text-[22px] leading-snug">A few things the table doesn&rsquo;t show</h2>
         <ul className="mt-3 list-disc space-y-2 pl-5 text-[14.5px] leading-relaxed text-[color:var(--ink-2)]">
           <li>
-            <strong>FSCS protection</strong> covers up to £85,000 per banking group, per individual. NS&amp;I products are 100% government-backed without that cap.
+            <strong>FSCS protection</strong> covers up to £120,000 per eligible person per authorised firm. NS&amp;I products are 100% government-backed without that cap.
           </li>
           <li>
             <strong>Tax treatment</strong> differs: ISA interest is tax-free; outside an ISA, basic-rate taxpayers get a £1,000 Personal Savings Allowance, higher-rate get £500, additional-rate get nothing.

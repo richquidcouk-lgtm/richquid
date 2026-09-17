@@ -1,3 +1,4 @@
+import { serializeJsonLd } from '@/lib/schema'
 import type { Metadata } from 'next'
 import { Fraunces, Inter } from 'next/font/google'
 import Script from 'next/script'
@@ -59,6 +60,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const organizationJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
+    '@id': `${SITE_URL}/#organization`,
     name: 'RichQuid',
     url: SITE_URL,
     logo: `${SITE_URL}/og.png`,
@@ -68,10 +70,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const websiteJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
+    '@id': `${SITE_URL}/#website`,
     name: 'RichQuid',
     url: SITE_URL,
     inLanguage: 'en-GB',
-    publisher: { '@type': 'Organization', name: 'RichQuid' },
+    publisher: { '@id': `${SITE_URL}/#organization` },
   }
 
   return (
@@ -86,16 +89,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', '${GA_ID}');
+            gtag('config', '${GA_ID}', { page_location: window.location.origin + window.location.pathname });
           `}
         </Script>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+          dangerouslySetInnerHTML={{ __html: serializeJsonLd(organizationJsonLd) }}
         />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+          dangerouslySetInnerHTML={{ __html: serializeJsonLd(websiteJsonLd) }}
         />
       </head>
       <body>
