@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { AnalyticsSettingsButton } from '@/components/CookieBanner'
+import { LogoIcon } from '@/components/Logo'
 
 const SITE_YEAR = new Date().getFullYear()
 
@@ -61,7 +62,8 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 space-y-3 border-t border-[color:var(--paper)]/15 pt-6 text-[13px] text-[color:var(--paper)]/65">
-          <p className="font-serif-display text-xl text-[color:var(--paper)]">
+          <p className="flex items-center gap-2 font-serif-display text-xl text-[color:var(--paper)]">
+            <LogoIcon size={22} variant="bars" />
             Rich<span className="text-[color:var(--gold-soft)]">Quid</span>
           </p>
           <p>

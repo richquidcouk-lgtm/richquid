@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import CategoryNav from './CategoryNav'
+import Logo from './Logo'
 
 const NAV = [
   { href: '/tools', label: 'Tools' },
@@ -14,8 +15,8 @@ export default function Header() {
     <header className="sticky top-0 z-40 bg-[color:var(--paper)]/85 backdrop-blur supports-[backdrop-filter]:bg-[color:var(--paper)]/75">
       <div className="border-b border-rule">
         <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5 sm:px-8">
-          <Link href="/" className="font-serif-display text-2xl tracking-tight">
-            Rich<span className="text-[color:var(--green)]">Quid</span>
+          <Link href="/" aria-label="RichQuid home">
+            <Logo />
           </Link>
           <nav aria-label="Primary" className="flex items-center gap-1 sm:gap-2 text-[15px]">
             {NAV.map(item => (
