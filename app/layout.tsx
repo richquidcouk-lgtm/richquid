@@ -39,7 +39,6 @@ export const metadata: Metadata = {
     url: SITE_URL,
     title: 'RichQuid — UK personal finance, in plain English',
     description: 'Guides, calculators and clear thinking on UK money — ISAs, pensions, salary sacrifice, savings, tax and mortgages.',
-    images: [{ url: '/og.png', width: 1200, height: 630, alt: 'RichQuid' }],
   },
   twitter: {
     card: 'summary_large_image',
@@ -63,7 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     '@id': `${SITE_URL}/#organization`,
     name: 'RichQuid',
     url: SITE_URL,
-    logo: `${SITE_URL}/og.png`,
+    logo: `${SITE_URL}/logo`,
     description: 'UK personal finance — guides, calculators and clear thinking on ISAs, pensions, salary sacrifice, savings, tax and mortgages.',
     sameAs: [],
   }
