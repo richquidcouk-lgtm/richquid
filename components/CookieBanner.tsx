@@ -1,47 +1,25 @@
 'use client'
-
 import { useEffect, useState } from 'react'
+import { usePathname } from 'next/navigation'
 import Link from 'next/link'
+import { ANALYTICS_KEY, ANALYTICS_EVENT, setAnalyticsChoice } from '@/lib/analytics'
 
-const STORAGE_KEY = 'richquid-cookie-pref'
-
+export function AnalyticsSettingsButton() {
+  return <button className="min-h-11 text-sm underline underline-offset-4" onClick={() => window.dispatchEvent(new Event('richquid-open-analytics-settings'))}>Analytics preferences</button>
+}
 export default function CookieBanner() {
   const [visible, setVisible] = useState(false)
-
+  const pathname = usePathname()
   useEffect(() => {
-    try {
-      if (!localStorage.getItem(STORAGE_KEY)) setVisible(true)
-    } catch {
-      // localStorage unavailable (e.g. private mode) — leave hidden, no banner.
-    }
+    try { setVisible(!['accepted', 'declined'].includes(localStorage.getItem(ANALYTICS_KEY) || '')) } catch { setVisible(true) }
+    const open = () => setVisible(true)
+    const close = () => setVisible(false)
+    window.addEventListener('richquid-open-analytics-settings', open); window.addEventListener(ANALYTICS_EVENT, close)
+    return () => { window.removeEventListener('richquid-open-analytics-settings', open); window.removeEventListener(ANALYTICS_EVENT, close) }
   }, [])
-
-  function accept() {
-    try { localStorage.setItem(STORAGE_KEY, 'accepted') } catch {}
-    setVisible(false)
-  }
-
-  if (!visible) return null
-
-  return (
-    <div
-      role="region"
-      aria-label="Cookie notice"
-      className="fixed inset-x-3 bottom-3 z-50 mx-auto max-w-4xl rounded-md border border-rule bg-white p-4 text-[14px] leading-relaxed shadow-md sm:p-5"
-    >
-      <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between sm:gap-6">
-        <p className="text-[color:var(--ink-2)]">
-          RichQuid uses cookie-less analytics from Vercel. We don&rsquo;t set advertising or tracking cookies.{' '}
-          <Link href="/privacy" className="underline underline-offset-4 hover:text-[color:var(--green)]">Privacy policy</Link>.
-        </p>
-        <button
-          type="button"
-          onClick={accept}
-          className="shrink-0 rounded-md bg-[color:var(--green)] px-5 py-2 text-[14px] font-semibold text-[color:var(--paper)] transition-colors hover:bg-[color:var(--green-dark)]"
-        >
-          Got it
-        </button>
-      </div>
-    </div>
-  )
+  if (!visible || pathname.startsWith('/embed/')) return null
+  return <section aria-label="Optional analytics" className="fixed inset-x-3 bottom-3 z-50 mx-auto max-w-3xl rounded border border-rule bg-white p-5 shadow-lg">
+    <h2 className="font-semibold">Help us improve RichQuid?</h2><p className="mt-2 text-sm leading-relaxed">With your permission, Google Analytics measures page visits and calculator use. Our calculator events do not include the amounts you enter. You can use every tool without analytics. <Link href="/privacy" className="underline">Privacy policy</Link>.</p>
+    <div className="mt-4 flex flex-wrap gap-3"><button className="min-h-11 rounded border border-rule px-4 py-2 font-semibold" onClick={() => setAnalyticsChoice('declined')}>Decline analytics</button><button className="min-h-11 rounded border border-rule px-4 py-2 font-semibold" onClick={() => setAnalyticsChoice('accepted')}>Allow analytics</button></div>
+  </section>
 }

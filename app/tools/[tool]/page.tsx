@@ -9,6 +9,7 @@ import AffiliateDisclosure from '@/components/AffiliateDisclosure'
 import EmbedSnippet from '@/components/EmbedSnippet'
 import { CALC_LAST_REVIEWED, TAX_YEAR } from '@/lib/uk-tax'
 import { breadcrumbListSchema } from '@/lib/schema'
+import CashbackCalculator from '@/components/calculators/CashbackCalculator'
 import IsaAllowanceTracker from '@/components/calculators/IsaAllowanceTracker'
 import SalarySacrificeCalculator from '@/components/calculators/SalarySacrificeCalculator'
 import EmergencyFundCalculator from '@/components/calculators/EmergencyFundCalculator'
@@ -41,6 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const CALCULATORS: Record<string, React.ComponentType> = {
+  'net-cashback-calculator': CashbackCalculator,
   'isa-allowance-tracker': IsaAllowanceTracker,
   'salary-sacrifice-calculator': SalarySacrificeCalculator,
   'emergency-fund-calculator': EmergencyFundCalculator,
@@ -131,7 +133,7 @@ export default function ToolPage({ params }: Props) {
           ← All calculators
         </Link>
         <p className="metadata text-[12.5px] text-[color:var(--ink-3)]">
-          Tax year {TAX_YEAR} · Tax and loan constants checked {new Date(CALC_LAST_REVIEWED).toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })} · Educational only, not personal financial advice
+          {tool.slug === 'net-cashback-calculator' ? 'Calculation method checked 18 September 2026' : `Tax year ${TAX_YEAR} · Tax and loan constants checked ${new Date(CALC_LAST_REVIEWED).toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })}`} · Educational only, not personal financial advice
         </p>
       </div>
 

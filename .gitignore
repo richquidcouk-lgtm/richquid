@@ -11,6 +11,7 @@ out
 public/sitemap*.xml
 public/robots.txt
 .turbo
+.claude
 
 # TypeScript incremental build cache
 *.tsbuildinfo

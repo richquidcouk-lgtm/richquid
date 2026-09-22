@@ -1,5 +1,7 @@
 'use client'
 
+import Link from 'next/link'
+import { trackToolEvent } from '@/lib/analytics'
 import AmountInput from './AmountInput'
 
 import { useMemo, useState } from 'react'
@@ -31,6 +33,8 @@ function formatGBP(n: number): string {
 }
 
 export default function IsaAllowanceTracker() {
+  const [checked, setChecked] = useState(false)
+  const [started, setStarted] = useState(false)
   const [inputs, setInputs] = useState<IsaInputs>({
     cash: '',
     stocks: '',
@@ -56,7 +60,10 @@ export default function IsaAllowanceTracker() {
   }, [inputs])
 
   const handle = (key: keyof IsaInputs) => (e: React.ChangeEvent<HTMLInputElement>) =>
-    setInputs(prev => ({ ...prev, [key]: e.target.value }))
+    {
+      if (!started) { setStarted(true); trackToolEvent('calculator_start', 'isa-allowance-tracker') }
+      setChecked(false); setInputs(prev => ({ ...prev, [key]: e.target.value }))
+    }
 
   return (
     <section className="rounded-lg border border-rule bg-white p-6 sm:p-8">
@@ -64,7 +71,7 @@ export default function IsaAllowanceTracker() {
         <div className="space-y-5">
           <p className="metadata uppercase tracking-[0.2em] text-[color:var(--green)]">{TAX_YEAR} tax year</p>
           <p className="text-[15px] leading-relaxed text-[color:var(--ink-2)]">
-            Enter what you&rsquo;ve paid into each type of ISA since 6 April 2026. Withdrawals from a flexible ISA don&rsquo;t free up allowance unless you&rsquo;re replacing them in the same tax year, in the same account.
+            Enter what you&rsquo;ve paid into each type of ISA since 6 April 2026. Use new subscriptions, not current balances, interest, investment growth or formal provider-to-provider transfers. Flexible withdrawals and replacements need a separate check against your provider&rsquo;s records; this simple tracker does not model them.
           </p>
           <div className="space-y-4">
             {FIELDS.map(f => (
@@ -85,9 +92,11 @@ export default function IsaAllowanceTracker() {
               </label>
             ))}
           </div>
+          <button type="button" className="min-h-11 rounded bg-[color:var(--green)] px-5 py-3 font-semibold text-white" onClick={() => { setChecked(true); trackToolEvent('calculator_complete', 'isa-allowance-tracker') }}>Check my allowance</button>
+          {checked && <p role="status" className="text-sm">{numbers.over || numbers.lisaOver ? 'Your entries exceed an annual limit. Check the highlighted figures and contact your provider.' : `Based on these entries, ${formatGBP(numbers.remaining)} of your overall allowance remains. Check provider records before subscribing.`}</p>}
           {numbers.lisaOver && (
             <p className="rounded-md border border-rule bg-[color:var(--gold-soft)]/40 px-3 py-2 text-[13.5px] text-[color:var(--ink-2)]">
-              The Lifetime ISA has its own £4,000/year cap. You&rsquo;ve entered {formatGBP(numbers.lisa)} — the government 25% bonus only applies up to £4,000.
+              The Lifetime ISA has its own £4,000/year cap. You&rsquo;ve entered {formatGBP(numbers.lisa)} — the amount entered exceeds the contribution limit. Check your records and contact the provider before adding more.
             </p>
           )}
         </div>
@@ -124,13 +133,20 @@ export default function IsaAllowanceTracker() {
             </p>
             {numbers.over && (
               <p className="metadata mt-2 text-[12.5px] text-[color:var(--ink-2)]">
-                Speak to your provider — HMRC will eventually flag the excess and ask you to repair it.
+                Contact your ISA provider or HMRC about the excess. Do not assume that withdrawing it yourself resolves an oversubscription.
               </p>
             )}
           </div>
         </aside>
       </div>
 
+      <section className="mt-8 border-t border-rule pt-6 text-sm leading-relaxed">
+        <h2 className="font-serif-display text-2xl">Example: contributions are not account balances</h2>
+        <p className="mt-3">Suppose you pay £7,000 into a cash ISA, £5,000 into a stocks and shares ISA and £3,000 into a Lifetime ISA this tax year. You have used £15,000, leaving £5,000 overall and £1,000 of the Lifetime ISA payment limit. A government LISA bonus is not your own subscription.</p>
+        <p className="mt-3">If an older ISA worth £12,000 moves through the official transfer process, do not enter that £12,000 as a new subscription. Interest and investment growth also do not belong in these boxes.</p>
+        <p className="mt-3">Read <Link href="/guides/transferring-isa-uk" className="underline">how to transfer an ISA</Link> and the <a href="https://www.gov.uk/individual-savings-accounts/withdrawing-your-money" className="underline">official withdrawal guidance</a>. This calculation checks totals, not eligibility, flexible replacements or provider acceptance.</p>
+        <p className="mt-3">Example and instructions checked 18 September 2026.</p>
+      </section>
       <details className="mt-8 border-t border-rule pt-6 text-[14.5px] leading-relaxed text-[color:var(--ink-2)]">
         <summary className="cursor-pointer font-semibold text-[color:var(--ink)]">How this is worked out</summary>
         <div className="mt-3 space-y-2">

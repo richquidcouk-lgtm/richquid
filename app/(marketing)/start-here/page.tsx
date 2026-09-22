@@ -8,16 +8,18 @@ export const metadata: Metadata = {
 }
 
 const PATHS = [
+  { headline: 'I have just arrived in the UK', body: 'Prepare your banking documents, understand eligibility and find practical next steps before applying.', href: '/guides/how-to-open-a-bank-account-as-a-new-arrival-to-the-uk', cta: 'Use the newcomer banking checklist' },
+  { headline: 'Is this cashback offer worth it?', body: 'Compare rewards after fees and caps, with first-year bonuses separated from recurring value.', href: '/tools/net-cashback-calculator', cta: 'Calculate net cashback' },
   {
     headline: 'I&rsquo;m new to ISAs',
     body: 'Start with the basics — what an ISA is, the £20,000 allowance, and how to pick between cash, stocks &amp; shares, LISA and IFISA.',
-    href: '/guides',
+    href: '/guides/category/isas',
     cta: 'Read the ISA guides',
   },
   {
     headline: 'I want to compare pensions',
     body: 'Workplace pension, SIPP, salary sacrifice — see when each one makes sense and how the tax relief actually works in practice.',
-    href: '/guides',
+    href: '/guides/category/pensions',
     cta: 'Read the pension guides',
   },
   {
@@ -35,8 +37,8 @@ const PATHS = [
   {
     headline: 'I&rsquo;m self-employed',
     body: 'How to think about pensions, tax-efficient saving, and emergency funds when your income is uneven.',
-    href: '/guides',
-    cta: 'Read the self-employed guides',
+    href: '/guides/what-is-the-trading-allowance-and-how-does-it-work',
+    cta: 'Check the trading allowance',
   },
   {
     headline: 'I&rsquo;m just here to learn',

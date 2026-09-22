@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { TOOLS, getTool } from '@/lib/tools'
+import CashbackCalculator from '@/components/calculators/CashbackCalculator'
 import IsaAllowanceTracker from '@/components/calculators/IsaAllowanceTracker'
 import SalarySacrificeCalculator from '@/components/calculators/SalarySacrificeCalculator'
 import EmergencyFundCalculator from '@/components/calculators/EmergencyFundCalculator'
@@ -34,6 +35,7 @@ export function generateMetadata({ params }: Props): Metadata {
 }
 
 const CALCULATORS: Record<string, React.ComponentType> = {
+  'net-cashback-calculator': CashbackCalculator,
   'isa-allowance-tracker': IsaAllowanceTracker,
   'salary-sacrifice-calculator': SalarySacrificeCalculator,
   'emergency-fund-calculator': EmergencyFundCalculator,

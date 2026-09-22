@@ -17,6 +17,14 @@ export interface Tool {
 
 export const TOOLS: Tool[] = [
   {
+    slug: 'net-cashback-calculator',
+    title: 'Net Cashback Calculator',
+    description: 'Calculate cashback after fees, monthly caps and other costs. Compare recurring annual value with the first year including a one-off bonus.',
+    status: 'live',
+    icon: Coins,
+    featured: true,
+  },
+  {
     slug: 'take-home-pay-calculator',
     title: 'Take-Home Pay Calculator',
     description: 'See what actually lands in your bank after tax, NI, pension and student loan — for England, Wales, NI or Scotland.',

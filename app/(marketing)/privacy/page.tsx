@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   alternates: { canonical: '/privacy' },
 }
 
-const UPDATED = '17 May 2026'
+const UPDATED = '18 September 2026'
 
 export default function PrivacyPage() {
   return (
@@ -27,7 +27,7 @@ export default function PrivacyPage() {
         <h2>What we collect</h2>
         <ul>
           <li>
-            <strong>Analytics.</strong> The site loads Google Analytics to understand page usage. The configured page URL excludes calculator input query strings. Google may process technical information about visits and use cookies. See <a href="https://policies.google.com/privacy">Google&rsquo;s privacy policy</a> for its processing practices. Do not enter personal identifiers into calculator fields.
+            <strong>Analytics.</strong> Google Analytics loads only after you allow optional analytics. You can decline or change your choice through Analytics preferences in the footer. Our page-view tracking omits query strings and fragments. Calculator-start and completion events identify the tool, not your entered financial amounts. Google may process technical information about visits and use cookies. See <a href="https://policies.google.com/privacy">Google&rsquo;s privacy policy</a> for its processing practices. Do not enter personal identifiers into calculator fields.
           </li>
           <li>
             <strong>Newsletter.</strong> New subscriptions are currently unavailable. The website does not accept new newsletter email addresses while the service is disabled.
@@ -49,14 +49,14 @@ export default function PrivacyPage() {
 
         <h2>Third parties</h2>
         <ul>
-          <li><strong>Vercel</strong> hosts the site and provides the analytics described above.</li>
+          <li><strong>Vercel</strong> hosts the site. <strong>Google Analytics</strong> provides optional usage analytics after consent.</li>
           <li><strong>Affiliate networks</strong> (e.g. AWIN, Impact, partner-direct programmes) receive a referral identifier when you click an outbound affiliate link. Their privacy policies apply to anything that happens after you leave our site.</li>
           <li>If we add a newsletter provider (e.g. Buttondown, ConvertKit), we will list it here and link to their privacy policy.</li>
         </ul>
 
         <h2>Cookies</h2>
         <p>
-          RichQuid does not set advertising or tracking cookies. The site may set strictly necessary cookies (for example, a preference for light/dark mode) which do not identify you. Vercel&rsquo;s analytics is cookie-less.
+          We store your analytics preference in your browser. If you allow analytics, Google Analytics can use analytics cookies; advertising features are disabled in our configuration. Declining keeps the Google Analytics script unloaded. Withdrawing permission disables further analytics collection, but existing cookies may remain until they expire or you clear them in your browser. Calculators work with either choice.
         </p>
 
         <h2>Your rights under UK GDPR</h2>

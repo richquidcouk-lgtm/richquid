@@ -1,13 +1,13 @@
 import { serializeJsonLd } from '@/lib/schema'
 import type { Metadata } from 'next'
 import { Fraunces, Inter } from 'next/font/google'
-import Script from 'next/script'
+import Analytics from '@/components/Analytics'
+import CookieBanner from '@/components/CookieBanner'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import SiteChrome from '@/components/SiteChrome'
 import './globals.css'
 
-const GA_ID = 'G-1SNFQ7XSZX'
 
 const serif = Fraunces({
   subsets: ['latin'],
@@ -80,18 +80,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en-GB" className={`${serif.variable} ${sans.variable}`}>
       <head>
-        <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
-          strategy="afterInteractive"
-        />
-        <Script id="ga-init" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${GA_ID}', { page_location: window.location.origin + window.location.pathname });
-          `}
-        </Script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: serializeJsonLd(organizationJsonLd) }}
@@ -102,6 +90,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body>
+        <Analytics />
+        <CookieBanner />
         <SiteChrome header={<Header />} footer={<Footer />}>
           {children}
         </SiteChrome>

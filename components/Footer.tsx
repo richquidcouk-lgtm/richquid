@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { AnalyticsSettingsButton } from '@/components/CookieBanner'
 
 const SITE_YEAR = new Date().getFullYear()
 
@@ -72,6 +73,7 @@ export default function Footer() {
             ICO registration: <em>TBC</em> · RichQuid is not a financial adviser. See our{' '}
             <Link href="/disclaimer" className="underline underline-offset-4">disclaimer</Link>.
           </p>
+          <AnalyticsSettingsButton />
           <p className="opacity-70">© {SITE_YEAR} RichQuid. UK personal finance, written in plain English.</p>
         </div>
       </div>

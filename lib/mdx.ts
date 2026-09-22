@@ -51,15 +51,16 @@ export function getRelatedGuides(slug: string, limit = 3): GuideMeta[] {
   const all = getAllGuides()
   const self = all.find(g => g.slug === slug)
   if (!self) return all.slice(0, limit).map(({ content: _content, ...m }) => m)
-  // Prefer same category, then fall back to recent.
-  const sameCategory = all
-    .filter(g => g.slug !== slug && g.category === self.category)
-    .slice(0, limit)
-  if (sameCategory.length >= limit) {
-    return sameCategory.map(({ content: _content, ...m }) => m)
-  }
-  const filler = all
-    .filter(g => g.slug !== slug && g.category !== self.category)
-    .slice(0, limit - sameCategory.length)
-  return [...sameCategory, ...filler].map(({ content: _content, ...m }) => m)
+  const clusters = [
+    ['how-to-open-a-bank-account-as-a-new-arrival-to-the-uk', 'what-documents-do-i-need-to-open-a-uk-bank-account', 'what-credit-cards-can-i-get-with-no-uk-credit-history', 'how-to-build-a-credit-score-from-scratch-uk'],
+    ['uk-cashback-current-accounts', 'uk-cashback-credit-cards-explained', 'uk-cashback-explained'],
+    ['can-i-pay-into-my-isa-from-a-foreign-bank-account', 'transferring-isa-uk', 'how-many-isas-can-i-have-at-once', 'nsi-products-overview-uk'],
+  ]
+  const preferred = clusters.find(cluster => cluster.includes(slug)) ?? []
+  const ordered = [...preferred.map(item => all.find(guide => guide.slug === item)), ...all.filter(guide => guide.category === self.category), ...all]
+  const seen = new Set([slug])
+  return ordered.filter((guide): guide is Guide => {
+    if (!guide || seen.has(guide.slug)) return false
+    seen.add(guide.slug); return true
+  }).slice(0, limit).map(({ content: _content, ...meta }) => meta)
 }
