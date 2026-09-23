@@ -132,7 +132,7 @@ export default async function GuidePage({ params }: Props) {
         </header>
 
         <p className="my-6 text-lg leading-relaxed">{guide.excerpt}</p>
-        <Image src={guide.featuredImage || guideArt(guide.category)} alt="" width={900} height={360} className="my-6 aspect-[5/2] w-full rounded-xl object-cover" />
+        <Image src={guide.featuredImage || guideArt(guide.category, guide.slug)} alt="" width={900} height={360} className="my-6 aspect-[5/2] w-full rounded-xl object-cover" />
         {navigation.headings.length > 0 && <nav aria-label="On this page" className="my-6 rounded border border-rule p-5">
           <p className="font-semibold">On this page</p>
           <ul className="mt-3 space-y-2">{navigation.headings.map(item => <li key={item.id}><a className="text-sm underline" href={`#${item.id}`}>{item.title}</a></li>)}</ul>

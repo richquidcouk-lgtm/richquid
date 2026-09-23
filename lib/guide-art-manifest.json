@@ -1,0 +1,962 @@
+{
+  "100k-tax-trap-uk": {
+    "subjects": [
+      "receipt",
+      "steps"
+    ],
+    "composition": 4,
+    "palette": 4
+  },
+  "50-30-20-budgeting-uk": {
+    "subjects": [
+      "wallet",
+      "calculator"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "adjustment-to-rate-band-meaning": {
+    "subjects": [
+      "document",
+      "percent"
+    ],
+    "composition": 4,
+    "palette": 4
+  },
+  "are-cashback-rewards-taxable-uk": {
+    "subjects": [
+      "gift",
+      "receipt"
+    ],
+    "composition": 0,
+    "palette": 2
+  },
+  "bed-and-isa-explained": {
+    "subjects": [
+      "plant",
+      "document"
+    ],
+    "composition": 1,
+    "palette": 3
+  },
+  "best-cash-isa-rates-uk-2026": {
+    "subjects": [
+      "jar",
+      "percent"
+    ],
+    "composition": 2,
+    "palette": 1
+  },
+  "budgeting-irregular-income-uk": {
+    "subjects": [
+      "wallet",
+      "calendar"
+    ],
+    "composition": 0,
+    "palette": 2
+  },
+  "buy-to-let-tax-uk": {
+    "subjects": [
+      "home",
+      "receipt"
+    ],
+    "composition": 0,
+    "palette": 5
+  },
+  "can-i-access-my-pension-if-i-have-a-visa": {
+    "subjects": [
+      "passport",
+      "lock"
+    ],
+    "composition": 0,
+    "palette": 3
+  },
+  "can-i-claim-my-uk-pension-if-i-move-to-india": {
+    "subjects": [
+      "globe",
+      "wallet"
+    ],
+    "composition": 2,
+    "palette": 2
+  },
+  "can-i-get-a-mortgage-on-a-skilled-worker-visa": {
+    "subjects": [
+      "briefcase",
+      "home"
+    ],
+    "composition": 1,
+    "palette": 0
+  },
+  "can-i-get-a-mortgage-on-a-visa-in-the-uk": {
+    "subjects": [
+      "passport",
+      "home"
+    ],
+    "composition": 5,
+    "palette": 1
+  },
+  "can-i-get-a-mortgage-with-1-year-self-employed-accounts": {
+    "subjects": [
+      "document",
+      "home"
+    ],
+    "composition": 3,
+    "palette": 5
+  },
+  "can-i-get-a-mortgage-with-ilr": {
+    "subjects": [
+      "shield",
+      "key"
+    ],
+    "composition": 4,
+    "palette": 0
+  },
+  "can-i-have-a-lisa-and-a-stocks-and-shares-isa": {
+    "subjects": [
+      "home",
+      "plant"
+    ],
+    "composition": 3,
+    "palette": 0
+  },
+  "can-i-have-a-sipp-and-a-workplace-pension-at-the-same-time": {
+    "subjects": [
+      "jar",
+      "briefcase"
+    ],
+    "composition": 0,
+    "palette": 3
+  },
+  "can-i-inherit-my-spouse-isa-allowance": {
+    "subjects": [
+      "family",
+      "plant"
+    ],
+    "composition": 0,
+    "palette": 2
+  },
+  "can-i-open-an-isa-if-i-am-not-a-uk-resident": {
+    "subjects": [
+      "globe",
+      "plant"
+    ],
+    "composition": 4,
+    "palette": 5
+  },
+  "can-i-overpay-my-mortgage-to-clear-it-early": {
+    "subjects": [
+      "coins",
+      "key"
+    ],
+    "composition": 5,
+    "palette": 5
+  },
+  "can-i-pay-into-a-pension-if-i-am-self-employed": {
+    "subjects": [
+      "briefcase",
+      "jar"
+    ],
+    "composition": 5,
+    "palette": 1
+  },
+  "can-i-pay-into-my-isa-from-a-foreign-bank-account": {
+    "subjects": [
+      "globe",
+      "bank"
+    ],
+    "composition": 3,
+    "palette": 1
+  },
+  "can-i-pay-into-two-isas-in-the-same-tax-year": {
+    "subjects": [
+      "jar",
+      "calendar"
+    ],
+    "composition": 1,
+    "palette": 1
+  },
+  "can-i-port-my-mortgage-to-a-new-house": {
+    "subjects": [
+      "home",
+      "key"
+    ],
+    "composition": 0,
+    "palette": 2
+  },
+  "can-i-take-my-pension-at-55-and-still-work": {
+    "subjects": [
+      "clock",
+      "briefcase"
+    ],
+    "composition": 0,
+    "palette": 2
+  },
+  "can-i-transfer-a-cash-isa-to-a-stocks-and-shares-isa": {
+    "subjects": [
+      "jar",
+      "plant"
+    ],
+    "composition": 2,
+    "palette": 3
+  },
+  "can-i-transfer-my-uk-pension-abroad": {
+    "subjects": [
+      "jar",
+      "globe"
+    ],
+    "composition": 0,
+    "palette": 2
+  },
+  "can-i-use-overseas-income-for-a-uk-mortgage": {
+    "subjects": [
+      "globe",
+      "home"
+    ],
+    "composition": 5,
+    "palette": 1
+  },
+  "can-i-withdraw-from-a-fixed-rate-cash-isa-early": {
+    "subjects": [
+      "lock",
+      "clock"
+    ],
+    "composition": 0,
+    "palette": 0
+  },
+  "cash-isa-cap-12000-april-2027": {
+    "subjects": [
+      "jar",
+      "calendar"
+    ],
+    "composition": 4,
+    "palette": 5
+  },
+  "cash-isa-vs-personal-savings-allowance": {
+    "subjects": [
+      "plant",
+      "receipt"
+    ],
+    "composition": 4,
+    "palette": 5
+  },
+  "cgt-shares-crypto-uk": {
+    "subjects": [
+      "laptop",
+      "receipt"
+    ],
+    "composition": 0,
+    "palette": 3
+  },
+  "check-state-pension-forecast-uk": {
+    "subjects": [
+      "laptop",
+      "clock"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "debt-snowball-vs-avalanche-uk": {
+    "subjects": [
+      "coins",
+      "steps"
+    ],
+    "composition": 2,
+    "palette": 1
+  },
+  "dividend-tax-rate-rise-april-2026": {
+    "subjects": [
+      "plant",
+      "calendar"
+    ],
+    "composition": 5,
+    "palette": 3
+  },
+  "do-i-need-to-pay-tax-on-my-side-hustle-uk": {
+    "subjects": [
+      "briefcase",
+      "receipt"
+    ],
+    "composition": 5,
+    "palette": 3
+  },
+  "do-i-need-to-register-as-self-employed-for-a-side-hustle": {
+    "subjects": [
+      "briefcase",
+      "document"
+    ],
+    "composition": 0,
+    "palette": 3
+  },
+  "do-i-pay-tax-on-dividends-from-shares-uk": {
+    "subjects": [
+      "plant",
+      "receipt"
+    ],
+    "composition": 0,
+    "palette": 1
+  },
+  "do-i-pay-tax-on-freelance-income-alongside-a-full-time-job": {
+    "subjects": [
+      "laptop",
+      "briefcase"
+    ],
+    "composition": 2,
+    "palette": 1
+  },
+  "do-i-pay-tax-on-isa-withdrawals": {
+    "subjects": [
+      "jar",
+      "receipt"
+    ],
+    "composition": 2,
+    "palette": 5
+  },
+  "do-i-pay-tax-on-money-sent-from-abroad-to-the-uk": {
+    "subjects": [
+      "globe",
+      "receipt"
+    ],
+    "composition": 1,
+    "palette": 2
+  },
+  "do-i-pay-tax-on-savings-interest-uk": {
+    "subjects": [
+      "jar",
+      "percent"
+    ],
+    "composition": 0,
+    "palette": 1
+  },
+  "do-i-pay-tax-on-selling-things-on-vinted-uk": {
+    "subjects": [
+      "laptop",
+      "receipt"
+    ],
+    "composition": 5,
+    "palette": 4
+  },
+  "do-non-doms-pay-tax-on-foreign-income-uk": {
+    "subjects": [
+      "passport",
+      "receipt"
+    ],
+    "composition": 4,
+    "palette": 0
+  },
+  "does-an-isa-count-towards-my-personal-savings-allowance": {
+    "subjects": [
+      "plant",
+      "calculator"
+    ],
+    "composition": 3,
+    "palette": 4
+  },
+  "does-checking-my-credit-score-lower-it": {
+    "subjects": [
+      "meter",
+      "shield"
+    ],
+    "composition": 2,
+    "palette": 1
+  },
+  "drawdown-vs-annuity-uk": {
+    "subjects": [
+      "wallet",
+      "clock"
+    ],
+    "composition": 0,
+    "palette": 0
+  },
+  "easy-access-vs-fixed-savings": {
+    "subjects": [
+      "wallet",
+      "lock"
+    ],
+    "composition": 2,
+    "palette": 0
+  },
+  "first-time-buyer-route-map-uk": {
+    "subjects": [
+      "steps",
+      "home"
+    ],
+    "composition": 5,
+    "palette": 5
+  },
+  "fixed-vs-tracker-vs-variable-mortgages": {
+    "subjects": [
+      "home",
+      "percent"
+    ],
+    "composition": 1,
+    "palette": 3
+  },
+  "flexible-isas-explained": {
+    "subjects": [
+      "jar",
+      "wallet"
+    ],
+    "composition": 2,
+    "palette": 2
+  },
+  "hicbc-explained": {
+    "subjects": [
+      "family",
+      "receipt"
+    ],
+    "composition": 3,
+    "palette": 0
+  },
+  "how-do-i-file-a-self-assessment-tax-return-for-the-first-time": {
+    "subjects": [
+      "laptop",
+      "document"
+    ],
+    "composition": 0,
+    "palette": 5
+  },
+  "how-does-pension-tax-relief-work-for-higher-rate-taxpayers": {
+    "subjects": [
+      "jar",
+      "receipt"
+    ],
+    "composition": 1,
+    "palette": 0
+  },
+  "how-does-premium-bonds-work-and-are-they-worth-it": {
+    "subjects": [
+      "ticket",
+      "jar"
+    ],
+    "composition": 3,
+    "palette": 5
+  },
+  "how-does-remortgaging-work-and-when-should-i-do-it": {
+    "subjects": [
+      "home",
+      "clock"
+    ],
+    "composition": 2,
+    "palette": 4
+  },
+  "how-does-the-personal-savings-allowance-work": {
+    "subjects": [
+      "jar",
+      "calculator"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "how-many-isas-can-i-have-at-once": {
+    "subjects": [
+      "plant",
+      "jar"
+    ],
+    "composition": 3,
+    "palette": 2
+  },
+  "how-much-can-i-borrow-on-my-salary-uk": {
+    "subjects": [
+      "home",
+      "calculator"
+    ],
+    "composition": 4,
+    "palette": 3
+  },
+  "how-much-can-i-earn-before-paying-tax-on-a-second-job": {
+    "subjects": [
+      "briefcase",
+      "calculator"
+    ],
+    "composition": 0,
+    "palette": 5
+  },
+  "how-much-can-i-gift-tax-free-uk": {
+    "subjects": [
+      "gift",
+      "receipt"
+    ],
+    "composition": 2,
+    "palette": 5
+  },
+  "how-much-deposit-do-i-need-as-a-first-time-buyer": {
+    "subjects": [
+      "coins",
+      "home"
+    ],
+    "composition": 1,
+    "palette": 5
+  },
+  "how-much-pension-do-i-need-to-retire-comfortably-uk": {
+    "subjects": [
+      "umbrella",
+      "calculator"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "how-much-tax-do-i-pay-on-rental-income-uk": {
+    "subjects": [
+      "key",
+      "receipt"
+    ],
+    "composition": 0,
+    "palette": 3
+  },
+  "how-much-tax-will-i-pay-if-i-withdraw-my-whole-pension": {
+    "subjects": [
+      "wallet",
+      "receipt"
+    ],
+    "composition": 1,
+    "palette": 3
+  },
+  "how-to-build-a-credit-score-from-scratch-uk": {
+    "subjects": [
+      "card",
+      "steps"
+    ],
+    "composition": 5,
+    "palette": 5
+  },
+  "how-to-build-an-emergency-fund-uk": {
+    "subjects": [
+      "umbrella",
+      "jar"
+    ],
+    "composition": 1,
+    "palette": 3
+  },
+  "how-to-combine-old-pensions-from-previous-jobs-uk": {
+    "subjects": [
+      "briefcase",
+      "jar"
+    ],
+    "composition": 2,
+    "palette": 1
+  },
+  "how-to-cut-energy-bill-uk": {
+    "subjects": [
+      "energy",
+      "receipt"
+    ],
+    "composition": 3,
+    "palette": 3
+  },
+  "how-to-declare-crypto-gains-to-hmrc": {
+    "subjects": [
+      "laptop",
+      "document"
+    ],
+    "composition": 3,
+    "palette": 2
+  },
+  "how-to-open-a-bank-account-as-a-new-arrival-to-the-uk": {
+    "subjects": [
+      "passport",
+      "bank"
+    ],
+    "composition": 0,
+    "palette": 1
+  },
+  "is-a-junior-isa-worth-it": {
+    "subjects": [
+      "family",
+      "plant"
+    ],
+    "composition": 3,
+    "palette": 3
+  },
+  "is-it-better-to-fix-for-2-or-5-years": {
+    "subjects": [
+      "home",
+      "calendar"
+    ],
+    "composition": 5,
+    "palette": 3
+  },
+  "isa-types-compared": {
+    "subjects": [
+      "plant",
+      "shield"
+    ],
+    "composition": 0,
+    "palette": 3
+  },
+  "lisa-vs-sipp-retirement": {
+    "subjects": [
+      "home",
+      "umbrella"
+    ],
+    "composition": 3,
+    "palette": 5
+  },
+  "lsa-lsdba-explained": {
+    "subjects": [
+      "jar",
+      "document"
+    ],
+    "composition": 4,
+    "palette": 0
+  },
+  "making-tax-digital-income-tax-april-2026": {
+    "subjects": [
+      "laptop",
+      "calendar"
+    ],
+    "composition": 1,
+    "palette": 4
+  },
+  "marriage-allowance-uk": {
+    "subjects": [
+      "family",
+      "gift"
+    ],
+    "composition": 2,
+    "palette": 1
+  },
+  "mortgage-overpayment-vs-invest": {
+    "subjects": [
+      "key",
+      "plant"
+    ],
+    "composition": 1,
+    "palette": 5
+  },
+  "nsi-products-overview-uk": {
+    "subjects": [
+      "bank",
+      "ticket"
+    ],
+    "composition": 1,
+    "palette": 5
+  },
+  "offset-mortgage-uk": {
+    "subjects": [
+      "home",
+      "jar"
+    ],
+    "composition": 0,
+    "palette": 1
+  },
+  "pension-auto-enrolment-explained": {
+    "subjects": [
+      "briefcase",
+      "shield"
+    ],
+    "composition": 4,
+    "palette": 5
+  },
+  "pensions-inheritance-tax-april-2027": {
+    "subjects": [
+      "family",
+      "calendar"
+    ],
+    "composition": 1,
+    "palette": 3
+  },
+  "premium-bonds-maths": {
+    "subjects": [
+      "ticket",
+      "calculator"
+    ],
+    "composition": 5,
+    "palette": 3
+  },
+  "remortgaging-timeline-uk": {
+    "subjects": [
+      "calendar",
+      "key"
+    ],
+    "composition": 2,
+    "palette": 3
+  },
+  "shared-ownership-uk": {
+    "subjects": [
+      "family",
+      "home"
+    ],
+    "composition": 5,
+    "palette": 1
+  },
+  "sipp-vs-workplace-pension": {
+    "subjects": [
+      "jar",
+      "briefcase"
+    ],
+    "composition": 2,
+    "palette": 3
+  },
+  "smart-meter-uk-explained": {
+    "subjects": [
+      "meter",
+      "energy"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "state-pension-age-66-to-67-phase-in": {
+    "subjects": [
+      "clock",
+      "calendar"
+    ],
+    "composition": 3,
+    "palette": 5
+  },
+  "student-loan-repayment-thresholds-uk": {
+    "subjects": [
+      "cap",
+      "calculator"
+    ],
+    "composition": 1,
+    "palette": 4
+  },
+  "tax-year-end-checklist-uk": {
+    "subjects": [
+      "calendar",
+      "document"
+    ],
+    "composition": 0,
+    "palette": 5
+  },
+  "transferring-isa-uk": {
+    "subjects": [
+      "bank",
+      "plant"
+    ],
+    "composition": 5,
+    "palette": 1
+  },
+  "uk-cashback-credit-cards-explained": {
+    "subjects": [
+      "card",
+      "gift"
+    ],
+    "composition": 1,
+    "palette": 0
+  },
+  "uk-cashback-current-accounts": {
+    "subjects": [
+      "bank",
+      "coins"
+    ],
+    "composition": 2,
+    "palette": 3
+  },
+  "uk-cashback-explained": {
+    "subjects": [
+      "gift",
+      "wallet"
+    ],
+    "composition": 1,
+    "palette": 1
+  },
+  "uk-energy-price-cap-explained": {
+    "subjects": [
+      "energy",
+      "shield"
+    ],
+    "composition": 3,
+    "palette": 1
+  },
+  "uk-household-bills-cashback-value-ons-data": {
+    "subjects": [
+      "home",
+      "calculator"
+    ],
+    "composition": 3,
+    "palette": 2
+  },
+  "uk-personal-finance-order-of-operations": {
+    "subjects": [
+      "steps",
+      "wallet"
+    ],
+    "composition": 5,
+    "palette": 5
+  },
+  "uk-tax-codes-explained": {
+    "subjects": [
+      "document",
+      "calculator"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "what-changed-this-tax-year": {
+    "subjects": [
+      "calendar",
+      "receipt"
+    ],
+    "composition": 1,
+    "palette": 3
+  },
+  "what-credit-cards-can-i-get-with-no-uk-credit-history": {
+    "subjects": [
+      "card",
+      "passport"
+    ],
+    "composition": 1,
+    "palette": 2
+  },
+  "what-credit-score-do-i-need-for-a-mortgage-uk": {
+    "subjects": [
+      "meter",
+      "home"
+    ],
+    "composition": 0,
+    "palette": 3
+  },
+  "what-documents-do-i-need-to-open-a-uk-bank-account": {
+    "subjects": [
+      "document",
+      "bank"
+    ],
+    "composition": 3,
+    "palette": 2
+  },
+  "what-expenses-can-i-claim-as-self-employed-uk": {
+    "subjects": [
+      "receipt",
+      "briefcase"
+    ],
+    "composition": 5,
+    "palette": 3
+  },
+  "what-fees-do-i-pay-when-buying-a-house-uk": {
+    "subjects": [
+      "key",
+      "calculator"
+    ],
+    "composition": 3,
+    "palette": 2
+  },
+  "what-happens-to-my-isa-if-i-move-abroad": {
+    "subjects": [
+      "plant",
+      "globe"
+    ],
+    "composition": 5,
+    "palette": 2
+  },
+  "what-happens-to-my-isa-when-i-die-uk": {
+    "subjects": [
+      "plant",
+      "family"
+    ],
+    "composition": 0,
+    "palette": 4
+  },
+  "what-happens-to-my-lisa-if-i-buy-a-house-over-450k": {
+    "subjects": [
+      "home",
+      "lock"
+    ],
+    "composition": 2,
+    "palette": 5
+  },
+  "what-happens-to-my-mortgage-if-i-lose-my-job": {
+    "subjects": [
+      "home",
+      "umbrella"
+    ],
+    "composition": 4,
+    "palette": 2
+  },
+  "what-happens-to-my-pension-if-i-leave-the-uk-permanently": {
+    "subjects": [
+      "umbrella",
+      "globe"
+    ],
+    "composition": 3,
+    "palette": 3
+  },
+  "what-happens-to-my-pension-when-i-die": {
+    "subjects": [
+      "umbrella",
+      "family"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "what-happens-to-my-workplace-pension-if-i-change-jobs": {
+    "subjects": [
+      "briefcase",
+      "steps"
+    ],
+    "composition": 5,
+    "palette": 5
+  },
+  "what-is-a-flexible-isa-and-how-does-it-work": {
+    "subjects": [
+      "wallet",
+      "plant"
+    ],
+    "composition": 4,
+    "palette": 2
+  },
+  "what-is-a-guarantor-mortgage-and-how-does-it-work": {
+    "subjects": [
+      "home",
+      "shield"
+    ],
+    "composition": 3,
+    "palette": 2
+  },
+  "what-is-a-regular-saver-account-and-is-it-worth-it": {
+    "subjects": [
+      "calendar",
+      "coins"
+    ],
+    "composition": 1,
+    "palette": 5
+  },
+  "what-is-the-25-percent-tax-free-pension-lump-sum": {
+    "subjects": [
+      "jar",
+      "percent"
+    ],
+    "composition": 1,
+    "palette": 4
+  },
+  "what-is-the-annual-allowance-for-pension-contributions": {
+    "subjects": [
+      "jar",
+      "calendar"
+    ],
+    "composition": 5,
+    "palette": 0
+  },
+  "what-is-the-best-way-to-save-for-a-house-deposit": {
+    "subjects": [
+      "plant",
+      "key"
+    ],
+    "composition": 0,
+    "palette": 5
+  },
+  "what-is-the-difference-between-apr-and-aer": {
+    "subjects": [
+      "percent",
+      "calculator"
+    ],
+    "composition": 0,
+    "palette": 5
+  },
+  "what-is-the-personal-allowance-and-how-does-it-work": {
+    "subjects": [
+      "shield",
+      "receipt"
+    ],
+    "composition": 3,
+    "palette": 3
+  },
+  "what-is-the-trading-allowance-and-how-does-it-work": {
+    "subjects": [
+      "briefcase",
+      "calculator"
+    ],
+    "composition": 4,
+    "palette": 2
+  }
+}

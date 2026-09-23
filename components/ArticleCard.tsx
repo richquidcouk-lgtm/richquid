@@ -12,7 +12,7 @@ function formatDate(iso: string): string {
 export default function ArticleCard({ post }: { post: GuideMeta }) {
   return (
     <article className="group flex h-full flex-col rounded-lg border border-rule bg-white p-5 transition-shadow hover:shadow-sm">
-      <Image src={post.featuredImage || guideArt(post.category)} alt="" width={900} height={360} className="mb-5 aspect-[5/2] w-full rounded-md object-cover" />
+      <Image src={post.featuredImage || guideArt(post.category, post.slug)} alt="" width={900} height={360} className="mb-5 aspect-[5/2] w-full rounded-md object-cover" />
       <div className="metadata mb-3 flex items-center gap-2">
         <span className="inline-block rounded-full bg-[color:var(--green-soft)] px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wider text-[color:var(--green)]">
           {post.category}
