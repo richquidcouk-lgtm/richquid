@@ -4,6 +4,9 @@ import { TOOL_READING } from '@/lib/tool-reading'
 import { getTool } from '@/lib/tools'
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
+import { guideArt } from '@/lib/guide-art'
+import GuideVisual from '@/components/GuideVisual'
 import { notFound } from 'next/navigation'
 import { compileMDX } from 'next-mdx-remote/rsc'
 import remarkGfm from 'remark-gfm'
@@ -129,6 +132,7 @@ export default async function GuidePage({ params }: Props) {
         </header>
 
         <p className="my-6 text-lg leading-relaxed">{guide.excerpt}</p>
+        <Image src={guide.featuredImage || guideArt(guide.category)} alt="" width={900} height={360} className="my-6 aspect-[5/2] w-full rounded-xl object-cover" />
         {navigation.headings.length > 0 && <nav aria-label="On this page" className="my-6 rounded border border-rule p-5">
           <p className="font-semibold">On this page</p>
           <ul className="mt-3 space-y-2">{navigation.headings.map(item => <li key={item.id}><a className="text-sm underline" href={`#${item.id}`}>{item.title}</a></li>)}</ul>
@@ -138,6 +142,8 @@ export default async function GuidePage({ params }: Props) {
         <div className="prose prose-lg max-w-prose">
           {content}
         </div>
+
+        <GuideVisual slug={guide.slug} />
 
         {navigation.sources.length > 0 && <section aria-label="Sources referenced in this guide" className="my-8 border-t border-rule pt-6">
           <h2 className="font-serif-display text-2xl">Sources referenced in this guide</h2>

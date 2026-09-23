@@ -22,7 +22,8 @@ for (const name of files) {
     references++
   }
 }
-assert.equal(files.length,116)
+const expectedGuides = fs.readdirSync('content/guides').filter(name => name.endsWith('.mdx')).map(name => name.replace(/\.mdx$/, '.html')).sort()
+assert.deepEqual([...files].sort(), expectedGuides)
 const sitemap=fs.readFileSync('public/sitemap-0.xml','utf8')
 const urls=[...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(match=>match[1])
 assert.ok(urls.includes('https://www.richquid.co.uk/guides/category/banking-and-credit'))

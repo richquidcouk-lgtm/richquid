@@ -1,6 +1,7 @@
 'use client'
 import { useState, type FormEvent } from 'react'
 import Link from 'next/link'
+import ValueBars from '@/components/ValueBars'
 import { calculateCashback } from '@/lib/cashback'
 import { trackToolEvent } from '@/lib/analytics'
 
@@ -56,6 +57,7 @@ export default function CashbackCalculator() {
           <p className="mt-5 text-sm">Results are estimates rounded to pennies. Provider rounding may differ.</p></>}
       </aside>
     </div>
+    {result && <ValueBars title="Your cashback at a glance" description={changed ? 'Inputs changed. Calculate again to update this chart; it shows your last calculation.' : 'Annual amounts from your last calculation. The first-year value includes your entered bonus.'} items={[{ label: 'Cashback before costs', value: result.annualReward, tone: 'gold' }, { label: 'Recurring net value', value: result.recurringNet }, { label: 'First-year net value', value: result.firstYearNet }]} />}
     <div className="mt-8 border-t border-rule pt-6 text-sm leading-relaxed"><h2 className="font-serif-display text-2xl">How we calculate the reward</h2><p className="mt-3">Monthly cashback is eligible spending × the rate, limited by the monthly cap. Multiply by qualifying months, then subtract twelve monthly fees, any annual fee and your entered other costs. Add the bonus only to the first-year result.</p><p className="mt-3">Example: £1,500 a month at 1%, capped at £10, gives £120 cashback over twelve qualifying months. A £2 monthly fee reduces this to £96. A £100 one-off bonus makes the first-year value £196; recurring value remains £96.</p><p className="mt-3">This model does not cover fixed monthly rewards, multiple spending bands, changing monthly spending, foreign-exchange costs you have not entered, or promotional rates that change within the year. A monthly cap cannot be averaged across quieter months. Only include a bonus you qualify for.</p><p className="mt-3">Read the <Link className="underline" href="/guides/uk-cashback-current-accounts">current-account guide</Link> or <Link className="underline" href="/guides/uk-cashback-credit-cards-explained">credit-card guide</Link> before comparing products.</p></div>
   </section>
 }
